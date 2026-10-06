@@ -62,3 +62,5 @@ docs/             开发和迁移说明
 每次推送或发起 Pull Request 时，`Build and verify website` 会自动安装依赖与 Git LFS 资源，执行类型检查、单元测试、静态生成、资源检查和浏览器验收。也可以在 GitHub 的 Actions 页面手动运行。
 
 全部通过后，在对应运行记录的 **Artifacts** 中下载 `english-again-static`，解压后把其中的文件部署到 Nginx 网站根目录即可。产物保留 7 天；当前工作流只生成部署包，不连接服务器。
+
+生产站点：<https://english.tlpy8.com>。Nginx 配置、发布与回滚步骤见 [部署说明](deploy/README.md)。
