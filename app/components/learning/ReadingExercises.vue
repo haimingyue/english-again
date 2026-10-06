@@ -25,30 +25,30 @@ function change(direction: number) {
           <div
             class="eyebrow text-[12px] font-[650] tracking-[.09em] mb-[19px] min-[701px]:text-[13px] min-[701px]:mb-[24px]"
           >
-            04 / 撤掉提示，换一句试试
+            05 / 使用书中例句练习
           </div>
           <h2
             class="text-[29px] font-bold tracking-[-.045em] leading-[1.45] mb-0 ml-0 mr-0 mt-0 max-w-[760px] min-[701px]:text-[34px] min-[701px]:leading-[1.4] min-[961px]:text-[38px]"
           >
-            看懂讲解之后，<br />给自己一次独立理解的机会。
+            把书中的方法，<br />用到具体句子里。
           </h2>
         </div>
         <p
           class="section-intro [color:var(--muted)] text-[15px] leading-[1.9] mb-0 ml-0 mr-0 mt-[18px] max-w-[640px] min-[701px]:text-[16px] min-[701px]:mt-[24px] min-[961px]:mt-0 min-[961px]:max-w-[330px] min-[1201px]:max-w-[380px]"
         >
-          每次只关注一个问题。先尝试回答，再核对依据；答错的地方，就是下一次练习的起点。
+          按照刚才的步骤阅读，再查看句子的理解过程，比较词义和语序上容易产生的误解。
         </p>
       </div>
       <div
         class="transfer-card [background:#f7f4fc] [border:1px_solid_#bdb6d2] mb-0 ml-auto mr-auto mt-0 max-w-[1000px] pb-[12px] pl-[22px] pr-[22px] pt-[22px] min-[701px]:pb-[18px] min-[701px]:pl-[38px] min-[701px]:pr-[38px] min-[701px]:pt-[30px]"
       >
         <div
-          class="transfer-top [color:#635b77] gap-x-[14px] flex text-[10px] justify-between gap-y-[14px] min-[701px]:gap-x-[20px] min-[701px]:text-[11px] min-[701px]:gap-y-[20px]"
+          class="transfer-top flex-wrap leading-[1.8] [color:#635b77] gap-x-[14px] flex text-[10px] justify-between gap-y-[14px] min-[701px]:gap-x-[20px] min-[701px]:text-[11px] min-[701px]:gap-y-[20px]"
         >
           <span id="exercise-kind">{{
             `${index + 1} / ${exercises.length} · ${exercise.kind}`
           }}</span>
-          <span>本站自编练习</span>
+          <span>{{ exercise.source }}</span>
         </div>
         <p
           class="[font-family:Georgia,serif] text-[28px] [font-style:normal] leading-[1.55] mb-[22px] ml-0 mr-0 mt-[22px] min-h-[132px] min-[701px]:text-[34px] min-[701px]:leading-[1.6] min-[701px]:mb-[20px] min-[701px]:mt-[25px] min-[701px]:min-h-[110px]"
@@ -71,7 +71,7 @@ function change(direction: number) {
           id="check-exercise"
           type="button"
         >
-          {{ revealed ? "收起答案，再读一次 ↑" : "我想好了，核对理解 ↓" }}
+          {{ revealed ? "收起讲解 ↑" : "查看书中方法的讲解 ↓" }}
         </button>
         <div
           class="exercise-answer [background:#e7e1f1] [border-left:3px_solid_#827396] mb-0 ml-0 mr-0 mt-[22px] pb-[17px] pl-[17px] pr-[17px] pt-[17px] min-[701px]:pb-[20px] min-[701px]:pl-[23px] min-[701px]:pr-[23px] min-[701px]:pt-[20px]"
