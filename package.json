@@ -1,0 +1,35 @@
+{
+  "name": "english-again",
+  "private": true,
+  "type": "module",
+  "version": "1.0.0",
+  "engines": {
+    "node": "^22.22.3 || ^24.15.0 || >=26.0.0"
+  },
+  "scripts": {
+    "dev": "nuxt dev --host 127.0.0.1",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "typecheck": "nuxt typecheck",
+    "test": "node --experimental-strip-types --test tests/unit/*.test.ts",
+    "test:e2e": "playwright test",
+    "check": "npm run typecheck && npm test",
+    "check:static": "node scripts/check-nuxt.mjs"
+  },
+  "dependencies": {
+    "nuxt": "4.6.0",
+    "vue": "3.5.43"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "4.13.0",
+    "@playwright/test": "1.63.0",
+    "@tailwindcss/vite": "4.3.3",
+    "@types/node": "^24.19.1",
+    "prettier": "^3.6.2",
+    "tailwindcss": "4.3.3",
+    "typescript": "~5.9.3",
+    "vue-tsc": "3.3.12"
+  }
+}

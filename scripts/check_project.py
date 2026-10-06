@@ -12,6 +12,7 @@ import hashlib
 import json
 import re
 import sys
+import os
 
 ROOT = Path(__file__).resolve().parent.parent
 SITE = ROOT/'site'
@@ -31,6 +32,14 @@ class Page(HTMLParser):
                 self.ids.append(value)
             if name in URL_ATTRIBUTES and value:
                 self.urls.append(value)
+
+def source_files():
+    """Exclude build dependencies and generated browser evidence from source inventory."""
+    excluded = {".git", "node_modules", ".venv", ".nuxt", ".output", ".cache", ".data", "coverage", "playwright-report", "test-results"}
+    for folder, dirs, names in os.walk(ROOT):
+        dirs[:] = [d for d in dirs if d not in excluded and Path(folder)/d != ROOT/"design/qa"]
+        for name in names:
+            yield Path(folder)/name
 
 def digest(path):
     h = hashlib.sha256()
@@ -84,7 +93,9 @@ def main():
             check_url(p,url,p.parent)
         for url in re.findall(r'''fetch\(["']([^"']+)["']''',text):
             check_url(p,url,SITE)
-    for p in ROOT.rglob('*.json'):
+    for p in source_files():
+        if p.suffix != '.json':
+            continue
         try:
             json.loads(p.read_text())
         except ValueError as exc:
@@ -105,8 +116,9 @@ def main():
                 errors.append(f'Media bytes changed: {item["path"]} -> {item["destination"]}')
             preserved += 1
     media = []
-    for p in sorted(ROOT.rglob('*')):
-        if p.is_file() and p.suffix.lower() in MEDIA:
+    for p in sorted(source_files()):
+        # Design aliases may point to a canonical public asset; count it once.
+        if p.is_file() and not p.is_symlink() and p.suffix.lower() in MEDIA:
             path = str(p.relative_to(ROOT))
             sha = hashes.get(path) or digest(p)
             media.append({'path':path,'type':p.suffix[1:],'bytes':p.stat().st_size,'sha256':sha,'original_paths':origins[path],'referenced_by':sorted(references[path]),'site_url':str(p.relative_to(SITE)) if p.is_relative_to(SITE) else None})

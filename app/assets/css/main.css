@@ -1,0 +1,130 @@
+@import "tailwindcss";
+@import "./interaction-states.css";
+
+@theme {
+  --color-ink: #172820;
+  --color-forest: #245c4d;
+  --color-paper: #f7f3eb;
+  --color-sun: #f7d84a;
+  --color-lavender: #ded9f0;
+  --color-sage: #e2e8d8;
+  --color-muted: #596259;
+  --color-line: #d9d9ce;
+  --font-sans:
+    -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei",
+    sans-serif;
+}
+
+@layer base {
+  :root {
+    --ink: var(--color-ink);
+    --green: var(--color-forest);
+    --paper: var(--color-paper);
+    --yellow: var(--color-sun);
+    --lavender: var(--color-lavender);
+    --sage: var(--color-sage);
+    --muted: var(--color-muted);
+    --line: var(--color-line);
+    --white: #fff;
+  }
+  html {
+    @apply scroll-smooth;
+    scroll-padding-top: 32px;
+  }
+  body {
+    @apply m-0 bg-paper font-sans text-base leading-[1.7] text-ink;
+  }
+  h1,
+  h2,
+  h3,
+  p,
+  figure {
+    margin: 0;
+  }
+  h1,
+  h2,
+  h3 {
+    line-height: 1.25;
+    letter-spacing: -0.045em;
+  }
+  h3 {
+    font-weight: 700;
+  }
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  button {
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+    border: 0;
+  }
+  button:disabled {
+    cursor: default;
+  }
+  button,
+  a {
+    -webkit-tap-highlight-color: transparent;
+  }
+  img {
+    max-width: 100%;
+    display: block;
+  }
+  button:focus-visible,
+  a:focus-visible,
+  summary:focus-visible,
+  input:focus-visible,
+  select:focus-visible {
+    outline: 3px solid #4775d1;
+    outline-offset: 5px;
+  }
+  summary {
+    list-style: none;
+    cursor: pointer;
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  [hidden] {
+    display: none !important;
+  }
+  body:has(dialog[open]) {
+    overflow: hidden;
+  }
+  dialog {
+    margin: auto;
+  }
+  dialog::backdrop {
+    background: #091c15c9;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation: none !important;
+      transition: none !important;
+    }
+  }
+}
+
+@utility page-shell {
+  width: min(1280px, calc(100% - 112px));
+  margin-inline: auto;
+  @media (max-width: 1200px) {
+    width: calc(100% - 64px);
+  }
+  @media (max-width: 700px) {
+    width: calc(100% - 40px);
+  }
+}
+@utility action-link {
+  @apply inline-flex min-h-11 items-center gap-4 bg-transparent p-0 text-sm font-semibold hover:underline;
+  text-underline-offset: 5px;
+}
+@utility primary-button {
+  @apply inline-flex min-h-14 items-center justify-center gap-6 rounded-full bg-sun px-7 py-3.5 text-base font-semibold text-ink transition hover:-translate-y-0.5 hover:bg-[#ffe271];
+}

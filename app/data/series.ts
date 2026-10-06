@@ -1,0 +1,653 @@
+import type { Video } from "~/utils/catalog";
+
+export interface VideoSeries {
+  id: string;
+  route: string;
+  label: string;
+  eyebrow: string;
+  title: string;
+  lede: string;
+  note: string;
+  startUrl: string;
+  startLabel: string;
+  book: string | null;
+  bookAlt: string;
+  stamp: string;
+  sectionEyebrow: string;
+  sectionTitle: string;
+  sectionIntro: string;
+  filterNote: string;
+  fallback: string | null;
+  videos: Video[];
+}
+
+export const videoSeries = {
+  weekly: {
+    id: "weekly",
+    route: "/columns",
+    label: "每周课程",
+    eyebrow: "视频专栏 · 一周一个学习主题",
+    title: "每周学一点，\n把英语用起来。",
+    lede: "从发音和基础词汇开始，再到语法与句子。\n跟着视频理解，到 Anki 复习，然后放进自己的生活。",
+    note: "25 周内容 · 24 集课程 + 1 集开篇 · 第 3–4 周合为一集",
+    startUrl: "https://www.bilibili.com/video/BV1gNd6BqEnJ/",
+    startLabel: "从开篇开始 ↗",
+    book: null,
+    bookAlt: "",
+    stamp: "",
+    sectionEyebrow: "每周课程 / VIDEO LIBRARY",
+    sectionTitle: "跟着周次，一步步往前。",
+    sectionIntro:
+      "点击卡片，前往 Bilibili 观看。\n配套学习笔记可以单独放大查看。",
+    filterNote: "",
+    fallback: null,
+    videos: [
+      {
+        title:
+          "52周，10 个阶段，我们重学一次英语！我开了个英语自学专栏，一起玩一年。",
+        topic: "开篇介绍与学习计划",
+        url: "https://www.bilibili.com/video/BV1gNd6BqEnJ/",
+        thumbnail: "/assets/images/columns/intro.webp",
+        category: "导览",
+        label: "开篇",
+        duration_seconds: 1105,
+        original: "/assets/images/columns/originals/intro.png",
+        weeks: [],
+      },
+      {
+        title: "一起学一年英语，搞定听说读写。第一周任务来啦",
+        topic: "辅音",
+        url: "https://www.bilibili.com/video/BV1pddfBLEze/",
+        thumbnail: "/assets/images/columns/week-01.svg",
+        category: "发音",
+        label: "第 1 周",
+        duration_seconds: 745,
+        original: "/assets/images/columns/week-01.svg",
+        weeks: [1],
+      },
+      {
+        title: "怎么学元音 | 英语自学指北 第二周 | 进度4%，我一定能更新完的",
+        topic: "元音",
+        url: "https://www.bilibili.com/video/BV1YboQBCEBj/",
+        thumbnail: "/assets/images/columns/week-02.webp",
+        category: "发音",
+        label: "第 2 周",
+        duration_seconds: 785,
+        original: "/assets/images/columns/originals/week-02.png",
+        weeks: [2],
+      },
+      {
+        title:
+          "从 100 个单词、100 个句子开启不一样的英语学习之旅 ｜ 英语自学指北第四周 ｜ 进度 8%，我一定可以更新完的，加油",
+        topic: "100 个单词与 100 个句子",
+        url: "https://www.bilibili.com/video/BV1399RBVEfD/",
+        thumbnail: "/assets/images/columns/week-03-04.webp",
+        category: "词汇",
+        label: "第 3–4 周",
+        duration_seconds: 1295,
+        original: "/assets/images/columns/originals/week-03-04.png",
+        weeks: [3, 4],
+      },
+      {
+        title:
+          "我们一起用剑桥出版的《Essential grammar in use》学习基础语法 ｜ 一年学习进度 10%，我一定会完成这个专栏的",
+        topic: "基础语法入门",
+        url: "https://www.bilibili.com/video/BV1Yz5J6EEc9/",
+        thumbnail: "/assets/images/columns/week-05.webp",
+        category: "语法",
+        label: "第 5 周",
+        duration_seconds: 1239,
+        original: "/assets/images/columns/originals/week-05.png",
+        weeks: [5],
+      },
+      {
+        title:
+          "一个视频彻底搞懂一般现在时和现在进行时的区别 ｜ 英语自学指北week6  ｜ 进度12%，我一定会完成这个专栏的",
+        topic: "一般现在时与现在进行时",
+        url: "https://www.bilibili.com/video/BV1zpL56mEdU/",
+        thumbnail: "/assets/images/columns/week-06.webp",
+        category: "语法",
+        label: "第 6 周",
+        duration_seconds: 1263,
+        original: "/assets/images/columns/originals/week-06.png",
+        weeks: [6],
+      },
+      {
+        title:
+          "自学指北专栏第七周，搞清楚英语中的“过去” ｜ 100个单词，130 个句子，30 张语法牌",
+        topic: "过去时",
+        url: "https://www.bilibili.com/video/BV1UHGL64E1y/",
+        thumbnail: "/assets/images/columns/week-07.webp",
+        category: "语法",
+        label: "第 7 周",
+        duration_seconds: 1036,
+        original: "/assets/images/columns/originals/week-07.png",
+        weeks: [7],
+      },
+      {
+        title:
+          "终于完成 625 单词的学习，今天我们学习现在完成时 ｜ 自学指北，第八周！ 进度 15%",
+        topic: "现在完成时与 625 单词学习",
+        url: "https://www.bilibili.com/video/BV1tjVQ68E5v/",
+        thumbnail: "/assets/images/columns/week-08.webp",
+        category: "语法",
+        label: "第 8 周",
+        duration_seconds: 1423,
+        original: "/assets/images/columns/originals/week-08.png",
+        weeks: [8],
+      },
+      {
+        title: "英语中的被动以及如何表达未来 ｜ 英语自学指北 第九周",
+        topic: "被动与未来表达",
+        url: "https://www.bilibili.com/video/BV14FEb6rEHv/",
+        thumbnail: "/assets/images/columns/week-09.webp",
+        category: "语法",
+        label: "第 9 周",
+        duration_seconds: 1264,
+        original: "/assets/images/columns/originals/week-09.png",
+        weeks: [9],
+      },
+      {
+        title:
+          "一个视频搞定 might 、should、can、could、must、would、I have to 的区别和使用场景 ｜ 英语自学指北 第十周",
+        topic: "情态动词",
+        url: "https://www.bilibili.com/video/BV1wiJK6rEbm/",
+        thumbnail: "/assets/images/columns/week-10.webp",
+        category: "语法",
+        label: "第 10 周",
+        duration_seconds: 1206,
+        original: "/assets/images/columns/originals/week-10.png",
+        weeks: [10],
+      },
+      {
+        title: "一不小心把专栏做到第十一周了｜ 英语自学指北",
+        topic: "祈使句、used to、there be 与 it",
+        url: "https://www.bilibili.com/video/BV1Ufj76CEmR/",
+        thumbnail: "/assets/images/columns/week-11.webp",
+        category: "语法",
+        label: "第 11 周",
+        duration_seconds: 1061,
+        original: "/assets/images/columns/originals/week-11.png",
+        weeks: [11],
+      },
+      {
+        title: "18 分钟搞定助动词 ｜这是我们学习的第十二周，全年进度 23%",
+        topic: "助动词",
+        url: "https://www.bilibili.com/video/BV1XjTT6FEY9/",
+        thumbnail: "/assets/images/columns/week-12.webp",
+        category: "语法",
+        label: "第 12 周",
+        duration_seconds: 1136,
+        original: "/assets/images/columns/originals/week-12.png",
+        weeks: [12],
+      },
+      {
+        title:
+          "如何用英语提问？把陈述句变成疑问句的三个手段 ｜ 英语自学指北第十三周",
+        topic: "疑问句",
+        url: "https://www.bilibili.com/video/BV1YSMu6uETD/",
+        thumbnail: "/assets/images/columns/week-13.webp",
+        category: "语法",
+        label: "第 13 周",
+        duration_seconds: 1363,
+        original: "/assets/images/columns/originals/week-13.png",
+        weeks: [13],
+      },
+      {
+        title:
+          "to do 还是 doing？英语动词搭配终于讲明白了｜英语自学指北·第14周",
+        topic: "to do 与 doing",
+        url: "https://www.bilibili.com/video/BV1qMNK6fEqM/",
+        thumbnail: "/assets/images/columns/week-14.webp",
+        category: "语法",
+        label: "第 14 周",
+        duration_seconds: 1009,
+        original: "/assets/images/columns/originals/week-14.png",
+        weeks: [14],
+      },
+      {
+        title:
+          "这周搞懂了 Go、Get、Do、Have，千词达成 ｜ 自学指北进度15 周，进度一半了",
+        topic: "Go、Get、Do、Have",
+        url: "https://www.bilibili.com/video/BV1jrKK6cEVt/",
+        thumbnail: "/assets/images/columns/week-15.webp",
+        category: "语法",
+        label: "第 15 周",
+        duration_seconds: 1033,
+        original: "/assets/images/columns/originals/week-15.png",
+        weeks: [15],
+      },
+      {
+        title:
+          "代词和所有格 ｜ pronouns和possessives ｜ 英语自学指北 - 第十六周",
+        topic: "代词与所有格",
+        url: "https://www.bilibili.com/video/BV1ok3E61EoZ/",
+        thumbnail: "/assets/images/columns/week-16.webp",
+        category: "语法",
+        label: "第 16 周",
+        duration_seconds: 879,
+        original: "/assets/images/columns/originals/week-16.png",
+        weeks: [16],
+      },
+      {
+        title: "关于 a an the 的一次全面学习，长达 30 分钟｜ 自学指北第 17 周",
+        topic: "冠词 a、an、the",
+        url: "https://www.bilibili.com/video/BV1eCum6DEZU/",
+        thumbnail: "/assets/images/columns/week-17.webp",
+        category: "语法",
+        label: "第 17 周",
+        duration_seconds: 1650,
+        original: "/assets/images/columns/originals/week-17.png",
+        weeks: [17],
+      },
+      {
+        title: "第18周：this/that、one/ones、some/any 一次讲清 ｜ 英语自学指北",
+        topic: "this/that、one/ones、some/any",
+        url: "https://www.bilibili.com/video/BV1HdbQ6ZEcR/",
+        thumbnail: "/assets/images/columns/week-18.webp",
+        category: "语法",
+        label: "第 18 周",
+        duration_seconds: 1228,
+        original: "/assets/images/columns/originals/week-18.png",
+        weeks: [18],
+      },
+      {
+        title:
+          "学了好多年都学不明白的 many, much, many of, much of, a lot of, 等 ｜ 英语自学指北 19 周",
+        topic: "many、much 等数量表达",
+        url: "https://www.bilibili.com/video/BV1D78m6cEKP/",
+        thumbnail: "/assets/images/columns/week-19.webp",
+        category: "语法",
+        label: "第 19 周",
+        duration_seconds: 1263,
+        original: "/assets/images/columns/originals/week-19.png",
+        weeks: [19],
+      },
+      {
+        title: "30分钟，英语中形容词、副词的全面学习 ｜ 英语自学指北 20 周",
+        topic: "形容词与副词",
+        url: "https://www.bilibili.com/video/BV11A4U6UErq/",
+        thumbnail: "/assets/images/columns/week-20.webp",
+        category: "语法",
+        label: "第 20 周",
+        duration_seconds: 1784,
+        original: "/assets/images/columns/originals/week-20.png",
+        weeks: [20],
+      },
+      {
+        title: "一个单词，在句子里应该放在什么位置? | 英语自学指北 21 周",
+        topic: "单词在句子中的位置",
+        url: "https://www.bilibili.com/video/BV1B1t26KE5c/",
+        thumbnail: "/assets/images/columns/week-21.webp",
+        category: "语法",
+        label: "第 21 周",
+        duration_seconds: 855,
+        original: "/assets/images/columns/originals/week-21.png",
+        weeks: [21],
+      },
+      {
+        title: "如何把简单句组成长句子？ ｜ 英语自学指北 22 周",
+        topic: "简单句组成长句",
+        url: "https://www.bilibili.com/video/BV1hGYX6DEPV/",
+        thumbnail: "/assets/images/columns/week-22.webp",
+        category: "语法",
+        label: "第 22 周",
+        duration_seconds: 1546,
+        original: "/assets/images/columns/originals/week-22.png",
+        weeks: [22],
+      },
+      {
+        title:
+          "为什么是 at work，却是 in bed？英语介词到底怎么选 ｜ 英语自学指北第 23 周",
+        topic: "介词",
+        url: "https://www.bilibili.com/video/BV124at63EBK/",
+        thumbnail: "/assets/images/columns/week-23.webp",
+        category: "语法",
+        label: "第 23 周",
+        duration_seconds: 1294,
+        original: "/assets/images/columns/originals/week-23.png",
+        weeks: [23],
+      },
+      {
+        title: "英语里的这些“小词”，才是最麻烦的！｜英语自学指北 Week 24",
+        topic: "英语中的“小词”",
+        url: "https://www.bilibili.com/video/BV1PpHW6wE8e/",
+        thumbnail: "/assets/images/columns/week-24.webp",
+        category: "语法",
+        label: "第 24 周",
+        duration_seconds: 1341,
+        original: "/assets/images/columns/originals/week-24.png",
+        weeks: [24],
+      },
+      {
+        title: "Phrasal verbs 短语动词是啥？｜英语自学指北第 25 周",
+        topic: "Phrasal verbs 短语动词",
+        url: "https://www.bilibili.com/video/BV1jCpF6WEeU/",
+        thumbnail: "/assets/images/columns/week-25.webp",
+        category: "语法",
+        label: "第 25 周",
+        duration_seconds: 564,
+        original: "/assets/images/columns/originals/week-25.png",
+        weeks: [25],
+      },
+    ],
+  },
+  fluent: {
+    id: "fluent",
+    route: "/fluent-forever",
+    label: "Fluent Forever",
+    eyebrow: "读书视频 · 把方法变成英语练习",
+    title: "从声音开始，\n找到自己的学习路线。",
+    lede: "围绕 Fluent Forever，聊聊记忆、发音、词汇和语法。\n带着自己的问题看，再选一个方法试一试。",
+    note: "8 集读书视频 · 配合音标、语法与词汇页面练习",
+    startUrl: "https://www.bilibili.com/video/BV1WNzQBEE23/",
+    startLabel: "观看第一集 ↗",
+    book: "/assets/images/books/fluent-forever.png",
+    bookAlt: "Fluent Forever 书封",
+    stamp: "8 集读书视频",
+    sectionEyebrow: "Fluent Forever / VIDEO LIBRARY",
+    sectionTitle: "让语言学习，有方法可循。",
+    sectionIntro:
+      "点击卡片，前往 Bilibili 观看。\n看完一集，试着把一个方法用到今天的练习中。",
+    filterNote: "从第一集开始，也可以按标题找到感兴趣的话题。",
+    fallback: "/assets/images/books/fluent-forever.png",
+    videos: [
+      {
+        title:
+          "如果只读一本“英语学习方法论”的书，那一定是这本 | Fluent Forever",
+        topic: "英语学习的方法论",
+        url: "https://www.bilibili.com/video/BV1WNzQBEE23/",
+        thumbnail:
+          "https://i2.hdslb.com/bfs/archive/3170d6952b6f87119e390f9866ca606bed56a2c6.jpg",
+        category: "读书",
+        label: "第 01 集",
+        duration_seconds: 665,
+        original: null,
+      },
+      {
+        title: "如果把语言学习当成一场游戏, 结果将会怎样？｜ fluent forever",
+        topic: "把语言学习当成游戏",
+        url: "https://www.bilibili.com/video/BV1rAFFznEhM/",
+        thumbnail:
+          "https://i0.hdslb.com/bfs/archive/562c503fffded14f4e30cb8a4a8d529e207333d9.jpg",
+        category: "读书",
+        label: "第 02 集",
+        duration_seconds: 792,
+        original: null,
+      },
+      {
+        title:
+          "怎么永远记住一个单词？学习英语的 5 个基本原则 ｜ Fluent Forever",
+        topic: "记忆与五个学习原则",
+        url: "https://www.bilibili.com/video/BV1uAZtBMEF3/",
+        thumbnail:
+          "https://i1.hdslb.com/bfs/archive/19d4465d6a1925cdb83acf4e4ace0d9fd3eb57be.jpg",
+        category: "读书",
+        label: "第 03 集",
+        duration_seconds: 1562,
+        original: null,
+      },
+      {
+        title: "中国人听不懂英语的真正原因，是发音出了问题 ｜ Fluent Forever",
+        topic: "发音与听辨",
+        url: "https://www.bilibili.com/video/BV1pGfpBSEi1/",
+        thumbnail:
+          "https://i1.hdslb.com/bfs/archive/9490518436f9f7947367b17bb760b016a261666e.jpg",
+        category: "读书",
+        label: "第 04 集",
+        duration_seconds: 1159,
+        original: null,
+      },
+      {
+        title:
+          "我曾犯下巨大的错误，以为 10000 词才能阅读，今天发现只要 2000 个单词就可以开始了～",
+        topic: "词汇与阅读起点",
+        url: "https://www.bilibili.com/video/BV1GMQQB8EGH/",
+        thumbnail:
+          "https://i2.hdslb.com/bfs/archive/ab1717bb7d1f99c43a2624ab84b3c1668e054717.jpg",
+        category: "读书",
+        label: "第 05 集",
+        duration_seconds: 1443,
+        original: null,
+      },
+      {
+        title: "如果背语法是错的，那怎样学语法才是正确的？",
+        topic: "在句子里学语法",
+        url: "https://www.bilibili.com/video/BV1AoXQBDEN9/",
+        thumbnail:
+          "https://i1.hdslb.com/bfs/archive/ab143bbec76c808c1bd86fad2413a784ba0344ad.jpg",
+        category: "读书",
+        label: "第 06 集",
+        duration_seconds: 1176,
+        original: null,
+      },
+      {
+        title: "怎样不花钱、不买课，构建自己的英语学习路线？",
+        topic: "构建自己的学习路线",
+        url: "https://www.bilibili.com/video/BV1VrSZB5Epz/",
+        thumbnail:
+          "https://i0.hdslb.com/bfs/archive/6d75a3575c744e0c6722b21c7a9d996b72206b2f.jpg",
+        category: "读书",
+        label: "第 07 集",
+        duration_seconds: 1040,
+        original: null,
+      },
+      {
+        title: "英语进入高阶的路线，如何开始你的第一本书和第一部电视剧？",
+        topic: "第一本书与第一部剧",
+        url: "https://www.bilibili.com/video/BV1sfDXBnEsH/",
+        thumbnail:
+          "https://i1.hdslb.com/bfs/archive/6be3a2aea9f231daf8129fc6fdd3af296dd0bd5d.jpg",
+        category: "读书",
+        label: "第 08 集",
+        duration_seconds: 1216,
+        original: null,
+      },
+    ],
+  },
+  stick: {
+    id: "stick",
+    route: "/make-it-stick",
+    label: "Make It Stick",
+    eyebrow: "读书视频 · 理解学习如何发生",
+    title: "让学习费一点力，\n让记忆留得更久。",
+    lede: "从 Make It Stick 出发，理解主动回忆、间隔与交织练习。\n核对自己是否学会，把每次练习变成下一次的起点。",
+    note: "7 集读书视频 · 主动回忆、练习方式与学习判断",
+    startUrl: "https://www.bilibili.com/video/BV1sEHxzQEbz/",
+    startLabel: "观看第一集 ↗",
+    book: "/assets/images/books/make-it-stick.png",
+    bookAlt: "Make It Stick 书封",
+    stamp: "7 集读书视频",
+    sectionEyebrow: "Make It Stick / VIDEO LIBRARY",
+    sectionTitle: "先理解学习，再改变练习。",
+    sectionIntro:
+      "点击卡片，前往 Bilibili 观看。\n看完一集，试着把一个方法用到今天的练习中。",
+    filterNote: "从第一集开始，也可以按标题找到感兴趣的话题。",
+    fallback: "/assets/images/books/make-it-stick.png",
+    videos: [
+      {
+        title: "你一定在用错误的学习方式学习 ｜ 《Make it Stick》《认知天性》",
+        topic: "重新认识学习",
+        url: "https://www.bilibili.com/video/BV1sEHxzQEbz/",
+        thumbnail:
+          "https://i0.hdslb.com/bfs/archive/1f7389712f062ef074fd64d22c9555931f1b852d.jpg",
+        category: "读书",
+        label: "第 01 集",
+        duration_seconds: 496,
+        original: null,
+      },
+      {
+        title: "（检索和提取）提升 50% 的学习效果 ｜ Make it stick",
+        topic: "检索与提取",
+        url: "https://www.bilibili.com/video/BV16cx4zoEJy/",
+        thumbnail:
+          "https://i2.hdslb.com/bfs/archive/32d0614d9341fb29d80f0b2ecd4c1be493da7b41.jpg",
+        category: "读书",
+        label: "第 02 集",
+        duration_seconds: 667,
+        original: null,
+      },
+      {
+        title: "三个不受欢迎，但是科学证明有效的练习方式 ｜ Make it stick",
+        topic: "间隔、交织与变式",
+        url: "https://www.bilibili.com/video/BV1HfxqzZEbn/",
+        thumbnail:
+          "https://i1.hdslb.com/bfs/archive/63ffe825e48fadddaf1bba03664397f7e4c17bda.jpg",
+        category: "读书",
+        label: "第 03 集",
+        duration_seconds: 489,
+        original: null,
+      },
+      {
+        title:
+          "学习的最强武器：拥抱困难 ｜ Desirable Difficulty | Make it stick",
+        topic: "拥抱有益的困难",
+        url: "https://www.bilibili.com/video/BV1sUsKz3EZ1/",
+        thumbnail:
+          "https://i0.hdslb.com/bfs/archive/25a4bd11ccc4001839807311fc65382df96d87d4.jpg",
+        category: "读书",
+        label: "第 04 集",
+        duration_seconds: 582,
+        original: null,
+      },
+      {
+        title: "在学习中，怎样避免自我安慰和自我欺骗 ｜ Make it stick",
+        topic: "避免学习错觉",
+        url: "https://www.bilibili.com/video/BV1mP17BkEi5/",
+        thumbnail:
+          "https://i2.hdslb.com/bfs/archive/6d0b0831408ba4fecffe14d8891224e38d01a0b8.jpg",
+        category: "读书",
+        label: "第 05 集",
+        duration_seconds: 609,
+        original: null,
+      },
+      {
+        title: "寻找结构，构建系统！如果你被标签化，只会让你的越来越弱",
+        topic: "寻找结构，构建系统",
+        url: "https://www.bilibili.com/video/BV1KtCmBQELn/",
+        thumbnail:
+          "https://i0.hdslb.com/bfs/archive/a3e9a3a778816ea391291737795f02cf7f8ed3a4.jpg",
+        category: "读书",
+        label: "第 06 集",
+        duration_seconds: 675,
+        original: null,
+      },
+      {
+        title: "过去经历不算好，现在还有机会吗  | 提升你的能力｜Make it stick",
+        topic: "提升自己的能力",
+        url: "https://www.bilibili.com/video/BV1JgmcBHEAG/",
+        thumbnail:
+          "https://i0.hdslb.com/bfs/archive/44cf690ae1439fe13704b8130974f9f2a32e12b7.jpg",
+        category: "读书",
+        label: "第 07 集",
+        duration_seconds: 956,
+        original: null,
+      },
+    ],
+  },
+  prince: {
+    id: "prince",
+    route: "/little-prince",
+    label: "小王子共读",
+    eyebrow: "原版书实验室 · 连载中",
+    title: "从一小段开始，\n读进小王子的世界。",
+    lede: "跟着故事走，把阅读方法用到真实的英文里。\n先读一段，再看讲解；理解人物，也留意句子里的线索。",
+    note: "已收录 7 集 · 开篇导读 + Day 01–06 · 持续连载",
+    startUrl: "https://www.bilibili.com/video/BV12sGP6REaP/",
+    startLabel: "观看第一集 ↗",
+    book: null,
+    bookAlt: "",
+    stamp: "",
+    sectionEyebrow: "小王子共读 · 连载中 / VIDEO LIBRARY",
+    sectionTitle: "一段英文，一个新的相遇。",
+    sectionIntro:
+      "点击卡片，前往 Bilibili 观看。\n连载中，已收录开篇与前 6 天的共读。",
+    filterNote: "从第一集开始，也可以按标题找到感兴趣的话题。",
+    fallback: "/assets/images/reading/little-prince-placeholder.svg",
+    videos: [
+      {
+        title:
+          "只需要 1000 词的基础，和你一起读小王子 ｜ 可能是你人生的第一本英文书",
+        topic: "开篇导读 · 开始第一本英文书",
+        url: "https://www.bilibili.com/video/BV12sGP6REaP/",
+        thumbnail:
+          "https://i0.hdslb.com/bfs/archive/d46078c23abbb8f90fbdc290320f2db78565c0ec.jpg",
+        category: "共读",
+        label: "开篇导读",
+        duration_seconds: 773,
+        original: null,
+      },
+      {
+        title: "小时候的梦想，是怎样被大人毁掉的？｜《小王子》英文原著 Day 01",
+        topic: "Day 01 · 童年的梦想",
+        url: "https://www.bilibili.com/video/BV1hYGG6pEPi/",
+        thumbnail:
+          "https://i2.hdslb.com/bfs/archive/7d3a9451ef64c2a5cec34e785fb4e59f847a52e0.jpg",
+        category: "共读",
+        label: "Day 01",
+        duration_seconds: 615,
+        original: null,
+      },
+      {
+        title: "坠机后，他在沙漠遇见了小王子｜每天500词读原著·第2天",
+        topic: "Day 02 · 沙漠中的相遇",
+        url: "https://www.bilibili.com/video/BV1JMb16iE5r/",
+        thumbnail:
+          "https://i0.hdslb.com/bfs/archive/997b4bd3467dc21a364997a8a0b816c2020983c9.jpg",
+        category: "共读",
+        label: "Day 02",
+        duration_seconds: 892,
+        original: null,
+      },
+      {
+        title:
+          "500 个单词，看看你能读懂多少？小王子阅读第 3 天 ｜ 原版书实验室",
+        topic: "Day 03 · 继续认识小王子",
+        url: "https://www.bilibili.com/video/BV1Qs8h6HEvj/",
+        thumbnail:
+          "https://i1.hdslb.com/bfs/archive/12a3c9f11240d7d7f4c87384b958168796c241ba.jpg",
+        category: "共读",
+        label: "Day 03",
+        duration_seconds: 753,
+        original: null,
+      },
+      {
+        title: "一起阅读我们的第一本英文小说，580 单词 ｜ 小王子阅读 第4天",
+        topic: "Day 04 · 一起读原著",
+        url: "https://www.bilibili.com/video/BV1cXtn6iEKE/",
+        thumbnail:
+          "https://i1.hdslb.com/bfs/archive/93e0505ff80a7d8d806aa4dbf7bce891d935f350.jpg",
+        category: "共读",
+        label: "Day 04",
+        duration_seconds: 707,
+        original: null,
+      },
+      {
+        title:
+          "哪怕只有 1000 词，也能读懂这本“The little prince” | 小王子阅读 5 天",
+        topic: "Day 05 · 一段一段读下去",
+        url: "https://www.bilibili.com/video/BV1iMbn6bE9W/",
+        thumbnail:
+          "https://i2.hdslb.com/bfs/archive/6be0ffd651adf57dbf7524ffe9b268b97f5460e7.jpg",
+        category: "共读",
+        label: "Day 05",
+        duration_seconds: 716,
+        original: null,
+      },
+      {
+        title:
+          "（猴面包树）隐喻：真正危险的问题，一开始往往都很小｜《小王子》Day 06",
+        topic: "Day 06 · 猴面包树与小问题",
+        url: "https://www.bilibili.com/video/BV16jhX6cEpY/",
+        thumbnail:
+          "https://i1.hdslb.com/bfs/archive/691a1c786447b6c177abe8ab0149ff353dfc751c.jpg",
+        category: "共读",
+        label: "Day 06",
+        duration_seconds: 825,
+        original: null,
+      },
+    ],
+  },
+} satisfies Record<string, VideoSeries>;
+
+export type SeriesId = keyof typeof videoSeries;

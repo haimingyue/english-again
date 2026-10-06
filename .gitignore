@@ -9,3 +9,15 @@ build/
 .env.*
 !.env.example
 *.log
+
+.nuxt/
+.output/
+.data/
+.cache/
+coverage/
+playwright-report/
+test-results/
+
+# Full-resolution QA captures are reproducible; commit compact comparisons.
+design/qa/*.png
+/dist

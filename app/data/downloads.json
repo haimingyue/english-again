@@ -1,0 +1,23 @@
+{
+  "win-x64": {
+    "label": "Windows 64 位 · x64",
+    "status": "published",
+    "url": "https://books-club.cn/desktop-updates/windows/x64/English-Club-0.4.19-x64.exe",
+    "version": "0.4.19",
+    "minimumSystem": null
+  },
+  "mac-arm64": {
+    "label": "macOS · Apple 芯片",
+    "status": "published",
+    "url": "https://books-club.cn/desktop-updates/macos/English-Club-0.4.19-arm64.dmg",
+    "version": "0.4.19",
+    "minimumSystem": null
+  },
+  "mac-x64": {
+    "label": "macOS · Intel 芯片",
+    "status": "published",
+    "url": "https://books-club.cn/desktop-updates/macos/English-Club-0.4.19-x64.dmg",
+    "version": "0.4.19",
+    "minimumSystem": null
+  }
+}
