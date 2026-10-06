@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-06",
+  "page": "about.html",
+  "status": "完成首版设计",
+  "verified": {
+    "responsiveWidths": [
+      390,
+      768,
+      1440
+    ],
+    "horizontalOverflow": false,
+    "brokenLocalLinks": [],
+    "brokenImages": [],
+    "consoleErrors": [],
+    "interactions": [
+      "首页手机菜单进入介绍页",
+      "鼠标与键盘翻面",
+      "切换单词/语法卡片后回到正面",
+      "间隔/交织/变式切换",
+      "左右方向键切换方法",
+      "原图弹窗、Escape 关闭",
+      "手机菜单、Escape 关闭"
+    ]
+  },
+  "contentNotes": [
+    "以 Make It Stick 为主线，结合 Fluent Forever、成人英语自学手册",
+    "语法原图含 in 提示，明确标为带提示练习",
+    "Anki 统计仅展示个人练习与复习安排",
+    "未采用有数据标签问题的集中练习V交织练习图",
+    "没有依赖 V2 页面或素材"
+  ]
+}

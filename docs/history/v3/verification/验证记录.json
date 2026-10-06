@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-01",
+  "screens": [
+    {
+      "width": 390,
+      "height": 844,
+      "documentWidth": 390,
+      "documentHeight": 5240,
+      "mainImagesLoaded": true
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "documentWidth": 768,
+      "documentHeight": 5044
+    },
+    {
+      "width": 1440,
+      "height": 1000,
+      "documentWidth": 1440,
+      "documentHeight": 4181,
+      "mainImagesLoaded": true
+    }
+  ],
+  "interactions": {
+    "mobileMenu": "expanded and collapsed",
+    "firstWeek": "第 1 周 · 辅音",
+    "catalogRecordCount": 23,
+    "catalogFirst": "开篇介绍 · 开篇介绍与全年计划",
+    "catalogLast": "第 23 周 · 介词",
+    "softwareTabs": [
+      "阅读",
+      "影视",
+      "数据"
+    ],
+    "keyboardTabNavigation": [
+      "ArrowRight",
+      "Home"
+    ],
+    "grammarImage": "../ui-v1/04-语法.png loaded",
+    "dialogEscape": "closed and focus returned to trigger"
+  },
+  "limitations": [
+    "Homepage prototype only",
+    "Existing independent page UI images remain V1",
+    "BV mapping pending",
+    "No live downloads, payment or accounts"
+  ]
+}

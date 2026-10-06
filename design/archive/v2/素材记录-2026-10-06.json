@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-06",
+  "coca": {
+    "file": "assets/coca-corpus.png",
+    "source": "Built-in image_gen",
+    "purpose": "原创语料检索主题插画，不是 COCA 官方封面或界面",
+    "prompt": "Use case: illustration-story. Asset type: original portrait editorial illustration for the COCA reference card on a Chinese English self-study website, displayed beside two real book covers. Create a refined, flat editorial illustration of a language corpus: an organized stack of cream index cards, short rows of English words, a magnifying glass revealing the word \"learn\", and understated horizontal frequency bars. A strong crisp title \"COCA\" across the upper third, with the small subtitle \"WORDS IN CONTEXT\" directly beneath. Portrait 2:3 composition, straight-on, full artwork edge to edge, no simulated physical book, no perspective mockup. Visual style: sophisticated printed educational poster, minimal geometric shapes, subtle paper grain, ample breathing room, restrained botanical sage green #dce5d5 backdrop, dark forest green #172820 typography and linework, warm cream #f7f3eb index cards, tiny muted golden yellow accent #f7d84a. Main graphic centrally arranged in lower two thirds; strong readability at 180 pixels wide. Use only these exact readable words: \"COCA\", \"WORDS IN CONTEXT\", \"learn\", \"read\", \"speak\", \"write\". Other supporting rows should be abstract short lines. No Chinese text, no invented statistics, no numerical data, no claim to be an official COCA book or interface, no logos or watermark, no people, no border around the image."
+  },
+  "books": [
+    {
+      "file": "assets/make-it-stick-cover.png",
+      "source": "用户提供的 Make It Stick 原封面，原样复制"
+    },
+    {
+      "file": "assets/fluent-forever-cover.png",
+      "source": "用户提供的 Fluent Forever 原封面，原样复制"
+    }
+  ],
+  "videoSource": "第 24、25 周标题和 BV 链接由用户于 2026-10-06 明确提供；视频页面未能通过网页工具读取，未推断发布日期或内容摘要"
+}

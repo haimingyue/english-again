@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-06",
+  "static": {
+    "columns.html": {
+      "cards": 25,
+      "brokenLinks": [],
+      "uniqueIds": true,
+      "externalTargetsValid": true
+    },
+    "fluent-forever.html": {
+      "cards": 8,
+      "brokenLinks": [],
+      "uniqueIds": true,
+      "externalTargetsValid": true
+    },
+    "make-it-stick.html": {
+      "cards": 7,
+      "brokenLinks": [],
+      "uniqueIds": true,
+      "externalTargetsValid": true
+    }
+  },
+  "browser": {
+    "viewports": [
+      390,
+      768,
+      1440
+    ],
+    "weeklyFilters": "发音返回第1、2周；第25周搜索返回1条",
+    "search": "无结果状态和清除筛选有效；检索搜索定位Make It Stick第2集",
+    "sort": "倒序以第25周开头",
+    "notes": "原图按需加载；Escape关闭",
+    "mobileMenu": "展开、Escape关闭",
+    "remoteCovers": "读书系列封面已在浏览器成功加载，提供本地书封作为失败后备"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "source_date": "2026-10-06",
+  "headlines": {
+    "about": "用 25 周，重新学一次英语。",
+    "phonetics": "美式音标与听辨练习",
+    "grammar": "基础语法学习笔记",
+    "resources": "学习资料",
+    "courses": "25 周的英语自学记录",
+    "tools": "读书会"
+  },
+  "grammar_examples": [
+    {
+      "week": 6,
+      "nav": "现在时",
+      "title": "一般现在时与现在进行时",
+      "summary": "一般现在时可以表达习惯；现在进行时可以表达此刻正在发生的动作。用这两个场景做一次对比。",
+      "examples": [
+        [
+          "经常发生",
+          "I read every day.",
+          "我每天阅读。"
+        ],
+        [
+          "正在发生",
+          "I am reading now.",
+          "我现在正在阅读。"
+        ]
+      ],
+      "note": "先看句子表达的时间，再看动词形式。这里分别用 every day 和 now 提示两个场景。"
+    },
+    {
+      "week": 7,
+      "nav": "过去时",
+      "title": "过去时",
+      "summary": "描述已经发生的事情时，可以先把过去的时间写清楚，再观察动词形式。",
+      "examples": [
+        [
+          "过去发生的事",
+          "I watched a film yesterday.",
+          "我昨天看了一部电影。"
+        ],
+        [
+          "过去的状态",
+          "I was at home yesterday.",
+          "我昨天在家。"
+        ]
+      ],
+      "note": "watched 是 watch 的过去式；was 是 be 的过去式之一。"
+    },
+    {
+      "week": 8,
+      "nav": "完成时",
+      "title": "现在完成时",
+      "summary": "用 have / has 加过去分词，谈经历或与现在相关的结果。",
+      "examples": [
+        [
+          "经历",
+          "I have read this book.",
+          "我读过这本书。"
+        ],
+        [
+          "完成的事情",
+          "She has finished her homework.",
+          "她已经完成了作业。"
+        ]
+      ],
+      "note": "对比 I read this book last week.：它明确说的是上周发生的事情。"
+    },
+    {
+      "week": 9,
+      "nav": "被动与未来",
+      "title": "被动与未来表达",
+      "summary": "观察句子强调谁，以及事情发生的时间。下面各看一个例子。",
+      "examples": [
+        [
+          "被动表达",
+          "The door is closed every night.",
+          "这扇门每晚都会被关上。"
+        ],
+        [
+          "未来表达",
+          "I will call you tomorrow.",
+          "我明天会给你打电话。"
+        ]
+      ],
+      "note": "两个例句用于分别观察被动和未来表达，不是同一种语法结构。"
+    },
+    {
+      "week": 13,
+      "nav": "疑问句",
+      "title": "如何用英语提问",
+      "summary": "把一个陈述句改成问题，比较句子开头和动词形式。",
+      "examples": [
+        [
+          "陈述",
+          "You read every day.",
+          "你每天阅读。"
+        ],
+        [
+          "提问",
+          "Do you read every day?",
+          "你每天阅读吗？"
+        ]
+      ],
+      "note": "这个例子用 do 提问。含 be 的句子和其他类型的问题，结构会不同。"
+    },
+    {
+      "week": 14,
+      "nav": "to do 与 doing",
+      "title": "to do 还是 doing",
+      "summary": "同一个动词跟在不同表达后，形式可能不同。先把常见搭配作为整体记下来。",
+      "examples": [
+        [
+          "want to do",
+          "I want to read.",
+          "我想阅读。"
+        ],
+        [
+          "enjoy doing",
+          "I enjoy reading.",
+          "我喜欢阅读。"
+        ]
+      ],
+      "note": "这两个例子说明 want to read 和 enjoy reading 的搭配，不概括所有动词。"
+    },
+    {
+      "week": 17,
+      "nav": "a、an、the",
+      "title": "冠词 a、an、the",
+      "summary": "观察名词是否特指，以及它开头的声音。",
+      "examples": [
+        [
+          "第一次提到",
+          "I bought a book.",
+          "我买了一本书。"
+        ],
+        [
+          "前面提到的那一本",
+          "The book is on my desk.",
+          "那本书在我的桌上。"
+        ]
+      ],
+      "note": "an apple：an 的选择取决于后面词开头的声音，而不只看字母。"
+    },
+    {
+      "week": 23,
+      "nav": "介词",
+      "title": "为什么是 at work，却是 in bed",
+      "summary": "常见介词表达可以先结合具体句子记下来，再比较不同场景。",
+      "examples": [
+        [
+          "工作中",
+          "She is at work.",
+          "她正在工作。"
+        ],
+        [
+          "在床上",
+          "He is in bed.",
+          "他在床上。"
+        ]
+      ],
+      "note": "先把 at work 和 in bed 放在句子里练习，再回到课程看更多介词表达。"
+    }
+  ],
+  "resource_items": [
+    {
+      "weeks": [
+        1
+      ],
+      "title": "辅音",
+      "category": "pronunciation",
+      "kind": "听辨练习"
+    },
+    {
+      "weeks": [
+        2
+      ],
+      "title": "元音",
+      "category": "pronunciation",
+      "kind": "听辨练习"
+    },
+    {
+      "weeks": [
+        3,
+        4
+      ],
+      "title": "100 个单词与 100 个句子",
+      "category": "vocabulary",
+      "kind": "词汇与句子"
+    },
+    {
+      "weeks": [
+        6
+      ],
+      "title": "一般现在时与现在进行时",
+      "category": "grammar",
+      "kind": "语法笔记与练习"
+    },
+    {
+      "weeks": [
+        8
+      ],
+      "title": "现在完成时与 625 单词学习",
+      "category": "grammar",
+      "kind": "语法笔记与练习"
+    },
+    {
+      "weeks": [
+        14
+      ],
+      "title": "to do 与 doing",
+      "category": "grammar",
+      "kind": "语法笔记与练习"
+    },
+    {
+      "weeks": [
+        17
+      ],
+      "title": "冠词 a、an、the",
+      "category": "grammar",
+      "kind": "语法笔记与练习"
+    },
+    {
+      "weeks": [
+        23
+      ],
+      "title": "介词",
+      "category": "grammar",
+      "kind": "语法笔记与练习"
+    }
+  ]
+}

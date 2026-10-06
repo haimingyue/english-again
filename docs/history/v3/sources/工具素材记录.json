@@ -1,0 +1,98 @@
+[
+  {
+    "name": "bookshelf",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-ed5eb312-fae2-4082-b7bc-0a91607e8865.png",
+    "original_bytes": 791016,
+    "preview_bytes": 86298,
+    "width": 1680,
+    "height": 1050
+  },
+  {
+    "name": "movies",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-7aff87a7-0462-4a0c-b8f8-9404c6cdd83f.png",
+    "original_bytes": 389039,
+    "preview_bytes": 52488,
+    "width": 1680,
+    "height": 1050
+  },
+  {
+    "name": "player",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-cab5734d-9a10-4774-a49f-164f0790714c.png",
+    "original_bytes": 1762225,
+    "preview_bytes": 79396,
+    "width": 1680,
+    "height": 1050
+  },
+  {
+    "name": "plan",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-1b66dde4-d0e1-49f5-94a4-dd8c3d3a7130.png",
+    "original_bytes": 1906061,
+    "preview_bytes": 63534,
+    "width": 1680,
+    "height": 1050
+  },
+  {
+    "name": "stats",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-8d823b05-1b96-49e8-a541-e049de44011d.png",
+    "original_bytes": 397135,
+    "preview_bytes": 58460,
+    "width": 1680,
+    "height": 1050
+  },
+  {
+    "name": "calendar",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-d3a298c5-bab3-4733-95f7-cd2a2a69b278.png",
+    "original_bytes": 480038,
+    "preview_bytes": 62332,
+    "width": 1680,
+    "height": 1050
+  },
+  {
+    "name": "profile",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-1b8fcaf2-bcb3-440c-8956-f212cb22a0ff.png",
+    "original_bytes": 1430298,
+    "preview_bytes": 58130,
+    "width": 1680,
+    "height": 1050
+  },
+  {
+    "name": "exams",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-7c9b0751-537e-46aa-94bf-948a03650f6c.png",
+    "original_bytes": 615484,
+    "preview_bytes": 59758,
+    "width": 1680,
+    "height": 976
+  },
+  {
+    "name": "lookup",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-71141d74-fb82-4a39-a5d2-59e98923764c.png",
+    "original_bytes": 1399908,
+    "preview_bytes": 92578,
+    "width": 1680,
+    "height": 1050
+  },
+  {
+    "name": "phrases",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-948a3d44-9108-4589-bcd0-1f7e5674ec16.png",
+    "original_bytes": 111601,
+    "preview_bytes": 29572,
+    "width": 780,
+    "height": 716
+  },
+  {
+    "name": "shadow-reading",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-ff6adcb0-fddc-4fe1-a03f-f05069663b55.png",
+    "original_bytes": 1250831,
+    "preview_bytes": 138534,
+    "width": 1680,
+    "height": 1050
+  },
+  {
+    "name": "shadow-movie",
+    "source": "/var/folders/ph/t86xscds3551jklt7t_znlgh0000gn/T/codex-clipboard-43719d14-5b23-4484-ba92-5a6f85301633.png",
+    "original_bytes": 411191,
+    "preview_bytes": 53988,
+    "width": 1680,
+    "height": 976
+  }
+]

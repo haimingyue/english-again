@@ -1,0 +1,12 @@
+{
+  "date": "2026-10-06",
+  "site_pages": 11,
+  "archive_pages": 9,
+  "referenced_files": 276,
+  "preserved_original_media_entries": 296,
+  "unique_media_files": 236,
+  "media_bytes": 412423109,
+  "duplicates": [],
+  "errors": [],
+  "scope": "Local file URLs, anchors, literal JS asset paths, module imports, JSON syntax, original media hashes. External services and template-generated paths require separate checks."
+}

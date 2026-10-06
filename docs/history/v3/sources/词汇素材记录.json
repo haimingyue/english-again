@@ -1,0 +1,85 @@
+{
+  "decks": [
+    {
+      "source": "assets/Anki 卡牌/单词/COCA30000_2026_10_06.apkg",
+      "download": "COCA30000.apkg",
+      "bytes": 244805657,
+      "sha256": "967b44a722d457b837b1d39db2a5dd1930296b3b06ca0c029b9c7ec045e74a08",
+      "notes": 30050,
+      "cards": 30050,
+      "review_logs": 0,
+      "fields": [
+        "Word",
+        "COCA_Rank",
+        "Exam_Level",
+        "IPA",
+        "Audio",
+        "Meaning",
+        "Image",
+        "Example",
+        "Lemma",
+        "Root",
+        "Prefix",
+        "Suffix",
+        "En_Meaning",
+        "Frq",
+        "Times",
+        "Video_Url",
+        "Tips"
+      ],
+      "nonempty_fields": {
+        "Word": 30050,
+        "COCA_Rank": 30050,
+        "Exam_Level": 19113,
+        "IPA": 29197,
+        "Audio": 30050,
+        "Meaning": 30050,
+        "Image": 4749,
+        "Example": 0,
+        "Lemma": 0,
+        "Root": 1,
+        "Prefix": 1,
+        "Suffix": 0,
+        "En_Meaning": 29655,
+        "Frq": 24375,
+        "Times": 0,
+        "Video_Url": 0,
+        "Tips": 71
+      },
+      "unique_word_strings": 26438,
+      "bundled_media": 26447
+    },
+    {
+      "source": "assets/Anki 卡牌/单词/生词本.apkg",
+      "download": "生词本.apkg",
+      "bytes": 58614,
+      "sha256": "9251d877137ce79da1bb4bc9845aa7cc1e6d817eb6444db427ee2cfe4da3fc7b",
+      "notes": 1,
+      "cards": 1,
+      "review_logs": 0
+    },
+    {
+      "source": "assets/Anki 卡牌/单词/短语.apkg",
+      "download": "短语.apkg",
+      "bytes": 66567,
+      "sha256": "096efd508747c482f1dad6490ddae626294c6e128d9df7f19a5b3e4608f301dc",
+      "notes": 2,
+      "cards": 2,
+      "review_logs": 0
+    }
+  ],
+  "screenshots": "User original screenshots copied unchanged; personal context examples differ from downloadable base deck",
+  "diagram": "ImageGen redraw of user sketch; no automatic collection claim",
+  "capture_screenshots": [
+    {
+      "asset": "reading-send.png",
+      "source": "User attachment; copied unchanged",
+      "sha256": "f6abb06e682121327e3e58bf06f3c3e735cc0eff09d4fe8b9e2bf102a3c740f1"
+    },
+    {
+      "asset": "viewing-send.png",
+      "source": "User attachment; copied unchanged",
+      "sha256": "75eedc6f699a34b849f2a5c40cfb27fcce140fd0bc7b004dc3fb6cf0c4f5155c"
+    }
+  ]
+}

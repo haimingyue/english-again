@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-06",
+  "base": "http://127.0.0.1:4187/",
+  "pages": [
+    {
+      "file": "about.html",
+      "width": 1440,
+      "documentWidth": 1440,
+      "title": "学习方法 · 英语自学指北"
+    },
+    {
+      "file": "columns.html",
+      "width": 1440,
+      "documentWidth": 1440,
+      "title": "每周课程 · 视频专栏 · 英语自学指北"
+    },
+    {
+      "file": "fluent-forever.html",
+      "width": 1440,
+      "documentWidth": 1440,
+      "title": "Fluent Forever · 视频专栏 · 英语自学指北"
+    },
+    {
+      "file": "grammar.html",
+      "width": 1440,
+      "documentWidth": 1440,
+      "title": "基础语法 · 英语自学指北"
+    },
+    {
+      "file": "index.html",
+      "width": 1440,
+      "documentWidth": 1440,
+      "title": "英语自学指北 · 首页设计第三版"
+    },
+    {
+      "file": "little-prince.html",
+      "width": 1440,
+      "documentWidth": 1440,
+      "title": "小王子共读 · 视频专栏 · 英语自学指北"
+    },
+    {
+      "file": "make-it-stick.html",
+      "width": 1440,
+      "documentWidth": 1440,
+      "title": "Make It Stick · 视频专栏 · 英语自学指北"
+    },
+    {
+      "file": "phonetics.html",
+      "width": 1440,
+      "documentWidth": 1440,
+      "title": "音标与听辨 · 英语自学指北"
+    },
+    {
+      "file": "reading.html",
+      "width": 1440,
+      "documentWidth": 1440,
+      "title": "阅读 · 英语自学指北"
+    },
+    {
+      "file": "tools.html",
+      "width": 1440,
+      "documentWidth": 1440,
+      "title": "工具 · 读书会 · 英语自学指北"
+    },
+    {
+      "file": "vocabulary.html",
+      "width": 1440,
+      "documentWidth": 1440,
+      "title": "词汇与记忆 · 英语自学指北"
+    },
+    {
+      "file": "about.html",
+      "width": 390,
+      "documentWidth": 390,
+      "title": "学习方法 · 英语自学指北"
+    },
+    {
+      "file": "columns.html",
+      "width": 390,
+      "documentWidth": 390,
+      "title": "每周课程 · 视频专栏 · 英语自学指北"
+    },
+    {
+      "file": "fluent-forever.html",
+      "width": 390,
+      "documentWidth": 390,
+      "title": "Fluent Forever · 视频专栏 · 英语自学指北"
+    },
+    {
+      "file": "grammar.html",
+      "width": 390,
+      "documentWidth": 390,
+      "title": "基础语法 · 英语自学指北"
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "documentWidth": 390,
+      "title": "英语自学指北 · 首页设计第三版"
+    },
+    {
+      "file": "little-prince.html",
+      "width": 390,
+      "documentWidth": 390,
+      "title": "小王子共读 · 视频专栏 · 英语自学指北"
+    },
+    {
+      "file": "make-it-stick.html",
+      "width": 390,
+      "documentWidth": 390,
+      "title": "Make It Stick · 视频专栏 · 英语自学指北"
+    },
+    {
+      "file": "phonetics.html",
+      "width": 390,
+      "documentWidth": 390,
+      "title": "音标与听辨 · 英语自学指北"
+    },
+    {
+      "file": "reading.html",
+      "width": 390,
+      "documentWidth": 390,
+      "title": "阅读 · 英语自学指北"
+    },
+    {
+      "file": "tools.html",
+      "width": 390,
+      "documentWidth": 390,
+      "title": "工具 · 读书会 · 英语自学指北"
+    },
+    {
+      "file": "vocabulary.html",
+      "width": 390,
+      "documentWidth": 390,
+      "title": "词汇与记忆 · 英语自学指北"
+    }
+  ],
+  "interactions": [
+    "All tool features and screenshot choices; original-image dialog",
+    "about tabs and dynamic images",
+    "phonetics tabs and dynamic images",
+    "vocabulary tabs and dynamic images",
+    "9 audio files and 6 Anki downloads return HTTP 200"
+  ],
+  "errors": [],
+  "externalRequests": "Not validated; checks focus on local resources after reorganization."
+}

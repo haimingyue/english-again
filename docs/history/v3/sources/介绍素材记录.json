@@ -1,0 +1,86 @@
+[
+  {
+    "file": "assets/about/anki-calendar.png",
+    "bytes": 256742,
+    "sha256": "2dcd98fcb2ba3af7bd481702e2a7faa159abb14f6ecc8379269fa2c18abc15fd",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/anki-logo.png",
+    "bytes": 95415,
+    "sha256": "a97e6aa6c3acef882df164727ded1ac80c1fcc745c015ef014cd8e458f01aecf",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/anki-schedule.png",
+    "bytes": 239236,
+    "sha256": "3e559f24050769852c88ce1fb612ac2bfebdafc56aebcb25733736bbbd7119d5",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/fluent-forever.png",
+    "bytes": 149862,
+    "sha256": "2fb34b4d0c8badadb106ffb8b8deb8577fb3be54f2bc0212ba5d50c70511bfb8",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/grammar-back.png",
+    "bytes": 868607,
+    "sha256": "ba9688f82996ff91b51d78d355af7ab4db3477c1fe9ac9f8ddf95012e8736238",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/grammar-front.png",
+    "bytes": 853033,
+    "sha256": "81c5a17c92b44f2ee570a90b2157d829e0acc4d3160d0d4273f61716a79859f2",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/indeed-back.png",
+    "bytes": 481043,
+    "sha256": "b1da088278245ee2d1df61c232cd698990586f6d7f003d0fdf9a6189cfaf2506",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/indeed-front.png",
+    "bytes": 163616,
+    "sha256": "3822ca21349ab98e0daa22372da234e640af4be421815a0f3e897e47ba66de73",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/interleaving.jpg",
+    "bytes": 109829,
+    "sha256": "84165e2394e0d5688fc50d56598eaa2b61823f90c31b097e6ec2682170ef6f70",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/make-it-stick.png",
+    "bytes": 116853,
+    "sha256": "3ffb3d7701903eae4a03be975c579808618bfab0979018007daec7d3035cf7a7",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/massed-spaced.jpg",
+    "bytes": 114302,
+    "sha256": "78ed957ee3834ce238b065406bdd705bef2045ad8593af3e9db8021241810425",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/spacing.jpg",
+    "bytes": 156160,
+    "sha256": "cb7c1857aa67a2a905a76130a69a193f188a615715e2e67448d3cb15162bc081",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/variation.jpg",
+    "bytes": 145630,
+    "sha256": "48c199a60998072092c5afca33a96fb81131ecf0e6c30c7fd68ab896e0981e4c",
+    "source": "用户提供的截图、手绘笔记或已有书封；复制原始文件，未改写图片"
+  },
+  {
+    "file": "assets/about/english-self-study-guide.png",
+    "bytes": 1138929,
+    "sha256": "d32e6b093b33c957c258d41805adf68b1845d4eaf99015871a9e5da5edd1bc81",
+    "source": "用户补充的郝海龙《英语自学手册》封面；原图直接复制"
+  }
+]

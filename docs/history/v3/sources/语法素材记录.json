@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-06",
+  "screenshots": [
+    {
+      "asset": "word-position.png",
+      "original_clipboard": "81a98b86-3153-4f26-a203-279715bd73ef",
+      "sha256": "6803758ed2a284521dfa2f1e9ff263e11d580d4b224433c3ed2e352d3b0b90e0"
+    },
+    {
+      "asset": "sentence-pattern.png",
+      "original_clipboard": "4cc829ba-2922-4695-8797-78cd30023134",
+      "sha256": "26b2d1b06033fb555cf8dc545aef02ebbc93c1a0bc49f123e969ac8e83cf7a4b"
+    },
+    {
+      "asset": "spatial-relation.png",
+      "original_clipboard": "9b1cd227-334a-4fc5-9e7f-1324c3c628a5",
+      "sha256": "9cdc638259cbf083264149957f56baf43a5c156c0f836e8fc736559ec2d35121"
+    }
+  ],
+  "textbook_cover": "resources/essential-grammar-in-use.png; provided Spanish fourth-edition cover; displayed unchanged",
+  "sentence_deck": {
+    "source": "assets/Anki 卡牌/语法/句子.apkg",
+    "cards": 2706,
+    "notes": 2706,
+    "bytes": 538440,
+    "sha256": "62b437fcf571ddc1c400825e13796870a2173c6afa6a44f946bd4ebab83f6945",
+    "images": "Remote image references inside the package; no bundled media entries. Screenshots are supplied separately and not claimed to be samples of this package."
+  },
+  "method_source": "User-owned notes: Fluent Forever chapter 05 Sentence Play and resources/英语自学方法论.md; paraphrased, no outcome guarantee",
+  "grammar_deck": {
+    "source": "assets/Anki 卡牌/语法/语法.apkg",
+    "cards": 1627,
+    "notes": 1627,
+    "bytes": 339364,
+    "sha256": "d83996f75b78c10056a16f5d24b413d547030f7753d0ba2cb5dfedce57e6faaa",
+    "media": "Remote image URLs; package has no bundled media files"
+  }
+}

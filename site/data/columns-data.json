@@ -1,0 +1,821 @@
+{
+  "weekly": [
+    {
+      "title": "52周，10 个阶段，我们重学一次英语！我开了个英语自学专栏，一起玩一年。",
+      "published_at": "2026年04月17日 19:00:00",
+      "source_file": "近期稿件对比 (2).csv",
+      "source_row": 4,
+      "weeks": [],
+      "topic": "开篇介绍与全年计划",
+      "bvid": "BV1gNd6BqEnJ",
+      "url": "https://www.bilibili.com/video/BV1gNd6BqEnJ/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 1,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1105,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/intro.webp",
+      "original": "assets/images/columns/originals/intro.png",
+      "category": "导览",
+      "label": "开篇"
+    },
+    {
+      "title": "一起学一年英语，搞定听说读写。第一周任务来啦",
+      "published_at": "2026年04月19日 23:04:50",
+      "source_file": "近期稿件对比 (2).csv",
+      "source_row": 3,
+      "weeks": [
+        1
+      ],
+      "topic": "辅音",
+      "bvid": "BV1pddfBLEze",
+      "url": "https://www.bilibili.com/video/BV1pddfBLEze/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 2,
+      "topic_evidence": "截图 1 单集标题",
+      "duration_seconds": 745,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-01.svg",
+      "original": "assets/images/columns/week-01.svg",
+      "category": "发音",
+      "label": "第 1 周"
+    },
+    {
+      "title": "怎么学元音 | 英语自学指北 第二周 | 进度4%，我一定能更新完的",
+      "published_at": "2026年04月25日 19:06:25",
+      "source_file": "近期稿件对比 (2).csv",
+      "source_row": 2,
+      "weeks": [
+        2
+      ],
+      "topic": "元音",
+      "bvid": "BV1YboQBCEBj",
+      "url": "https://www.bilibili.com/video/BV1YboQBCEBj/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 3,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 785,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-02.webp",
+      "original": "assets/images/columns/originals/week-02.png",
+      "category": "发音",
+      "label": "第 2 周"
+    },
+    {
+      "title": "从 100 个单词、100 个句子开启不一样的英语学习之旅 ｜ 英语自学指北第四周 ｜ 进度 8%，我一定可以更新完的，加油",
+      "published_at": "2026年05月03日 10:44:03",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 11,
+      "weeks": [
+        3,
+        4
+      ],
+      "topic": "100 个单词与 100 个句子",
+      "bvid": "BV1399RBVEfD",
+      "url": "https://www.bilibili.com/video/BV1399RBVEfD/",
+      "week_evidence": "截图 1 确认第三、四周合集",
+      "catalog_order": 4,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1295,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-03-04.webp",
+      "original": "assets/images/columns/originals/week-03-04.png",
+      "category": "词汇",
+      "label": "第 3–4 周"
+    },
+    {
+      "title": "我们一起用剑桥出版的《Essential grammar in use》学习基础语法 ｜ 一年学习进度 10%，我一定会完成这个专栏的",
+      "published_at": "2026年05月10日 22:29:21",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 10,
+      "week_evidence": "截图 1 的单集标题明确为第五周",
+      "weeks": [
+        5
+      ],
+      "topic": "基础语法入门",
+      "bvid": "BV1Yz5J6EEc9",
+      "url": "https://www.bilibili.com/video/BV1Yz5J6EEc9/",
+      "catalog_order": 5,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1239,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-05.webp",
+      "original": "assets/images/columns/originals/week-05.png",
+      "category": "语法",
+      "label": "第 5 周"
+    },
+    {
+      "title": "一个视频彻底搞懂一般现在时和现在进行时的区别 ｜ 英语自学指北week6  ｜ 进度12%，我一定会完成这个专栏的",
+      "published_at": "2026年05月16日 23:07:06",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 9,
+      "weeks": [
+        6
+      ],
+      "topic": "一般现在时与现在进行时",
+      "bvid": "BV1zpL56mEdU",
+      "url": "https://www.bilibili.com/video/BV1zpL56mEdU/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 6,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1263,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-06.webp",
+      "original": "assets/images/columns/originals/week-06.png",
+      "category": "语法",
+      "label": "第 6 周"
+    },
+    {
+      "title": "自学指北专栏第七周，搞清楚英语中的“过去” ｜ 100个单词，130 个句子，30 张语法牌",
+      "published_at": "2026年05月24日 11:45:33",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 8,
+      "weeks": [
+        7
+      ],
+      "topic": "过去时",
+      "bvid": "BV1UHGL64E1y",
+      "url": "https://www.bilibili.com/video/BV1UHGL64E1y/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 7,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1036,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-07.webp",
+      "original": "assets/images/columns/originals/week-07.png",
+      "category": "语法",
+      "label": "第 7 周"
+    },
+    {
+      "title": "终于完成 625 单词的学习，今天我们学习现在完成时 ｜ 自学指北，第八周！ 进度 15%",
+      "published_at": "2026年05月31日 22:12:41",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 6,
+      "weeks": [
+        8
+      ],
+      "topic": "现在完成时与 625 单词学习",
+      "bvid": "BV1tjVQ68E5v",
+      "url": "https://www.bilibili.com/video/BV1tjVQ68E5v/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 8,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1423,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-08.webp",
+      "original": "assets/images/columns/originals/week-08.png",
+      "category": "语法",
+      "label": "第 8 周"
+    },
+    {
+      "title": "英语中的被动以及如何表达未来 ｜ 英语自学指北 第九周",
+      "published_at": "2026年06月07日 21:03:11",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 7,
+      "weeks": [
+        9
+      ],
+      "topic": "被动与未来表达",
+      "bvid": "BV14FEb6rEHv",
+      "url": "https://www.bilibili.com/video/BV14FEb6rEHv/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 9,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1264,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-09.webp",
+      "original": "assets/images/columns/originals/week-09.png",
+      "category": "语法",
+      "label": "第 9 周"
+    },
+    {
+      "title": "一个视频搞定 might 、should、can、could、must、would、I have to 的区别和使用场景 ｜ 英语自学指北 第十周",
+      "published_at": "2026年06月14日 23:09:56",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 5,
+      "weeks": [
+        10
+      ],
+      "topic": "情态动词",
+      "bvid": "BV1wiJK6rEbm",
+      "url": "https://www.bilibili.com/video/BV1wiJK6rEbm/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 10,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1206,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-10.webp",
+      "original": "assets/images/columns/originals/week-10.png",
+      "category": "语法",
+      "label": "第 10 周"
+    },
+    {
+      "title": "一不小心把专栏做到第十一周了｜ 英语自学指北",
+      "published_at": "2026年06月20日 13:48:41",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 4,
+      "weeks": [
+        11
+      ],
+      "topic": "祈使句、used to、there be 与 it",
+      "bvid": "BV1Ufj76CEmR",
+      "url": "https://www.bilibili.com/video/BV1Ufj76CEmR/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 11,
+      "topic_evidence": "截图 2 可见文字，标题截断",
+      "duration_seconds": 1061,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-11.webp",
+      "original": "assets/images/columns/originals/week-11.png",
+      "category": "语法",
+      "label": "第 11 周"
+    },
+    {
+      "title": "18 分钟搞定助动词 ｜这是我们学习的第十二周，全年进度 23%",
+      "published_at": "2026年06月28日 10:27:59",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 3,
+      "weeks": [
+        12
+      ],
+      "topic": "助动词",
+      "bvid": "BV1XjTT6FEY9",
+      "url": "https://www.bilibili.com/video/BV1XjTT6FEY9/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 12,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1136,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-12.webp",
+      "original": "assets/images/columns/originals/week-12.png",
+      "category": "语法",
+      "label": "第 12 周"
+    },
+    {
+      "title": "如何用英语提问？把陈述句变成疑问句的三个手段 ｜ 英语自学指北第十三周",
+      "published_at": "2026年07月05日 10:28:00",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 2,
+      "weeks": [
+        13
+      ],
+      "topic": "疑问句",
+      "bvid": "BV1YSMu6uETD",
+      "url": "https://www.bilibili.com/video/BV1YSMu6uETD/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 13,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1363,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-13.webp",
+      "original": "assets/images/columns/originals/week-13.png",
+      "category": "语法",
+      "label": "第 13 周"
+    },
+    {
+      "title": "to do 还是 doing？英语动词搭配终于讲明白了｜英语自学指北·第14周",
+      "published_at": "2026年07月12日 10:17:59",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 11,
+      "weeks": [
+        14
+      ],
+      "topic": "to do 与 doing",
+      "bvid": "BV1qMNK6fEqM",
+      "url": "https://www.bilibili.com/video/BV1qMNK6fEqM/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 14,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1009,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-14.webp",
+      "original": "assets/images/columns/originals/week-14.png",
+      "category": "语法",
+      "label": "第 14 周"
+    },
+    {
+      "title": "这周搞懂了 Go、Get、Do、Have，千词达成 ｜ 自学指北进度15 周，进度一半了",
+      "published_at": "2026年07月18日 22:17:01",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 10,
+      "weeks": [
+        15
+      ],
+      "topic": "Go、Get、Do、Have",
+      "bvid": "BV1jrKK6cEVt",
+      "url": "https://www.bilibili.com/video/BV1jrKK6cEVt/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 15,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1033,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-15.webp",
+      "original": "assets/images/columns/originals/week-15.png",
+      "category": "语法",
+      "label": "第 15 周"
+    },
+    {
+      "title": "代词和所有格 ｜ pronouns和possessives ｜ 英语自学指北 - 第十六周",
+      "published_at": "2026年07月26日 17:26:37",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 9,
+      "weeks": [
+        16
+      ],
+      "topic": "代词与所有格",
+      "bvid": "BV1ok3E61EoZ",
+      "url": "https://www.bilibili.com/video/BV1ok3E61EoZ/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 16,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 879,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-16.webp",
+      "original": "assets/images/columns/originals/week-16.png",
+      "category": "语法",
+      "label": "第 16 周"
+    },
+    {
+      "title": "关于 a an the 的一次全面学习，长达 30 分钟｜ 自学指北第 17 周",
+      "published_at": "2026年08月09日 16:57:00",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 8,
+      "weeks": [
+        17
+      ],
+      "topic": "冠词 a、an、the",
+      "bvid": "BV1eCum6DEZU",
+      "url": "https://www.bilibili.com/video/BV1eCum6DEZU/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 17,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1650,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-17.webp",
+      "original": "assets/images/columns/originals/week-17.png",
+      "category": "语法",
+      "label": "第 17 周"
+    },
+    {
+      "title": "第18周：this/that、one/ones、some/any 一次讲清 ｜ 英语自学指北",
+      "published_at": "2026年08月16日 21:15:07",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 7,
+      "weeks": [
+        18
+      ],
+      "topic": "this/that、one/ones、some/any",
+      "bvid": "BV1HdbQ6ZEcR",
+      "url": "https://www.bilibili.com/video/BV1HdbQ6ZEcR/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 18,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1228,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-18.webp",
+      "original": "assets/images/columns/originals/week-18.png",
+      "category": "语法",
+      "label": "第 18 周"
+    },
+    {
+      "title": "学了好多年都学不明白的 many, much, many of, much of, a lot of, 等 ｜ 英语自学指北 19 周",
+      "published_at": "2026年08月22日 20:56:40",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 6,
+      "weeks": [
+        19
+      ],
+      "topic": "many、much 等数量表达",
+      "bvid": "BV1D78m6cEKP",
+      "url": "https://www.bilibili.com/video/BV1D78m6cEKP/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 19,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1263,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-19.webp",
+      "original": "assets/images/columns/originals/week-19.png",
+      "category": "语法",
+      "label": "第 19 周"
+    },
+    {
+      "title": "30分钟，英语中形容词、副词的全面学习 ｜ 英语自学指北 20 周",
+      "published_at": "2026年08月30日 09:00:00",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 5,
+      "weeks": [
+        20
+      ],
+      "topic": "形容词与副词",
+      "bvid": "BV11A4U6UErq",
+      "url": "https://www.bilibili.com/video/BV11A4U6UErq/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 20,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1784,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-20.webp",
+      "original": "assets/images/columns/originals/week-20.png",
+      "category": "语法",
+      "label": "第 20 周"
+    },
+    {
+      "title": "一个单词，在句子里应该放在什么位置? | 英语自学指北 21 周",
+      "published_at": "2026年09月05日 18:33:07",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 4,
+      "weeks": [
+        21
+      ],
+      "topic": "单词在句子中的位置",
+      "bvid": "BV1B1t26KE5c",
+      "url": "https://www.bilibili.com/video/BV1B1t26KE5c/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 21,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 855,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-21.webp",
+      "original": "assets/images/columns/originals/week-21.png",
+      "category": "语法",
+      "label": "第 21 周"
+    },
+    {
+      "title": "如何把简单句组成长句子？ ｜ 英语自学指北 22 周",
+      "published_at": "2026年09月12日 19:16:26",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 3,
+      "weeks": [
+        22
+      ],
+      "topic": "简单句组成长句",
+      "bvid": "BV1hGYX6DEPV",
+      "url": "https://www.bilibili.com/video/BV1hGYX6DEPV/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 22,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1546,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-22.webp",
+      "original": "assets/images/columns/originals/week-22.png",
+      "category": "语法",
+      "label": "第 22 周"
+    },
+    {
+      "title": "为什么是 at work，却是 in bed？英语介词到底怎么选 ｜ 英语自学指北第 23 周",
+      "published_at": "2026年09月27日 14:33:32",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 2,
+      "weeks": [
+        23
+      ],
+      "topic": "介词",
+      "bvid": "BV124at63EBK",
+      "url": "https://www.bilibili.com/video/BV124at63EBK/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 23,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1294,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-23.webp",
+      "original": "assets/images/columns/originals/week-23.png",
+      "category": "语法",
+      "label": "第 23 周"
+    },
+    {
+      "title": "英语里的这些“小词”，才是最麻烦的！｜英语自学指北 Week 24",
+      "published_at": null,
+      "source": "用户于 2026-10-06 补充",
+      "weeks": [
+        24
+      ],
+      "topic": "英语中的“小词”",
+      "bvid": "BV1PpHW6wE8e",
+      "url": "https://www.bilibili.com/video/BV1PpHW6wE8e/",
+      "week_evidence": "用户明确指定周次",
+      "catalog_order": 24,
+      "topic_evidence": "用户提供的视频标题",
+      "metadata_status": "verified_bilibili_api",
+      "duration_seconds": 1341,
+      "thumbnail": "assets/images/columns/week-24.webp",
+      "original": "assets/images/columns/originals/week-24.png",
+      "category": "语法",
+      "label": "第 24 周"
+    },
+    {
+      "title": "Phrasal verbs 短语动词是啥？｜英语自学指北第 25 周",
+      "published_at": null,
+      "source": "用户于 2026-10-06 补充",
+      "weeks": [
+        25
+      ],
+      "topic": "Phrasal verbs 短语动词",
+      "bvid": "BV1jCpF6WEeU",
+      "url": "https://www.bilibili.com/video/BV1jCpF6WEeU/",
+      "week_evidence": "用户明确指定周次",
+      "catalog_order": 25,
+      "topic_evidence": "用户提供的视频标题",
+      "metadata_status": "verified_bilibili_api",
+      "duration_seconds": 564,
+      "thumbnail": "assets/images/columns/week-25.webp",
+      "original": "assets/images/columns/originals/week-25.png",
+      "category": "语法",
+      "label": "第 25 周"
+    }
+  ],
+  "fluent": [
+    {
+      "bvid": "BV1WNzQBEE23",
+      "code": 0,
+      "title": "如果只读一本“英语学习方法论”的书，那一定是这本 | Fluent Forever",
+      "cover": "https://i2.hdslb.com/bfs/archive/3170d6952b6f87119e390f9866ca606bed56a2c6.jpg",
+      "duration": 665,
+      "description": "Fluent Forever  是一本在亚马逊语言学习排行榜第二的书！如果对这本书有兴趣，接下来两个月，我们不见不散。",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "怎么学英语的争议太多了，课程也太多了，这本书可能会给出答案",
+          "duration": 665
+        }
+      ]
+    },
+    {
+      "bvid": "BV1rAFFznEhM",
+      "code": 0,
+      "title": "如果把语言学习当成一场游戏, 结果将会怎样？｜ fluent forever",
+      "cover": "https://i0.hdslb.com/bfs/archive/562c503fffded14f4e30cb8a4a8d529e207333d9.jpg",
+      "duration": 792,
+      "description": "Fluent forever 的第一章，我给大家提供了一些语言学习的资源。",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "如果把语言学习当成一场游戏, 结果将会怎样？｜ fluent forever",
+          "duration": 792
+        }
+      ]
+    },
+    {
+      "bvid": "BV1uAZtBMEF3",
+      "code": 0,
+      "title": "怎么永远记住一个单词？学习英语的 5 个基本原则 ｜ Fluent Forever",
+      "cover": "https://i1.hdslb.com/bfs/archive/19d4465d6a1925cdb83acf4e4ace0d9fd3eb57be.jpg",
+      "duration": 1562,
+      "description": "这是 Fluent forever 的第二章，让我感触很深。希望对你有帮助",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "怎么永远记住一个单词？学习英语的 5 个基本原则 ｜ Fluent Forever",
+          "duration": 1562
+        }
+      ]
+    },
+    {
+      "bvid": "BV1pGfpBSEi1",
+      "code": 0,
+      "title": "中国人听不懂英语的真正原因，是发音出了问题 ｜ Fluent Forever",
+      "cover": "https://i1.hdslb.com/bfs/archive/9490518436f9f7947367b17bb760b016a261666e.jpg",
+      "duration": 1159,
+      "description": "读完这一章我对英语的发音有了系统的了解。\n\n视频里面提到的资源，在接下来的一个月我会逐渐制作，敬请期待",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "中国人听不懂英语的真正原因，是发音出了问题 ｜ Fluent Forever",
+          "duration": 1159
+        }
+      ]
+    },
+    {
+      "bvid": "BV1GMQQB8EGH",
+      "code": 0,
+      "title": "我曾犯下巨大的错误，以为 10000 词才能阅读，今天发现只要 2000 个单词就可以开始了～",
+      "cover": "https://i2.hdslb.com/bfs/archive/ab1717bb7d1f99c43a2624ab84b3c1668e054717.jpg",
+      "duration": 1443,
+      "description": "这个视频有关于单词学习的一切，如果早点知道，我就不会硬背 10000 个单词了。",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "我曾犯下巨大的错误，以为 10000 词才能阅读，今天发现只要 2000 个单词就可以开始了～",
+          "duration": 1443
+        }
+      ]
+    },
+    {
+      "bvid": "BV1AoXQBDEN9",
+      "code": 0,
+      "title": "如果背语法是错的，那怎样学语法才是正确的？",
+      "cover": "https://i1.hdslb.com/bfs/archive/ab143bbec76c808c1bd86fad2413a784ba0344ad.jpg",
+      "duration": 1176,
+      "description": "今天讲 Fluent Forever 的第五章，如何学习语法。今天视频结束，学习英语的基础部分就结束了，这本书已经进入后半段了",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "终稿2，删除没必要的内容",
+          "duration": 1176
+        }
+      ]
+    },
+    {
+      "bvid": "BV1VrSZB5Epz",
+      "code": 0,
+      "title": "怎样不花钱、不买课，构建自己的英语学习路线？",
+      "cover": "https://i0.hdslb.com/bfs/archive/6d75a3575c744e0c6722b21c7a9d996b72206b2f.jpg",
+      "duration": 1040,
+      "description": "今天是把前面的资源串起来的一个视频。",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "怎样不花钱、不买课，构建自己的英语学习路线？",
+          "duration": 1040
+        }
+      ]
+    },
+    {
+      "bvid": "BV1sfDXBnEsH",
+      "code": 0,
+      "title": "英语进入高阶的路线，如何开始你的第一本书和第一部电视剧？",
+      "cover": "https://i1.hdslb.com/bfs/archive/6be3a2aea9f231daf8129fc6fdd3af296dd0bd5d.jpg",
+      "duration": 1216,
+      "description": "《Fluent Forever》, 最后一章，完结撒花🎉。是结束，也是开始。",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "发音更正",
+          "duration": 1216
+        }
+      ]
+    }
+  ],
+  "stick": [
+    {
+      "bvid": "BV1sEHxzQEbz",
+      "code": 0,
+      "title": "你一定在用错误的学习方式学习 ｜ 《Make it Stick》《认知天性》",
+      "cover": "https://i0.hdslb.com/bfs/archive/1f7389712f062ef074fd64d22c9555931f1b852d.jpg",
+      "duration": 496,
+      "description": "这是一本会让每个学生和终身学习者获益的书籍。",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "你一定在用错误的学习方式学习 ｜ Make it Stick",
+          "duration": 496
+        }
+      ]
+    },
+    {
+      "bvid": "BV16cx4zoEJy",
+      "code": 0,
+      "title": "（检索和提取）提升 50% 的学习效果 ｜ Make it stick",
+      "cover": "https://i2.hdslb.com/bfs/archive/32d0614d9341fb29d80f0b2ecd4c1be493da7b41.jpg",
+      "duration": 667,
+      "description": "这是一本会让每个学生和终身学习者获益的书籍。",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "（检索和提取）提升 50% 的学习效果 ｜ Make it stick",
+          "duration": 667
+        }
+      ]
+    },
+    {
+      "bvid": "BV1HfxqzZEbn",
+      "code": 0,
+      "title": "三个不受欢迎，但是科学证明有效的练习方式 ｜ Make it stick",
+      "cover": "https://i1.hdslb.com/bfs/archive/63ffe825e48fadddaf1bba03664397f7e4c17bda.jpg",
+      "duration": 489,
+      "description": "这是一本会让每个学生和终身学习者获益的书籍。",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "三个不受欢迎，但是科学证明有效的练习方式 ｜ Make it stick",
+          "duration": 489
+        }
+      ]
+    },
+    {
+      "bvid": "BV1sUsKz3EZ1",
+      "code": 0,
+      "title": "学习的最强武器：拥抱困难 ｜ Desirable Difficulty | Make it stick",
+      "cover": "https://i0.hdslb.com/bfs/archive/25a4bd11ccc4001839807311fc65382df96d87d4.jpg",
+      "duration": 582,
+      "description": "这是一本会让每个学生和终身学习者获益的书籍。",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "学习的最强武器：让自己不舒服，拥抱困难 ｜ Desirable Difficulty | Make it stick",
+          "duration": 582
+        }
+      ]
+    },
+    {
+      "bvid": "BV1mP17BkEi5",
+      "code": 0,
+      "title": "在学习中，怎样避免自我安慰和自我欺骗 ｜ Make it stick",
+      "cover": "https://i2.hdslb.com/bfs/archive/6d0b0831408ba4fecffe14d8891224e38d01a0b8.jpg",
+      "duration": 609,
+      "description": "每一个学习者都应该阅读的一本书，希望这本书可以帮到你。",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "终稿",
+          "duration": 609
+        }
+      ]
+    },
+    {
+      "bvid": "BV1KtCmBQELn",
+      "code": 0,
+      "title": "寻找结构，构建系统！如果你被标签化，只会让你的越来越弱",
+      "cover": "https://i0.hdslb.com/bfs/archive/a3e9a3a778816ea391291737795f02cf7f8ed3a4.jpg",
+      "duration": 675,
+      "description": "每个学习者都应该阅读的一本书，Make it stick, 第六章解读，已经进入这本书的收尾阶段了",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "寻找结构，构建系统！如果你被标签化，只会让你的越来越弱",
+          "duration": 675
+        }
+      ]
+    },
+    {
+      "bvid": "BV1JgmcBHEAG",
+      "code": 0,
+      "title": "过去经历不算好，现在还有机会吗  | 提升你的能力｜Make it stick",
+      "cover": "https://i0.hdslb.com/bfs/archive/44cf690ae1439fe13704b8130974f9f2a32e12b7.jpg",
+      "duration": 956,
+      "description": "这是 Make it stick 的第七章，让你知道自己，基因和出生并不能改变你，改变的因素掌握在你自己的手里",
+      "owner": "逃离平庸",
+      "pages": [
+        {
+          "page": 1,
+          "part": "过去经历不算好，现在还有机会吗  | 提升你的能力｜Make it stick",
+          "duration": 956
+        }
+      ]
+    }
+  ],
+  "prince": [
+    {
+      "bvid": "BV12sGP6REaP",
+      "title": "只需要 1000 词的基础，和你一起读小王子 ｜ 可能是你人生的第一本英文书",
+      "duration": 773,
+      "cover": "https://i0.hdslb.com/bfs/archive/d46078c23abbb8f90fbdc290320f2db78565c0ec.jpg",
+      "author": "逃离平庸"
+    },
+    {
+      "bvid": "BV1hYGG6pEPi",
+      "title": "小时候的梦想，是怎样被大人毁掉的？｜《小王子》英文原著 Day 01",
+      "duration": 615,
+      "cover": "https://i2.hdslb.com/bfs/archive/7d3a9451ef64c2a5cec34e785fb4e59f847a52e0.jpg",
+      "author": "逃离平庸"
+    },
+    {
+      "bvid": "BV1JMb16iE5r",
+      "title": "坠机后，他在沙漠遇见了小王子｜每天500词读原著·第2天",
+      "duration": 892,
+      "cover": "https://i0.hdslb.com/bfs/archive/997b4bd3467dc21a364997a8a0b816c2020983c9.jpg",
+      "author": "逃离平庸"
+    },
+    {
+      "bvid": "BV1Qs8h6HEvj",
+      "title": "500 个单词，看看你能读懂多少？小王子阅读第 3 天 ｜ 原版书实验室",
+      "duration": 753,
+      "cover": "https://i1.hdslb.com/bfs/archive/12a3c9f11240d7d7f4c87384b958168796c241ba.jpg",
+      "author": "逃离平庸"
+    },
+    {
+      "bvid": "BV1cXtn6iEKE",
+      "title": "一起阅读我们的第一本英文小说，580 单词 ｜ 小王子阅读 第4天",
+      "duration": 707,
+      "cover": "https://i1.hdslb.com/bfs/archive/93e0505ff80a7d8d806aa4dbf7bce891d935f350.jpg",
+      "author": "逃离平庸"
+    },
+    {
+      "bvid": "BV1iMbn6bE9W",
+      "title": "哪怕只有 1000 词，也能读懂这本“The little prince” | 小王子阅读 5 天",
+      "duration": 716,
+      "cover": "https://i2.hdslb.com/bfs/archive/6be0ffd651adf57dbf7524ffe9b268b97f5460e7.jpg",
+      "author": "逃离平庸"
+    },
+    {
+      "bvid": "BV16jhX6cEpY",
+      "title": "（猴面包树）隐喻：真正危险的问题，一开始往往都很小｜《小王子》Day 06",
+      "duration": 825,
+      "cover": "https://i1.hdslb.com/bfs/archive/691a1c786447b6c177abe8ab0149ff353dfc751c.jpg",
+      "author": "逃离平庸"
+    }
+  ]
+}

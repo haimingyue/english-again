@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-06",
+  "responsive": [
+    {
+      "view": "桌面",
+      "height": 4548,
+      "images": [
+        {
+          "alt": "用户自制元音卡片：ɪ 的音频按钮、舌位高低、前后和圆唇度",
+          "loaded": true
+        }
+      ],
+      "oldVersionLinks": 0,
+      "scrollWidth": 1440,
+      "viewport": 1440
+    },
+    {
+      "view": "平板",
+      "height": 4496,
+      "images": [
+        {
+          "alt": "用户自制元音卡片：ɪ 的音频按钮、舌位高低、前后和圆唇度",
+          "loaded": true
+        }
+      ],
+      "oldVersionLinks": 0,
+      "scrollWidth": 768,
+      "viewport": 768
+    },
+    {
+      "view": "手机",
+      "height": 6443,
+      "images": [
+        {
+          "alt": "用户自制元音卡片：ɪ 的音频按钮、舌位高低、前后和圆唇度",
+          "loaded": true
+        }
+      ],
+      "oldVersionLinks": 0,
+      "scrollWidth": 390,
+      "viewport": 390
+    }
+  ],
+  "verified": [
+    "卡组原音频可播放：单词和音素，媒体 readyState=4，无音频错误",
+    "正确答案显示听对反馈；错误答案显示正确项与重听提示",
+    "换一组在三组听辨题之间循环",
+    "四个卡片选项卡、方向键切换、发音图解快捷入口",
+    "原图弹窗、Escape 关闭、关闭后焦点返回",
+    "Anki 导入说明展开",
+    "卡组实际下载成功，并与原 .apkg 字节比对相同",
+    "手机菜单展开与 Escape 收起",
+    "V3 首页和音标页的本地链接、锚点均存在；无 V1/V2 页面依赖"
+  ],
+  "consoleErrors": []
+}

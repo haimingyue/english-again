@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-02",
+  "desktop": [
+    {
+      "page": "about",
+      "size": "desktop",
+      "active": "介绍",
+      "heading": "我想用一年，\n重新学一次英语。",
+      "height": 2716,
+      "imagesLoaded": true,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "page": "phonetics",
+      "size": "desktop",
+      "active": "音标",
+      "heading": "美式音标\n与听辨练习",
+      "height": 3001,
+      "imagesLoaded": true,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "page": "grammar",
+      "size": "desktop",
+      "active": "语法",
+      "heading": "基础语法\n学习笔记",
+      "height": 2221,
+      "imagesLoaded": true,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "page": "resources",
+      "size": "desktop",
+      "active": "资源",
+      "heading": "学习资料",
+      "height": 2999,
+      "imagesLoaded": true,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "page": "courses",
+      "size": "desktop",
+      "active": "专栏",
+      "heading": "52 周的\n英语自学记录",
+      "height": 2787,
+      "imagesLoaded": true,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "page": "tools",
+      "size": "desktop",
+      "active": "工具",
+      "heading": "读书会",
+      "height": 3364,
+      "imagesLoaded": true,
+      "scrollWidth": 1440,
+      "width": 1440
+    }
+  ],
+  "responsive": [
+    {
+      "page": "about",
+      "size": "tablet",
+      "heading": "我想用一年，\n重新学一次英语。",
+      "height": 3408,
+      "imagesLoaded": true,
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "page": "phonetics",
+      "size": "tablet",
+      "heading": "美式音标\n与听辨练习",
+      "height": 3275,
+      "imagesLoaded": true,
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "page": "grammar",
+      "size": "tablet",
+      "heading": "基础语法\n学习笔记",
+      "height": 2465,
+      "imagesLoaded": true,
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "page": "resources",
+      "size": "tablet",
+      "heading": "学习资料",
+      "height": 3258,
+      "imagesLoaded": true,
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "page": "courses",
+      "size": "tablet",
+      "heading": "52 周的\n英语自学记录",
+      "height": 3111,
+      "imagesLoaded": true,
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "page": "tools",
+      "size": "tablet",
+      "heading": "读书会",
+      "height": 3473,
+      "imagesLoaded": true,
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "page": "about",
+      "size": "mobile",
+      "fontSize": "39px",
+      "heading": "我想用一年，\n重新学一次英语。",
+      "height": 3695,
+      "imagesLoaded": true,
+      "overflowing": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "page": "phonetics",
+      "size": "mobile",
+      "fontSize": "39px",
+      "heading": "美式音标\n与听辨练习",
+      "height": 3650,
+      "imagesLoaded": true,
+      "overflowing": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "page": "grammar",
+      "size": "mobile",
+      "fontSize": "39px",
+      "heading": "基础语法\n学习笔记",
+      "height": 2962,
+      "imagesLoaded": true,
+      "overflowing": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "page": "resources",
+      "size": "mobile",
+      "fontSize": "39px",
+      "heading": "学习资料",
+      "height": 4018,
+      "imagesLoaded": true,
+      "overflowing": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "page": "courses",
+      "size": "mobile",
+      "fontSize": "39px",
+      "heading": "52 周的\n英语自学记录",
+      "height": 3402,
+      "imagesLoaded": true,
+      "overflowing": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "page": "tools",
+      "size": "mobile",
+      "fontSize": "62px",
+      "heading": "读书会",
+      "height": 3591,
+      "imagesLoaded": true,
+      "overflowing": [],
+      "scrollWidth": 390,
+      "width": 390
+    }
+  ],
+  "interactions": [
+    {
+      "action": "film tab",
+      "caption": "字幕搜索、逐句停播、单句练习与相邻句合练。",
+      "imageLoaded": true,
+      "page": "tools",
+      "selected": "影视"
+    },
+    {
+      "action": "keyboard next tab",
+      "imageLoaded": true,
+      "page": "tools",
+      "selected": "数据"
+    },
+    {
+      "action": "consonant pair and chart",
+      "dictionaryLinks": [
+        "https://dictionary.cambridge.org/us/pronunciation/english/fan",
+        "https://dictionary.cambridge.org/us/pronunciation/english/van"
+      ],
+      "page": "phonetics",
+      "soundCells": 24,
+      "words": [
+        "fan",
+        "van"
+      ]
+    },
+    {
+      "action": "select past tense",
+      "courseHref": "courses.html?week=7",
+      "examples": [
+        "I watched a film yesterday.",
+        "I was at home yesterday."
+      ],
+      "page": "grammar",
+      "title": "过去时"
+    },
+    {
+      "page": "resources",
+      "test": "卡牌翻面",
+      "word": "阅读",
+      "side": "背面"
+    },
+    {
+      "page": "resources",
+      "test": "发音筛选",
+      "count": "2 个主题",
+      "rows": 2
+    },
+    {
+      "page": "resources",
+      "test": "主题搜索",
+      "rows": 1,
+      "text": "第 23 周\n介词\n\n语法笔记与练习\n\n资料待补充\n查看课程 ↗"
+    },
+    {
+      "page": "resources",
+      "test": "搜索空状态",
+      "count": "0 个主题",
+      "empty": "没有找到这个主题。试试其他关键词。"
+    },
+    {
+      "page": "courses",
+      "test": "课程第三页",
+      "pager": "3 / 3 页",
+      "rows": 7,
+      "last": "23\n周次\n介词\n\n2026年09月27日 · 基础语法\n\n查看课程 ↗"
+    },
+    {
+      "page": "courses",
+      "test": "课程搜索",
+      "count": "共 1 条课程记录",
+      "title": "介词"
+    },
+    {
+      "page": "courses",
+      "test": "课程弹窗",
+      "title": "第 23 周 · 介词",
+      "open": ""
+    },
+    {
+      "page": "courses",
+      "test": "Escape关闭与焦点返回",
+      "state": {
+        "focused": "查看第 23 周课程",
+        "open": false
+      }
+    },
+    {
+      "page": "courses",
+      "test": "最新在前",
+      "first": "23\n周次\n介词\n\n2026年09月27日 · 基础语法\n\n查看课程 ↗"
+    },
+    {
+      "page": "courses",
+      "test": "发音课程筛选",
+      "rows": 2
+    },
+    {
+      "page": "courses",
+      "test": "跨页课程入口",
+      "title": "第 7 周 · 过去时",
+      "open": ""
+    },
+    {
+      "page": "home",
+      "test": "首页语法入口",
+      "url": "http://127.0.0.1:4176/ui-v2/grammar.html",
+      "heading": "基础语法\n学习笔记"
+    },
+    {
+      "page": "home",
+      "test": "首页第一周入口",
+      "url": "http://127.0.0.1:4176/ui-v2/courses.html?week=1",
+      "heading": "第 1 周 · 辅音"
+    },
+    {
+      "page": "tools",
+      "test": "手机菜单展开",
+      "state": {
+        "expanded": "true",
+        "links": [
+          "首页",
+          "介绍",
+          "音标",
+          "语法",
+          "资源",
+          "专栏",
+          "工具"
+        ],
+        "navWidth": 390,
+        "scrollWidth": 390
+      }
+    },
+    {
+      "page": "tools",
+      "test": "手机菜单Escape关闭",
+      "expanded": "false"
+    }
+  ],
+  "file_audit": {
+    "local_references_checked": 227,
+    "broken": [],
+    "copy_flags": [],
+    "software_assets": [
+      {
+        "file": "软件影视页.png",
+        "identical_to_original": true
+      },
+      {
+        "file": "软件数据页.png",
+        "identical_to_original": true
+      },
+      {
+        "file": "软件阅读页.png",
+        "identical_to_original": true
+      }
+    ],
+    "all_six_full_desktop_and_mobile_exports": true
+  }
+}

@@ -1,0 +1,357 @@
+{
+  "source": "用户提供",
+  "received_date": "2026-10-01",
+  "order_note": "全部已于 2026-10-06 通过 Bilibili 元数据核对；第 3–4 周合为一集。",
+  "videos": [
+    {
+      "order": 1,
+      "bvid": "BV1gNd6BqEnJ",
+      "url": "https://www.bilibili.com/video/BV1gNd6BqEnJ/",
+      "week": null,
+      "title": "52周，10 个阶段，我们重学一次英语！我开了个英语自学专栏，一起玩一年。",
+      "topic": "开篇介绍与全年计划",
+      "duration_seconds": 1105,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": []
+    },
+    {
+      "order": 2,
+      "bvid": "BV1pddfBLEze",
+      "url": "https://www.bilibili.com/video/BV1pddfBLEze/",
+      "week": 1,
+      "title": "一起学一年英语，搞定听说读写。第一周任务来啦",
+      "topic": "辅音",
+      "duration_seconds": 745,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        1
+      ]
+    },
+    {
+      "order": 3,
+      "bvid": "BV1YboQBCEBj",
+      "url": "https://www.bilibili.com/video/BV1YboQBCEBj/",
+      "week": 2,
+      "title": "怎么学元音 | 英语自学指北 第二周 | 进度4%，我一定能更新完的",
+      "topic": "元音",
+      "duration_seconds": 785,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        2
+      ]
+    },
+    {
+      "order": 4,
+      "bvid": "BV1399RBVEfD",
+      "url": "https://www.bilibili.com/video/BV1399RBVEfD/",
+      "week": null,
+      "title": "从 100 个单词、100 个句子开启不一样的英语学习之旅 ｜ 英语自学指北第四周 ｜ 进度 8%，我一定可以更新完的，加油",
+      "topic": "100 个单词与 100 个句子",
+      "duration_seconds": 1295,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        3,
+        4
+      ]
+    },
+    {
+      "order": 5,
+      "bvid": "BV1Yz5J6EEc9",
+      "url": "https://www.bilibili.com/video/BV1Yz5J6EEc9/",
+      "week": 5,
+      "title": "我们一起用剑桥出版的《Essential grammar in use》学习基础语法 ｜ 一年学习进度 10%，我一定会完成这个专栏的",
+      "topic": "基础语法入门",
+      "duration_seconds": 1239,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        5
+      ]
+    },
+    {
+      "order": 6,
+      "bvid": "BV1zpL56mEdU",
+      "url": "https://www.bilibili.com/video/BV1zpL56mEdU/",
+      "week": 6,
+      "title": "一个视频彻底搞懂一般现在时和现在进行时的区别 ｜ 英语自学指北week6  ｜ 进度12%，我一定会完成这个专栏的",
+      "topic": "一般现在时与现在进行时",
+      "duration_seconds": 1263,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        6
+      ]
+    },
+    {
+      "order": 7,
+      "bvid": "BV1UHGL64E1y",
+      "url": "https://www.bilibili.com/video/BV1UHGL64E1y/",
+      "week": 7,
+      "title": "自学指北专栏第七周，搞清楚英语中的“过去” ｜ 100个单词，130 个句子，30 张语法牌",
+      "topic": "过去时",
+      "duration_seconds": 1036,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        7
+      ]
+    },
+    {
+      "order": 8,
+      "bvid": "BV1tjVQ68E5v",
+      "url": "https://www.bilibili.com/video/BV1tjVQ68E5v/",
+      "week": 8,
+      "title": "终于完成 625 单词的学习，今天我们学习现在完成时 ｜ 自学指北，第八周！ 进度 15%",
+      "topic": "现在完成时与 625 单词学习",
+      "duration_seconds": 1423,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        8
+      ]
+    },
+    {
+      "order": 9,
+      "bvid": "BV14FEb6rEHv",
+      "url": "https://www.bilibili.com/video/BV14FEb6rEHv/",
+      "week": 9,
+      "title": "英语中的被动以及如何表达未来 ｜ 英语自学指北 第九周",
+      "topic": "被动与未来表达",
+      "duration_seconds": 1264,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        9
+      ]
+    },
+    {
+      "order": 10,
+      "bvid": "BV1wiJK6rEbm",
+      "url": "https://www.bilibili.com/video/BV1wiJK6rEbm/",
+      "week": 10,
+      "title": "一个视频搞定 might 、should、can、could、must、would、I have to 的区别和使用场景 ｜ 英语自学指北 第十周",
+      "topic": "情态动词",
+      "duration_seconds": 1206,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        10
+      ]
+    },
+    {
+      "order": 11,
+      "bvid": "BV1Ufj76CEmR",
+      "url": "https://www.bilibili.com/video/BV1Ufj76CEmR/",
+      "week": 11,
+      "title": "一不小心把专栏做到第十一周了｜ 英语自学指北",
+      "topic": "祈使句、used to、there be 与 it",
+      "duration_seconds": 1061,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        11
+      ]
+    },
+    {
+      "order": 12,
+      "bvid": "BV1XjTT6FEY9",
+      "url": "https://www.bilibili.com/video/BV1XjTT6FEY9/",
+      "week": 12,
+      "title": "18 分钟搞定助动词 ｜这是我们学习的第十二周，全年进度 23%",
+      "topic": "助动词",
+      "duration_seconds": 1136,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        12
+      ]
+    },
+    {
+      "order": 13,
+      "bvid": "BV1YSMu6uETD",
+      "url": "https://www.bilibili.com/video/BV1YSMu6uETD/",
+      "week": 13,
+      "title": "如何用英语提问？把陈述句变成疑问句的三个手段 ｜ 英语自学指北第十三周",
+      "topic": "疑问句",
+      "duration_seconds": 1363,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        13
+      ]
+    },
+    {
+      "order": 14,
+      "bvid": "BV1qMNK6fEqM",
+      "url": "https://www.bilibili.com/video/BV1qMNK6fEqM/",
+      "week": 14,
+      "title": "to do 还是 doing？英语动词搭配终于讲明白了｜英语自学指北·第14周",
+      "topic": "to do 与 doing",
+      "duration_seconds": 1009,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        14
+      ]
+    },
+    {
+      "order": 15,
+      "bvid": "BV1jrKK6cEVt",
+      "url": "https://www.bilibili.com/video/BV1jrKK6cEVt/",
+      "week": 15,
+      "title": "这周搞懂了 Go、Get、Do、Have，千词达成 ｜ 自学指北进度15 周，进度一半了",
+      "topic": "Go、Get、Do、Have",
+      "duration_seconds": 1033,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        15
+      ]
+    },
+    {
+      "order": 16,
+      "bvid": "BV1ok3E61EoZ",
+      "url": "https://www.bilibili.com/video/BV1ok3E61EoZ/",
+      "week": 16,
+      "title": "代词和所有格 ｜ pronouns和possessives ｜ 英语自学指北 - 第十六周",
+      "topic": "代词与所有格",
+      "duration_seconds": 879,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        16
+      ]
+    },
+    {
+      "order": 17,
+      "bvid": "BV1eCum6DEZU",
+      "url": "https://www.bilibili.com/video/BV1eCum6DEZU/",
+      "week": 17,
+      "title": "关于 a an the 的一次全面学习，长达 30 分钟｜ 自学指北第 17 周",
+      "topic": "冠词 a、an、the",
+      "duration_seconds": 1650,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        17
+      ]
+    },
+    {
+      "order": 18,
+      "bvid": "BV1HdbQ6ZEcR",
+      "url": "https://www.bilibili.com/video/BV1HdbQ6ZEcR/",
+      "week": 18,
+      "title": "第18周：this/that、one/ones、some/any 一次讲清 ｜ 英语自学指北",
+      "topic": "this/that、one/ones、some/any",
+      "duration_seconds": 1228,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        18
+      ]
+    },
+    {
+      "order": 19,
+      "bvid": "BV1D78m6cEKP",
+      "url": "https://www.bilibili.com/video/BV1D78m6cEKP/",
+      "week": 19,
+      "title": "学了好多年都学不明白的 many, much, many of, much of, a lot of, 等 ｜ 英语自学指北 19 周",
+      "topic": "many、much 等数量表达",
+      "duration_seconds": 1263,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        19
+      ]
+    },
+    {
+      "order": 20,
+      "bvid": "BV11A4U6UErq",
+      "url": "https://www.bilibili.com/video/BV11A4U6UErq/",
+      "week": 20,
+      "title": "30分钟，英语中形容词、副词的全面学习 ｜ 英语自学指北 20 周",
+      "topic": "形容词与副词",
+      "duration_seconds": 1784,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        20
+      ]
+    },
+    {
+      "order": 21,
+      "bvid": "BV1B1t26KE5c",
+      "url": "https://www.bilibili.com/video/BV1B1t26KE5c/",
+      "week": 21,
+      "title": "一个单词，在句子里应该放在什么位置? | 英语自学指北 21 周",
+      "topic": "单词在句子中的位置",
+      "duration_seconds": 855,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        21
+      ]
+    },
+    {
+      "order": 22,
+      "bvid": "BV1hGYX6DEPV",
+      "url": "https://www.bilibili.com/video/BV1hGYX6DEPV/",
+      "week": 22,
+      "title": "如何把简单句组成长句子？ ｜ 英语自学指北 22 周",
+      "topic": "简单句组成长句",
+      "duration_seconds": 1546,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        22
+      ]
+    },
+    {
+      "order": 23,
+      "bvid": "BV124at63EBK",
+      "url": "https://www.bilibili.com/video/BV124at63EBK/",
+      "week": 23,
+      "title": "为什么是 at work，却是 in bed？英语介词到底怎么选 ｜ 英语自学指北第 23 周",
+      "topic": "介词",
+      "duration_seconds": 1294,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        23
+      ]
+    },
+    {
+      "order": 24,
+      "bvid": "BV1PpHW6wE8e",
+      "url": "https://www.bilibili.com/video/BV1PpHW6wE8e/",
+      "week": 24,
+      "title": "英语里的这些“小词”，才是最麻烦的！｜英语自学指北 Week 24",
+      "topic": "英语中的“小词”",
+      "duration_seconds": 1341,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        24
+      ]
+    },
+    {
+      "order": 25,
+      "bvid": "BV1jCpF6WEeU",
+      "url": "https://www.bilibili.com/video/BV1jCpF6WEeU/",
+      "week": 25,
+      "title": "Phrasal verbs 短语动词是啥？｜英语自学指北第 25 周",
+      "topic": "Phrasal verbs 短语动词",
+      "duration_seconds": 564,
+      "summary": null,
+      "metadata_status": "verified_bilibili_api",
+      "weeks": [
+        25
+      ]
+    }
+  ],
+  "updated_at": "2026-10-06"
+}

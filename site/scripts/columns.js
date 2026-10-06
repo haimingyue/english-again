@@ -1,0 +1,16 @@
+'use strict';
+const menu=document.querySelector('.menu-toggle'),nav=document.querySelector('#nav');
+menu.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';menu.setAttribute('aria-expanded',String(open));nav.classList.toggle('is-open',open);});
+nav.addEventListener('click',e=>{if(e.target.closest('a')){nav.classList.remove('is-open');menu.setAttribute('aria-expanded','false');}});
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&nav.classList.contains('is-open')){nav.classList.remove('is-open');menu.setAttribute('aria-expanded','false');menu.focus();}});
+const grid=document.querySelector('#video-grid'),cards=[...grid.querySelectorAll('.video-card')],search=document.querySelector('#video-search'),sort=document.querySelector('#video-sort'),count=document.querySelector('#result-count'),empty=document.querySelector('#empty-state');let category='全部';
+function normalize(s){return s.normalize('NFKC').toLowerCase().replace(/[–—]/g,'-').replace(/\s+/g,'').trim();}
+function applyFilters(){const terms=search.value.trim().split(/\s+/).filter(Boolean).map(normalize);let visible=0;cards.forEach(card=>{const match=(category==='全部'||card.dataset.category===category)&&terms.every(t=>normalize(card.dataset.search).includes(t));card.hidden=!match;if(match)visible++;});[...cards].sort((a,b)=>(Number(a.dataset.order)-Number(b.dataset.order))*(sort.value==='desc'?-1:1)).forEach(c=>grid.append(c));count.textContent=(visible===cards.length?'共 ':'找到 ')+visible+' 集';empty.hidden=visible>0;}
+search.addEventListener('input',applyFilters);sort.addEventListener('change',applyFilters);
+document.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click',()=>{category=b.dataset.filter;document.querySelectorAll('[data-filter]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));applyFilters();}));
+document.querySelector('#reset-filters').addEventListener('click',()=>{search.value='';category='全部';sort.value='asc';document.querySelectorAll('[data-filter]').forEach(x=>x.setAttribute('aria-pressed',String(x.dataset.filter==='全部')));applyFilters();search.focus();});
+const dialog=document.querySelector('#notes-dialog'),noteImage=document.querySelector('#notes-image');
+document.querySelectorAll('[data-image]').forEach(b=>b.addEventListener('click',()=>{noteImage.src=b.dataset.image;noteImage.alt=b.dataset.title+'完整学习笔记';document.querySelector('#notes-title').textContent=b.dataset.title;document.querySelector('#open-original').href=b.dataset.image;dialog.showModal();}));
+document.querySelector('#close-notes').addEventListener('click',()=>dialog.close());
+dialog.addEventListener('click',e=>{if(e.target!==dialog)return;const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close();});
+document.querySelectorAll('img[data-fallback]').forEach(img=>{function fallback(){if(img.dataset.failed)return;img.dataset.failed='true';img.src=img.dataset.fallback;img.alt=img.dataset.fallback.includes('little-prince')?'小王子共读专栏':img.dataset.fallback.includes('fluent')?'Fluent Forever 书封':'Make It Stick 书封';img.parentElement.classList.add('fallback');}img.addEventListener('error',fallback);if(img.complete&&!img.naturalWidth)fallback();});

@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-06",
+  "javascript_syntax": [
+    {
+      "file": "site/scripts/about.js",
+      "exit_code": 0
+    },
+    {
+      "file": "site/scripts/columns.js",
+      "exit_code": 0
+    },
+    {
+      "file": "site/scripts/grammar.js",
+      "exit_code": 0
+    },
+    {
+      "file": "site/scripts/phonetics-data.js",
+      "exit_code": 0
+    },
+    {
+      "file": "site/scripts/phonetics.js",
+      "exit_code": 0
+    },
+    {
+      "file": "site/scripts/reading.js",
+      "exit_code": 0
+    },
+    {
+      "file": "site/scripts/tools-platform.mjs",
+      "exit_code": 0
+    },
+    {
+      "file": "site/scripts/tools.js",
+      "exit_code": 0
+    },
+    {
+      "file": "site/scripts/vocabulary-data.js",
+      "exit_code": 0
+    },
+    {
+      "file": "site/scripts/vocabulary.js",
+      "exit_code": 0
+    }
+  ],
+  "platform_tests": {
+    "exit_code": 0,
+    "output": "21 platform, denied-hint, and release-link checks passed."
+  },
+  "isolated_rebuild": {
+    "scripts": [
+      "prepare_phonetics.py",
+      "prepare_vocabulary.py",
+      "prepare_columns.py",
+      "prepare_tools.py",
+      "build_columns.py"
+    ],
+    "exit_codes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "working_directory": "outside project",
+    "post_build_local_and_hash_check": "passed",
+    "series_preserved": [
+      "weekly",
+      "fluent",
+      "stick",
+      "prince"
+    ]
+  },
+  "backup_file_count": 391
+}

@@ -1,0 +1,16 @@
+{
+  "updated": "2026-10-06",
+  "primary_homepage": "index.html",
+  "phonetics_page": "phonetics.html",
+  "runtime_dependencies": "All local runtime assets are inside ui-v3",
+  "navigation": {
+    "首页": "index.html",
+    "音标": "phonetics.html",
+    "介绍": "index.html#methods",
+    "语法": "index.html#grammar",
+    "资源": "phonetics.html#download",
+    "专栏": "index.html#courses",
+    "工具": "index.html#tools"
+  },
+  "previous_entry_check": "Superseded by the independent V3 structure confirmed by user in this turn."
+}

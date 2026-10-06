@@ -1,0 +1,46 @@
+{
+  "pages": {
+    "index.html": {
+      "reading_nav": true,
+      "nav_css": true
+    },
+    "grammar.html": {
+      "reading_nav": true,
+      "nav_css": true
+    },
+    "about.html": {
+      "reading_nav": true,
+      "nav_css": true
+    },
+    "columns.html": {
+      "reading_nav": true,
+      "nav_css": true
+    },
+    "little-prince.html": {
+      "reading_nav": true,
+      "nav_css": true
+    },
+    "fluent-forever.html": {
+      "reading_nav": true,
+      "nav_css": true
+    },
+    "reading.html": {
+      "reading_nav": true,
+      "nav_css": true
+    },
+    "make-it-stick.html": {
+      "reading_nav": true,
+      "nav_css": true
+    },
+    "vocabulary.html": {
+      "reading_nav": true,
+      "nav_css": true
+    },
+    "phonetics.html": {
+      "reading_nav": true,
+      "nav_css": true
+    }
+  },
+  "video_links": 11,
+  "issues": []
+}

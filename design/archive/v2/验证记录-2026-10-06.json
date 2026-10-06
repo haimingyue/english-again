@@ -1,0 +1,215 @@
+{
+  "date": "2026-10-06",
+  "responsive": [
+    {
+      "page": "about",
+      "view": "desktop",
+      "headings": [
+        "用 25 周，重新学一次英语。",
+        "这里有哪些内容",
+        "源于科学的学习方法",
+        "每周可以这样安排",
+        "先从第一周开始，逐步学到第 25 周。",
+        ""
+      ],
+      "images": [
+        {
+          "alt": "COCA 语料检索主题插画：词语卡片、放大镜与频率条",
+          "loaded": true
+        },
+        {
+          "alt": "Make It Stick 原书封面",
+          "loaded": true
+        },
+        {
+          "alt": "Fluent Forever 原书封面",
+          "loaded": true
+        }
+      ],
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "page": "courses",
+      "view": "desktop",
+      "headings": [
+        "25 周的英语自学记录",
+        "课程目录",
+        "课程之外，也可以查配套资料。",
+        ""
+      ],
+      "images": [],
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "page": "home",
+      "view": "desktop",
+      "headings": [
+        "从发音到阅读，重新学一次英语。",
+        "先打好基础，再一步步往前。",
+        "每周一个主题。把英语慢慢学回来。",
+        "打开一本书。练习一段对话。留下学习的记录。",
+        "源于科学的学习方法",
+        "下一步，从第一周开始。",
+        "",
+        ""
+      ],
+      "images": [
+        {
+          "alt": "一位学习者在窗边阅读英文并做笔记，学习场景示意图",
+          "loaded": true
+        },
+        {
+          "alt": "读书会软件的阅读空间界面，展示书籍与阅读分类",
+          "loaded": true
+        }
+      ],
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "page": "about",
+      "view": "tablet",
+      "headings": [
+        "用 25 周，重新学一次英语。",
+        "这里有哪些内容",
+        "源于科学的学习方法",
+        "每周可以这样安排",
+        "先从第一周开始，逐步学到第 25 周。",
+        ""
+      ],
+      "images": [
+        {
+          "alt": "COCA 语料检索主题插画：词语卡片、放大镜与频率条",
+          "loaded": true
+        },
+        {
+          "alt": "Make It Stick 原书封面",
+          "loaded": true
+        },
+        {
+          "alt": "Fluent Forever 原书封面",
+          "loaded": true
+        }
+      ],
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "page": "courses",
+      "view": "tablet",
+      "headings": [
+        "25 周的英语自学记录",
+        "课程目录",
+        "课程之外，也可以查配套资料。",
+        ""
+      ],
+      "images": [],
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "page": "home",
+      "view": "tablet",
+      "headings": [
+        "从发音到阅读，重新学一次英语。",
+        "先打好基础，再一步步往前。",
+        "每周一个主题。把英语慢慢学回来。",
+        "打开一本书。练习一段对话。留下学习的记录。",
+        "源于科学的学习方法",
+        "下一步，从第一周开始。",
+        "",
+        ""
+      ],
+      "images": [
+        {
+          "alt": "一位学习者在窗边阅读英文并做笔记，学习场景示意图",
+          "loaded": true
+        },
+        {
+          "alt": "读书会软件的阅读空间界面，展示书籍与阅读分类",
+          "loaded": true
+        }
+      ],
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "page": "about",
+      "view": "mobile",
+      "headings": [
+        "用 25 周，重新学一次英语。",
+        "这里有哪些内容",
+        "源于科学的学习方法",
+        "每周可以这样安排",
+        "先从第一周开始，逐步学到第 25 周。",
+        ""
+      ],
+      "images": [
+        {
+          "alt": "COCA 语料检索主题插画：词语卡片、放大镜与频率条",
+          "loaded": true
+        },
+        {
+          "alt": "Make It Stick 原书封面",
+          "loaded": true
+        },
+        {
+          "alt": "Fluent Forever 原书封面",
+          "loaded": true
+        }
+      ],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "page": "courses",
+      "view": "mobile",
+      "headings": [
+        "25 周的英语自学记录",
+        "课程目录",
+        "课程之外，也可以查配套资料。",
+        ""
+      ],
+      "images": [],
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "page": "home",
+      "view": "mobile",
+      "headings": [
+        "从发音到阅读，重新学一次英语。",
+        "先打好基础，再一步步往前。",
+        "每周一个主题。把英语慢慢学回来。",
+        "打开一本书。练习一段对话。留下学习的记录。",
+        "源于科学的学习方法",
+        "下一步，从第一周开始。",
+        "",
+        ""
+      ],
+      "images": [
+        {
+          "alt": "一位学习者在窗边阅读英文并做笔记，学习场景示意图",
+          "loaded": true
+        },
+        {
+          "alt": "读书会软件的阅读空间界面，展示书籍与阅读分类",
+          "loaded": true
+        }
+      ],
+      "scrollWidth": 390,
+      "width": 390
+    }
+  ],
+  "interactions": [
+    "第 25 周参数入口打开课程弹窗，BV1jCpF6WEeU 链接正确",
+    "倒序后点击第 24 周，BV1PpHW6wE8e 链接正确",
+    "短语动词搜索返回第 25 周",
+    "Escape 关闭课程弹窗",
+    "连通首页点击第 25 周可打开对应课程弹窗",
+    "独立首页第 24 周弹窗提供正确的 B 站链接"
+  ],
+  "consoleErrors": []
+}

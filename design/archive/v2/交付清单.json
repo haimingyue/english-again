@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-02",
+  "pages": [
+    "about.html",
+    "phonetics.html",
+    "grammar.html",
+    "resources.html",
+    "courses.html",
+    "tools.html"
+  ],
+  "gallery": "index.html",
+  "mobile_gallery": "mobile-overview.html",
+  "screenshots": [
+    {
+      "file": "desktop/02-介绍-首屏.jpg",
+      "width": 1231,
+      "height": 1000,
+      "bytes": 71369
+    },
+    {
+      "file": "desktop/02-介绍.jpg",
+      "width": 1440,
+      "height": 2960,
+      "bytes": 237800
+    },
+    {
+      "file": "desktop/03-音标-首屏.jpg",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 68723
+    },
+    {
+      "file": "desktop/03-音标.jpg",
+      "width": 1440,
+      "height": 3001,
+      "bytes": 174803
+    },
+    {
+      "file": "desktop/04-语法-首屏.jpg",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 77544
+    },
+    {
+      "file": "desktop/04-语法.jpg",
+      "width": 1440,
+      "height": 2221,
+      "bytes": 159874
+    },
+    {
+      "file": "desktop/05-资源-首屏.jpg",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 61939
+    },
+    {
+      "file": "desktop/05-资源.jpg",
+      "width": 1440,
+      "height": 2999,
+      "bytes": 188473
+    },
+    {
+      "file": "desktop/06-专栏-首屏.jpg",
+      "width": 1231,
+      "height": 1000,
+      "bytes": 68331
+    },
+    {
+      "file": "desktop/06-专栏.jpg",
+      "width": 1440,
+      "height": 2787,
+      "bytes": 183586
+    },
+    {
+      "file": "desktop/07-工具-首屏.jpg",
+      "width": 1440,
+      "height": 1000,
+      "bytes": 87005
+    },
+    {
+      "file": "desktop/07-工具.jpg",
+      "width": 1440,
+      "height": 3364,
+      "bytes": 334763
+    },
+    {
+      "file": "mobile/02-介绍-首屏.jpg",
+      "width": 73,
+      "height": 158,
+      "bytes": 3093
+    },
+    {
+      "file": "mobile/02-介绍.jpg",
+      "width": 390,
+      "height": 4535,
+      "bytes": 178596
+    },
+    {
+      "file": "mobile/03-音标-首屏.jpg",
+      "width": 390,
+      "height": 844,
+      "bytes": 31273
+    },
+    {
+      "file": "mobile/03-音标.jpg",
+      "width": 390,
+      "height": 3650,
+      "bytes": 120189
+    },
+    {
+      "file": "mobile/04-语法-首屏.jpg",
+      "width": 390,
+      "height": 844,
+      "bytes": 30969
+    },
+    {
+      "file": "mobile/04-语法.jpg",
+      "width": 390,
+      "height": 2962,
+      "bytes": 110388
+    },
+    {
+      "file": "mobile/05-资源-首屏.jpg",
+      "width": 390,
+      "height": 844,
+      "bytes": 26229
+    },
+    {
+      "file": "mobile/05-资源.jpg",
+      "width": 390,
+      "height": 4018,
+      "bytes": 128769
+    },
+    {
+      "file": "mobile/06-专栏-首屏.jpg",
+      "width": 281,
+      "height": 844,
+      "bytes": 25345
+    },
+    {
+      "file": "mobile/06-专栏.jpg",
+      "width": 390,
+      "height": 3427,
+      "bytes": 127404
+    },
+    {
+      "file": "mobile/07-工具-首屏.jpg",
+      "width": 390,
+      "height": 844,
+      "bytes": 43099
+    },
+    {
+      "file": "mobile/07-工具.jpg",
+      "width": 390,
+      "height": 3591,
+      "bytes": 156119
+    },
+    {
+      "file": "六页设计总览.jpg",
+      "width": 1440,
+      "height": 1425,
+      "bytes": 167157
+    },
+    {
+      "file": "手机设计总览.jpg",
+      "width": 1440,
+      "height": 1131,
+      "bytes": 159724
+    }
+  ],
+  "software_assets": [
+    {
+      "file": "软件影视页.png",
+      "identical_to_original": true
+    },
+    {
+      "file": "软件数据页.png",
+      "identical_to_original": true
+    },
+    {
+      "file": "软件阅读页.png",
+      "identical_to_original": true
+    }
+  ],
+  "updated_at": "2026-10-06",
+  "planned_weeks": 25,
+  "reference_assets": [
+    "assets/coca-corpus.png",
+    "assets/make-it-stick-cover.png",
+    "assets/fluent-forever-cover.png"
+  ],
+  "latest_verification": "验证记录-2026-10-06.json"
+}

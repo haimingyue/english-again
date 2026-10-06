@@ -1,0 +1,3016 @@
+{
+  "date": "2026-10-06",
+  "path_base": "project root; site_url is relative to site/",
+  "assets": [
+    {
+      "path": "design/archive/initial/hero-learner.png",
+      "type": "png",
+      "bytes": 1852538,
+      "sha256": "f98c580ad82a059c586c44bf1644632d32b4d87d4d675d3b22bbcf5dd1b50e52",
+      "original_paths": [
+        "design/hero-learner.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/initial/lingonorth-homepage.png",
+      "type": "png",
+      "bytes": 431766,
+      "sha256": "7dc3aa86c5d864ee352a884157c53ba0fb9a972d39d38720f2a5c3549ac7ee38",
+      "original_paths": [
+        "design/lingonorth-homepage.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/initial/lingonorth-homepage.svg",
+      "type": "svg",
+      "bytes": 2477251,
+      "sha256": "232d52045cabe01edf3bb9d10ac4ba6ce3d4485d7fc933537d2b6bb0658ce9ac",
+      "original_paths": [
+        "design/lingonorth-homepage.svg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v1/01-首页.png",
+      "type": "png",
+      "bytes": 1564746,
+      "sha256": "55b058e29287d51a30d9f1d6267eb6801e82415204f4fe146ce4c830ce10dc7d",
+      "original_paths": [
+        "design/ui-v1/01-首页.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v1/02-介绍.png",
+      "type": "png",
+      "bytes": 1464622,
+      "sha256": "26e541f54a8bddfc56dcf900e18861895ed00c558e0349db767c9205715de829",
+      "original_paths": [
+        "design/ui-v1/02-介绍.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v1/03-音标.png",
+      "type": "png",
+      "bytes": 1468324,
+      "sha256": "df927705e045cc4e9e06940f72072352ef5ea5e434e2288f333b14f071ee47d0",
+      "original_paths": [
+        "design/ui-v1/03-音标.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v1/04-语法.png",
+      "type": "png",
+      "bytes": 1533614,
+      "sha256": "345732aef954691baec1f3b5b9e1213ea13446e81c8b3f88b0c246ef3c7296b5",
+      "original_paths": [
+        "design/ui-v1/04-语法.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v1/05-资源.png",
+      "type": "png",
+      "bytes": 1363726,
+      "sha256": "2988c5f71df04a3e8ef63bf332128c9cb6e0539fdcc0efb68550b21e88118306",
+      "original_paths": [
+        "design/ui-v1/05-资源.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v1/06-专栏.png",
+      "type": "png",
+      "bytes": 1535420,
+      "sha256": "f0e55bf7ea674c766efc37b8848106fd7dbe2b052a4b5143311f79d16d93ba8d",
+      "original_paths": [
+        "design/ui-v1/06-专栏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v1/07-工具.png",
+      "type": "png",
+      "bytes": 1498014,
+      "sha256": "8a04397cf9c04a68e04df232e190ddba921ebbe2afb7fbff501d1697e3ecb0af",
+      "original_paths": [
+        "design/ui-v1/07-工具.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/assets/coca-corpus.png",
+      "type": "png",
+      "bytes": 2155497,
+      "sha256": "5c7d62bf6e13df38dbdccbcff8d4d57a71ec4b5e433304851dc7b3e16dc0db89",
+      "original_paths": [
+        "design/ui-v2/assets/coca-corpus.png"
+      ],
+      "referenced_by": [
+        "design/archive/v2/about.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/02-介绍-首屏.jpg",
+      "type": "jpg",
+      "bytes": 71369,
+      "sha256": "960f382fc0f55c57b4aa5e6d84702425c7699ace802cdaf3dc54a03e921c69b9",
+      "original_paths": [
+        "design/ui-v2/desktop/02-介绍-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/02-介绍.jpg",
+      "type": "jpg",
+      "bytes": 237800,
+      "sha256": "a39d0ce738f467cefdf5f33c04ae71bf59216e9c388565e50b8d8d522d82b224",
+      "original_paths": [
+        "design/ui-v2/desktop/02-介绍.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/03-音标-首屏.jpg",
+      "type": "jpg",
+      "bytes": 68723,
+      "sha256": "eaff6e950b24dd0f3fa43b40f19963d1b6aafca84f9bd92d7bdc7bc4c4fb63e1",
+      "original_paths": [
+        "design/ui-v2/desktop/03-音标-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/03-音标.jpg",
+      "type": "jpg",
+      "bytes": 174803,
+      "sha256": "19424ffe2ab7fc6c7ab33e14869a8041209927323b73f9f35d8400e43a64a37d",
+      "original_paths": [
+        "design/ui-v2/desktop/03-音标.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/04-语法-首屏.jpg",
+      "type": "jpg",
+      "bytes": 77544,
+      "sha256": "7b6b659d130ebd3a7e75fd5cc745355d55ec3fa08f1bf0f75b598526da719381",
+      "original_paths": [
+        "design/ui-v2/desktop/04-语法-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/04-语法.jpg",
+      "type": "jpg",
+      "bytes": 159874,
+      "sha256": "f811e320be8a2691e575b8dc3ffd39555b49dc72e51095f9fb8cc670964dc705",
+      "original_paths": [
+        "design/ui-v2/desktop/04-语法.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/05-资源-首屏.jpg",
+      "type": "jpg",
+      "bytes": 61939,
+      "sha256": "5b4fe3e786ab03cce898a041af34757f6ba67196cd2a38680d5e67dfdc874089",
+      "original_paths": [
+        "design/ui-v2/desktop/05-资源-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/05-资源.jpg",
+      "type": "jpg",
+      "bytes": 188473,
+      "sha256": "57ab4cf2126ca5b39a09f9b499c353cfb2dd84e6342e34a4d7d901adcc0368b8",
+      "original_paths": [
+        "design/ui-v2/desktop/05-资源.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/06-专栏-首屏.jpg",
+      "type": "jpg",
+      "bytes": 68331,
+      "sha256": "4217ce09f56b568bf5157d7270179bcabda1c0ba4de08dcb28b9bfe36fd26743",
+      "original_paths": [
+        "design/ui-v2/desktop/06-专栏-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/06-专栏.jpg",
+      "type": "jpg",
+      "bytes": 183586,
+      "sha256": "56ba98f9564c57ce8f34f81b84d76f07a9844c7b385d0417630abefb8f804f91",
+      "original_paths": [
+        "design/ui-v2/desktop/06-专栏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/07-工具-首屏.jpg",
+      "type": "jpg",
+      "bytes": 87005,
+      "sha256": "94d84553c4b3d70f561b1b53aa377fb42f11fbbf2c9058d46f66ab48112f2bbf",
+      "original_paths": [
+        "design/ui-v2/desktop/07-工具-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/desktop/07-工具.jpg",
+      "type": "jpg",
+      "bytes": 334763,
+      "sha256": "7a1a92b42923a3365c545573779b8fa92744747dbe0b63c0bab7d30424250cf5",
+      "original_paths": [
+        "design/ui-v2/desktop/07-工具.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/02-介绍-首屏.jpg",
+      "type": "jpg",
+      "bytes": 3093,
+      "sha256": "ae51ee8f26f2e4ddf6084700955d3095aa3df3a962c4068b3f84f9671c1f9285",
+      "original_paths": [
+        "design/ui-v2/mobile/02-介绍-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/02-介绍.jpg",
+      "type": "jpg",
+      "bytes": 178596,
+      "sha256": "7920adbe8b988a529ebeb781341f1368578294d8c85840fd8aae7d89a1e4c02a",
+      "original_paths": [
+        "design/ui-v2/mobile/02-介绍.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/03-音标-首屏.jpg",
+      "type": "jpg",
+      "bytes": 31273,
+      "sha256": "e09b645dc2a8248c9a4c9908f289e4652579154fa7c298ec7f9b84fc7aca2b6c",
+      "original_paths": [
+        "design/ui-v2/mobile/03-音标-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/03-音标.jpg",
+      "type": "jpg",
+      "bytes": 120189,
+      "sha256": "77ea1bcd2eaa32e5516efd05553bad472616e808370b7dd87dadf8b24b37e016",
+      "original_paths": [
+        "design/ui-v2/mobile/03-音标.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/04-语法-首屏.jpg",
+      "type": "jpg",
+      "bytes": 30969,
+      "sha256": "1ac6b0402eea952746675c3985fc66e65cbc2063e9eec6130f4db2097ef717d4",
+      "original_paths": [
+        "design/ui-v2/mobile/04-语法-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/04-语法.jpg",
+      "type": "jpg",
+      "bytes": 110388,
+      "sha256": "df9a72e6bb7ee6006c64c0b1c34829bf32c083442a380173f4f8fcfcbd0bb06f",
+      "original_paths": [
+        "design/ui-v2/mobile/04-语法.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/05-资源-首屏.jpg",
+      "type": "jpg",
+      "bytes": 26229,
+      "sha256": "fb5a230b0a1e2874219d9e56f898c95ec8ee7b2f9d31e228bf3595fc6b867df2",
+      "original_paths": [
+        "design/ui-v2/mobile/05-资源-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/05-资源.jpg",
+      "type": "jpg",
+      "bytes": 128769,
+      "sha256": "f6f7952839f4259091be2fbb9ff14a18337ace8d5b47a6eb43bf2817d16f38e2",
+      "original_paths": [
+        "design/ui-v2/mobile/05-资源.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/06-专栏-首屏.jpg",
+      "type": "jpg",
+      "bytes": 25345,
+      "sha256": "785ce3ee449f5ca524875672b821077a77840a99bdf28bfb5013179cb224c2b7",
+      "original_paths": [
+        "design/ui-v2/mobile/06-专栏-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/06-专栏.jpg",
+      "type": "jpg",
+      "bytes": 127404,
+      "sha256": "69cad0849150214d048ace1ca5e0716052d0c99eed18f0a8c6f1232429aadc81",
+      "original_paths": [
+        "design/ui-v2/mobile/06-专栏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/07-工具-首屏.jpg",
+      "type": "jpg",
+      "bytes": 43099,
+      "sha256": "071870390bd0012d1371f90c455fee88d8809ff6e1e1fa32f704148ddda6a2be",
+      "original_paths": [
+        "design/ui-v2/mobile/07-工具-首屏.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/mobile/07-工具.jpg",
+      "type": "jpg",
+      "bytes": 156119,
+      "sha256": "5baa197c7eb8317487da518be71930aad9e3e7abc74b356f96ec57266b8c01d9",
+      "original_paths": [
+        "design/ui-v2/mobile/07-工具.jpg"
+      ],
+      "referenced_by": [
+        "design/archive/v2/index.html",
+        "design/archive/v2/mobile-overview.html"
+      ],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/六页设计总览.jpg",
+      "type": "jpg",
+      "bytes": 167157,
+      "sha256": "029e60d7f770fa0098a93075a3e4ef0e51265ee514a65f20120c33094a6f27e1",
+      "original_paths": [
+        "design/ui-v2/六页设计总览.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/学习方法-2026-10-06.jpg",
+      "type": "jpg",
+      "bytes": 66972,
+      "sha256": "e00d81d06af017083a8e7880ee56167bdc5856e857130452e3dfdcdab5f89b7a",
+      "original_paths": [
+        "design/ui-v2/学习方法-2026-10-06.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/archive/v2/手机设计总览.jpg",
+      "type": "jpg",
+      "bytes": 159724,
+      "sha256": "45485ef6d2f50334e8429ef987e6905cdce0da5edd20a6a6e144f9729587eb59",
+      "original_paths": [
+        "design/ui-v2/手机设计总览.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/references/cambly/Cambly-参考-02.png",
+      "type": "png",
+      "bytes": 2448175,
+      "sha256": "f787479006ef456f622e6b7cb5ded4a1577aefa85ad752ff4a8982439c89ca45",
+      "original_paths": [
+        "design/ui-v3/references/Cambly-参考-02.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/references/cambly/Cambly-参考-03.png",
+      "type": "png",
+      "bytes": 901693,
+      "sha256": "385181082c87a9a5bc047d61b8c709f7c623946224ab70a37e9e8ce73b925b0f",
+      "original_paths": [
+        "design/ui-v3/references/Cambly-参考-03.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/references/cambly/Cambly-参考-04.png",
+      "type": "png",
+      "bytes": 2373175,
+      "sha256": "a2da45c2ea0d1e22c079094e10e0dba36873d06421f38c11d92df20da80b9cb3",
+      "original_paths": [
+        "design/ui-v3/references/Cambly-参考-04.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/references/cambly/Cambly-参考-06.png",
+      "type": "png",
+      "bytes": 1673728,
+      "sha256": "6bedbfe04fb7bfabdba9800387c2fa251a3b31f41b5aa2c9a70931e1eb8e4fa6",
+      "original_paths": [
+        "design/ui-v3/references/Cambly-参考-06.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/references/cambly/Cambly-参考-10.png",
+      "type": "png",
+      "bytes": 3165493,
+      "sha256": "4aa9257b947063809946c77adb5780e8000e6ffdf542f059c8fa12c61fea4899",
+      "original_paths": [
+        "design/ui-v3/references/Cambly-参考-10.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/references/cambly/Cambly-参考-11.png",
+      "type": "png",
+      "bytes": 197314,
+      "sha256": "eccbcc88b2af5276301d2555aea2a328fabc7cbc218638b0edbd61d96ed7ab93",
+      "original_paths": [
+        "design/ui-v3/references/Cambly-参考-11.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/references/cambly/Cambly-参考-12.png",
+      "type": "png",
+      "bytes": 255176,
+      "sha256": "a03c26b3f7c27873d41301715f99086469b55039136413977c9eb4068319ea40",
+      "original_paths": [
+        "design/ui-v3/references/Cambly-参考-12.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/专栏-Fluent-Forever.png",
+      "type": "png",
+      "bytes": 166339,
+      "sha256": "9bca887c575e3fa64a65cd41a73dd2111b61aac31028dd35d9f5e94de1c4436a",
+      "original_paths": [
+        "design/ui-v3/专栏-Fluent-Forever.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/专栏-手机首屏.png",
+      "type": "png",
+      "bytes": 37177,
+      "sha256": "8f168fcabfa53139df03534a2e0bb58010468fac581ef7a7cffac061d437369e",
+      "original_paths": [
+        "design/ui-v3/专栏-手机首屏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/专栏-桌面首屏.png",
+      "type": "png",
+      "bytes": 114540,
+      "sha256": "ac847c2379600da06abd50feb84c110d5f91fdbaa217b711d9e9cbffc28a5825",
+      "original_paths": [
+        "design/ui-v3/专栏-桌面首屏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/专栏-课程卡片.png",
+      "type": "png",
+      "bytes": 160807,
+      "sha256": "48cf44b1f44b70d7455e7fb6ac762b9b79906cb9a567ae5cefe1865d6aa2bf78",
+      "original_paths": [
+        "design/ui-v3/专栏-课程卡片.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/介绍-卡片翻面.png",
+      "type": "png",
+      "bytes": 178474,
+      "sha256": "283904afe5f0ae8ccd12b236b115cd78474b795abf68abc7bd31a46a6f1c90da",
+      "original_paths": [
+        "design/ui-v3/介绍-卡片翻面.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/介绍-手册封面.png",
+      "type": "png",
+      "bytes": 31369,
+      "sha256": "9f0219d83b12aeb39434c99aa2738363fcc610bf4e3ba8da314c727985766634",
+      "original_paths": [
+        "design/ui-v3/介绍-手册封面.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/介绍-手机完整.png",
+      "type": "png",
+      "bytes": 407504,
+      "sha256": "5d3f16b920f36c0f3f12c38dee7de042dd6dc3968718220eab98755514e727f0",
+      "original_paths": [
+        "design/ui-v3/介绍-手机完整.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/介绍-手机首屏.png",
+      "type": "png",
+      "bytes": 39314,
+      "sha256": "30d1736909600a0a73e32cad9a309b420b62db8eff8bdb8259fa4ae3b72863a6",
+      "original_paths": [
+        "design/ui-v3/介绍-手机首屏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/介绍-桌面完整.png",
+      "type": "png",
+      "bytes": 604281,
+      "sha256": "86355b29113ac67b2a223d8a764921d7cebbbcf6b36c6dfb66a4960f605d65fc",
+      "original_paths": [
+        "design/ui-v3/介绍-桌面完整.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/介绍-桌面首屏.png",
+      "type": "png",
+      "bytes": 72281,
+      "sha256": "5dbca82f932f43ac7ee8e8c7ecb3947944b62d03d48644aab33188e51bb460eb",
+      "original_paths": [
+        "design/ui-v3/介绍-桌面首屏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/工具-下载版本.png",
+      "type": "png",
+      "bytes": 184918,
+      "sha256": "84d6e2583f6bc8c4e0b61f08f6ff9da6255ed5e6ad5a712ce451bbb88efc7866",
+      "original_paths": [
+        "design/ui-v3/工具-下载版本.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/工具-功能展示.png",
+      "type": "png",
+      "bytes": 172904,
+      "sha256": "65344370302ea2f4b47547a665d3f977354284c75e8dff4d206787f9d391c882",
+      "original_paths": [
+        "design/ui-v3/工具-功能展示.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/工具-手机首屏.png",
+      "type": "png",
+      "bytes": 27047,
+      "sha256": "3dac550a5b4d1a07d9a568511696794ea1fbe3be5521924c4cc8327da81c42ca",
+      "original_paths": [
+        "design/ui-v3/工具-手机首屏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/工具-桌面首屏.png",
+      "type": "png",
+      "bytes": 133233,
+      "sha256": "f06f42f6cc34e0457ff93c3351f8f527d147db149e3b022b132851d8b69c4a60",
+      "original_paths": [
+        "design/ui-v3/工具-桌面首屏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/版本入口核对.jpg",
+      "type": "jpg",
+      "bytes": 48235,
+      "sha256": "816cc67aa199865da55612b668e5ce4c807f5446026d961f78a23bb179c57ed7",
+      "original_paths": [
+        "design/ui-v3/版本入口核对.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/词汇-卡片展示.png",
+      "type": "png",
+      "bytes": 78219,
+      "sha256": "9f805d2da7acc6cf63dc337e1dbb6b2e1e4d1044cdbc19a4f437581286fbb9cb",
+      "original_paths": [
+        "design/ui-v3/词汇-卡片展示.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/词汇-手机完整.png",
+      "type": "png",
+      "bytes": 431743,
+      "sha256": "847b3f7f281fa75837f661ae6c0cb501295ee25cc98ea926921d3fee451afba5",
+      "original_paths": [
+        "design/ui-v3/词汇-手机完整.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/词汇-手机首屏.png",
+      "type": "png",
+      "bytes": 43841,
+      "sha256": "63bd290c434a6cd09993db177a8becb1254c5c957d353dbc6248adddcd57d2a4",
+      "original_paths": [
+        "design/ui-v3/词汇-手机首屏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/词汇-桌面完整.png",
+      "type": "png",
+      "bytes": 629510,
+      "sha256": "99f5a01bc3cfa979f04f18c0b123f15081cea25d2e93ff089140169d9a42a194",
+      "original_paths": [
+        "design/ui-v3/词汇-桌面完整.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/词汇-桌面首屏.png",
+      "type": "png",
+      "bytes": 89959,
+      "sha256": "60b66e8a04a1c49ca805993054021b6d8ffcf15efedfc4a1d1cbed9b352a724f",
+      "original_paths": [
+        "design/ui-v3/词汇-桌面首屏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/词汇-阅读观影入口-手机.png",
+      "type": "png",
+      "bytes": 36054,
+      "sha256": "75c740b092b5e1f2473cea96c318782a2ec1842e2ab2a5511e3f2d38810420bd",
+      "original_paths": [
+        "design/ui-v3/词汇-阅读观影入口-手机.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/词汇-阅读观影入口.png",
+      "type": "png",
+      "bytes": 82778,
+      "sha256": "04257815c36e5cb3948c873eef3b9963be347fc0ab5b1c54fc29ef981754b454",
+      "original_paths": [
+        "design/ui-v3/词汇-阅读观影入口.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/语法-卡片展示.jpg",
+      "type": "jpg",
+      "bytes": 104521,
+      "sha256": "421faeca28ca07cf91f0aa8300111f0dc8f1fe88477e6d111bd1436d9f27d10b",
+      "original_paths": [
+        "design/ui-v3/语法-卡片展示.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/语法-手机.jpg",
+      "type": "jpg",
+      "bytes": 351256,
+      "sha256": "1585411a1fb02e01ff86989361fb47ffca489b10b3640b8720f0b4fac0a9d503",
+      "original_paths": [
+        "design/ui-v3/语法-手机.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/语法-手机首屏.jpg",
+      "type": "jpg",
+      "bytes": 42702,
+      "sha256": "bc171f0a18392c7d444ff76680fe9e20ec8c6318124e15f05de181773d4f9460",
+      "original_paths": [
+        "design/ui-v3/语法-手机首屏.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/语法-桌面.jpg",
+      "type": "jpg",
+      "bytes": 452672,
+      "sha256": "54f1dede2a6aee077b022452742844c0f7d98e84913eca84bfd45eb864d9f210",
+      "original_paths": [
+        "design/ui-v3/语法-桌面.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/语法-桌面首屏.jpg",
+      "type": "jpg",
+      "bytes": 85143,
+      "sha256": "ad3f29627fe2b3ef964868369a2a2fedd5575f07c8420b11bf410d6d43ba1ea8",
+      "original_paths": [
+        "design/ui-v3/语法-桌面首屏.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/语法-牌组更新.png",
+      "type": "png",
+      "bytes": 51104,
+      "sha256": "9071c541489774024646c90413991ddfd3f7583609845ae8da0d4da75b429048",
+      "original_paths": [
+        "design/ui-v3/语法-牌组更新.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/阅读-关系提示.png",
+      "type": "png",
+      "bytes": 80437,
+      "sha256": "ceda07043a13579f65e40f207a656437530800d50191cf1d6802282799c37d01",
+      "original_paths": [
+        "design/ui-v3/阅读-关系提示.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/阅读-小王子专栏.png",
+      "type": "png",
+      "bytes": 109732,
+      "sha256": "9e9888eaa35d9ac10e1a44e64280056c7e49f6e26ef24a0999c928218332569e",
+      "original_paths": [
+        "design/ui-v3/阅读-小王子专栏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/阅读-手机首屏.png",
+      "type": "png",
+      "bytes": 42218,
+      "sha256": "61845121da0e878611600deedfe4b1ea26e9bd8ed96a070aec2c2e3982236aa8",
+      "original_paths": [
+        "design/ui-v3/阅读-手机首屏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/阅读-桌面首屏.png",
+      "type": "png",
+      "bytes": 87989,
+      "sha256": "fa8dc5ab3c6d35b141aca3e44cd175041562af496e653238c77ba39e82386c2e",
+      "original_paths": [
+        "design/ui-v3/阅读-桌面首屏.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/阅读-视频入口.png",
+      "type": "png",
+      "bytes": 115322,
+      "sha256": "6617ec4a7a038ef9e44f26206f8c9c6a06c4ec3d6bf1d98e1b7c4edac997206a",
+      "original_paths": [
+        "design/ui-v3/阅读-视频入口.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/音标-卡片展示.jpg",
+      "type": "jpg",
+      "bytes": 65827,
+      "sha256": "8e78ee3fbad4b907f32dc2f78ef66d2cdbcce245c7685c439ca17ab7ea72a299",
+      "original_paths": [
+        "design/ui-v3/音标-卡片展示.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/音标-手机.jpg",
+      "type": "jpg",
+      "bytes": 250787,
+      "sha256": "06e41beb2a013b41cabb7911e13db866655bf0fb72784239bc99ade72b4c92cd",
+      "original_paths": [
+        "design/ui-v3/音标-手机.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/音标-手机首屏.jpg",
+      "type": "jpg",
+      "bytes": 24105,
+      "sha256": "76e39e38ec75c93ef668d55001b543b1f02a2c6567cc017d6e7f746f709ff8b1",
+      "original_paths": [
+        "design/ui-v3/音标-手机首屏.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/音标-桌面.jpg",
+      "type": "jpg",
+      "bytes": 341192,
+      "sha256": "fa4dbf8e7153aa678182c78cf4f5ab423256eade6aea6333d43e7427a2547a0b",
+      "original_paths": [
+        "design/ui-v3/音标-桌面.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/音标-桌面首屏.jpg",
+      "type": "jpg",
+      "bytes": 63551,
+      "sha256": "53a92259bed0511a1fac88ae2f2b23c45170af4a8239fd06d9f5faa4be4a1fed",
+      "original_paths": [
+        "design/ui-v3/音标-桌面首屏.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/首页-手机.jpg",
+      "type": "jpg",
+      "bytes": 234705,
+      "sha256": "9ca2eadfbb21d4b02a0747897142566454b14ec08e7a7ae7ec08f8e646c5e8e8",
+      "original_paths": [
+        "design/ui-v3/首页-手机.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/首页-手机首屏.jpg",
+      "type": "jpg",
+      "bytes": 43655,
+      "sha256": "27a289efb9edecfc9e6af54f3e67d2b692ac8e30e4d01744d32c60ea7abafac0",
+      "original_paths": [
+        "design/ui-v3/首页-手机首屏.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/首页-桌面.jpg",
+      "type": "jpg",
+      "bytes": 404492,
+      "sha256": "95946c6aafed06c50ea5bd3fd7f03aa59dff77ccbade0c2863e5c395dee39239",
+      "original_paths": [
+        "design/ui-v3/首页-桌面.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/screenshots/v3/首页-桌面首屏.jpg",
+      "type": "jpg",
+      "bytes": 109772,
+      "sha256": "bf7bc57100898e8518a43642ed71e7a3b1fef2b00543969563cfcb6a6447a4e8",
+      "original_paths": [
+        "design/ui-v3/首页-桌面首屏.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/sketches/Xnip2026-10-01_15-47-43.jpg",
+      "type": "jpg",
+      "bytes": 127222,
+      "sha256": "817ab3c4f430adda41a06ff0917a8caffc78366c58cb43fdc26feec8edd854f8",
+      "original_paths": [
+        "页面草稿/Xnip2026-10-01_15-47-43.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/sketches/Xnip2026-10-01_15-48-08.jpg",
+      "type": "jpg",
+      "bytes": 72430,
+      "sha256": "e24e010b4d2709155231a78fe6334796ca5ab7681b3a6ed7e3391b126bb3ac6a",
+      "original_paths": [
+        "页面草稿/Xnip2026-10-01_15-48-08.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/sketches/Xnip2026-10-01_15-48-16.jpg",
+      "type": "jpg",
+      "bytes": 147387,
+      "sha256": "dbeea8fb4a415599488b594929ded38b9dda0e2672a781810e7038bbde310350",
+      "original_paths": [
+        "页面草稿/Xnip2026-10-01_15-48-16.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "design/sketches/Xnip2026-10-01_15-48-28.jpg",
+      "type": "jpg",
+      "bytes": 128676,
+      "sha256": "219d36a72c5a46d112c7d09f9e22f8c940c4fde1d6c541cca807b88e6280f148",
+      "original_paths": [
+        "页面草稿/Xnip2026-10-01_15-48-28.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "resources/originals/books/coca-30000.png",
+      "type": "png",
+      "bytes": 2279479,
+      "sha256": "9a8b7788276956f3793b476301c0e797985d7cbac01d96f7d9ba08e75f3a27c9",
+      "original_paths": [
+        "resources/coca-30000.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "resources/originals/columns/01 开篇词.svg",
+      "type": "svg",
+      "bytes": 13354637,
+      "sha256": "9978d8d483c7bf113ccea21c5a2c4565dfa6d9f861ab2c8fd5210cdbb29aafc2",
+      "original_paths": [
+        "assets/专栏/01 开篇词.svg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "resources/originals/learning-methods/集中练习V交织练习.jpg",
+      "type": "jpg",
+      "bytes": 132512,
+      "sha256": "c6c8e94cd0c1318ed75b1efab8770a7835dbb99f28b74494d9df056d2541a156",
+      "original_paths": [
+        "assets/科学学习方法/集中练习V交织练习.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "resources/sources/books/英语自学手册的目录 - 少数派 (张奕源 Nick).epub",
+      "type": "epub",
+      "bytes": 11062173,
+      "sha256": "0099eaf490ab6e38fd573a777d2d4e3fb7bd76727d36f552d4681c37c0296655",
+      "original_paths": [
+        "resources/英语自学手册的目录 - 少数派 (张奕源 Nick).epub"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "resources/sources/course-catalog/合集目录截图-1.png",
+      "type": "png",
+      "bytes": 304452,
+      "sha256": "bca12430926c0f22e317e83578cca8503d32b912408629868255b47cb93cbe20",
+      "original_paths": [
+        "resources/sources/合集目录截图-1.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "resources/sources/course-catalog/合集目录截图-2.png",
+      "type": "png",
+      "bytes": 338003,
+      "sha256": "c1ae6095580e388f97d7d50bc4763b50e03bea2f9ac788bb028121c125291372",
+      "original_paths": [
+        "resources/sources/合集目录截图-2.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "resources/sources/course-catalog/合集目录截图-3.png",
+      "type": "png",
+      "bytes": 144182,
+      "sha256": "819e8a535d4760e3de0d43b354309f7135f82ad706a31eb12c14621545dc561a",
+      "original_paths": [
+        "resources/sources/合集目录截图-3.png"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "resources/sources/course-catalog/近期稿件对比 (1).csv",
+      "type": "csv",
+      "bytes": 1970,
+      "sha256": "3d50038d30e52a7c5ebaa6d7af27266e6cb1fdbb3ae17b9e8b2cf59067a43637",
+      "original_paths": [
+        "resources/sources/近期稿件对比 (1).csv"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "resources/sources/course-catalog/近期稿件对比 (2).csv",
+      "type": "csv",
+      "bytes": 632,
+      "sha256": "52c6009405622df61f5c98dc5d647ffa2471af0e402d3c030e3b4c62b359c586",
+      "original_paths": [
+        "resources/sources/近期稿件对比 (2).csv"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "resources/sources/course-catalog/近期稿件对比.csv",
+      "type": "csv",
+      "bytes": 1722,
+      "sha256": "bcba191440ba2afbcfdcc8eace86a4276130b21ee96c8d08603689e5eecc4307",
+      "original_paths": [
+        "resources/sources/近期稿件对比.csv"
+      ],
+      "referenced_by": [],
+      "site_url": null
+    },
+    {
+      "path": "site/assets/audio/phonetics/pair-1-1.mp3",
+      "type": "mp3",
+      "bytes": 6720,
+      "sha256": "ef747eaaddcf33ad7e29ba906cfbf7969db74fc799dcae448301b9d89c378693",
+      "original_paths": [
+        "design/ui-v3/assets/phonetics/pair-1-1.mp3"
+      ],
+      "referenced_by": [
+        "site/scripts/phonetics-data.js"
+      ],
+      "site_url": "assets/audio/phonetics/pair-1-1.mp3"
+    },
+    {
+      "path": "site/assets/audio/phonetics/pair-1-2.mp3",
+      "type": "mp3",
+      "bytes": 6336,
+      "sha256": "e5dd0b70a4173e62ee9ae7460f40542542413eefd114316aacb88ac22a75147c",
+      "original_paths": [
+        "design/ui-v3/assets/phonetics/pair-1-2.mp3"
+      ],
+      "referenced_by": [
+        "site/scripts/phonetics-data.js"
+      ],
+      "site_url": "assets/audio/phonetics/pair-1-2.mp3"
+    },
+    {
+      "path": "site/assets/audio/phonetics/pair-2-1.mp3",
+      "type": "mp3",
+      "bytes": 5760,
+      "sha256": "b5f82f2e565ff6d95bd5551fe981c3040437737e16911d9f72c442b19c199d47",
+      "original_paths": [
+        "design/ui-v3/assets/phonetics/pair-2-1.mp3"
+      ],
+      "referenced_by": [
+        "site/scripts/phonetics-data.js"
+      ],
+      "site_url": "assets/audio/phonetics/pair-2-1.mp3"
+    },
+    {
+      "path": "site/assets/audio/phonetics/pair-2-2.mp3",
+      "type": "mp3",
+      "bytes": 5952,
+      "sha256": "8a6b65cea5fa8b6ee0d7868549e6eab84c20ec77d0753b08e503d899d6b429fc",
+      "original_paths": [
+        "design/ui-v3/assets/phonetics/pair-2-2.mp3"
+      ],
+      "referenced_by": [
+        "site/scripts/phonetics-data.js"
+      ],
+      "site_url": "assets/audio/phonetics/pair-2-2.mp3"
+    },
+    {
+      "path": "site/assets/audio/phonetics/pair-3-1.mp3",
+      "type": "mp3",
+      "bytes": 258975,
+      "sha256": "e9f168f45f9aa60d98fb85e51ced92f06e580a496e6b80135df22a95639709e2",
+      "original_paths": [
+        "design/ui-v3/assets/phonetics/pair-3-1.mp3"
+      ],
+      "referenced_by": [
+        "site/scripts/phonetics-data.js"
+      ],
+      "site_url": "assets/audio/phonetics/pair-3-1.mp3"
+    },
+    {
+      "path": "site/assets/audio/phonetics/pair-3-2.mp3",
+      "type": "mp3",
+      "bytes": 275276,
+      "sha256": "fc6bfa3e7b272081d3ba979dc7af8b9e02be58b93233c535c5cb0ab8b48dc226",
+      "original_paths": [
+        "design/ui-v3/assets/phonetics/pair-3-2.mp3"
+      ],
+      "referenced_by": [
+        "site/scripts/phonetics-data.js"
+      ],
+      "site_url": "assets/audio/phonetics/pair-3-2.mp3"
+    },
+    {
+      "path": "site/assets/audio/vocabulary/inquiry.mp3",
+      "type": "mp3",
+      "bytes": 7488,
+      "sha256": "c6c41269e89a470861adfd8f377c1aff8be9ccfeab04d69672a88bd2a5171ba6",
+      "original_paths": [
+        "design/ui-v3/assets/vocabulary/inquiry.mp3"
+      ],
+      "referenced_by": [
+        "site/scripts/vocabulary-data.js"
+      ],
+      "site_url": "assets/audio/vocabulary/inquiry.mp3"
+    },
+    {
+      "path": "site/assets/audio/vocabulary/nasty.mp3",
+      "type": "mp3",
+      "bytes": 7872,
+      "sha256": "34db183359410cd322480e472815db76fb3e2cd5485d3e4f4df09c4114f994f3",
+      "original_paths": [
+        "design/ui-v3/assets/vocabulary/nasty.mp3"
+      ],
+      "referenced_by": [
+        "site/scripts/vocabulary-data.js"
+      ],
+      "site_url": "assets/audio/vocabulary/nasty.mp3"
+    },
+    {
+      "path": "site/assets/audio/vocabulary/reveal.mp3",
+      "type": "mp3",
+      "bytes": 7680,
+      "sha256": "81c31e86bc82e6f0bcd9ceb3783808ddaf39e94b63f88254b8ee338ea3310de5",
+      "original_paths": [
+        "design/ui-v3/assets/vocabulary/reveal.mp3"
+      ],
+      "referenced_by": [
+        "site/scripts/vocabulary-data.js"
+      ],
+      "site_url": "assets/audio/vocabulary/reveal.mp3"
+    },
+    {
+      "path": "site/assets/downloads/anki/coca-30000.apkg",
+      "type": "apkg",
+      "bytes": 244805657,
+      "sha256": "967b44a722d457b837b1d39db2a5dd1930296b3b06ca0c029b9c7ec045e74a08",
+      "original_paths": [
+        "assets/Anki 卡牌/单词/COCA30000_2026_10_06.apkg",
+        "design/ui-v3/assets/vocabulary/COCA30000.apkg"
+      ],
+      "referenced_by": [
+        "site/vocabulary.html"
+      ],
+      "site_url": "assets/downloads/anki/coca-30000.apkg"
+    },
+    {
+      "path": "site/assets/downloads/anki/grammar.apkg",
+      "type": "apkg",
+      "bytes": 339364,
+      "sha256": "d83996f75b78c10056a16f5d24b413d547030f7753d0ba2cb5dfedce57e6faaa",
+      "original_paths": [
+        "assets/Anki 卡牌/语法/语法.apkg",
+        "design/ui-v3/assets/grammar/语法.apkg"
+      ],
+      "referenced_by": [
+        "site/grammar.html"
+      ],
+      "site_url": "assets/downloads/anki/grammar.apkg"
+    },
+    {
+      "path": "site/assets/downloads/anki/phonetics.apkg",
+      "type": "apkg",
+      "bytes": 25693448,
+      "sha256": "b8b3c91d6a63a28efb63d48d225148e9c7c421c27ce9ff7e0d6da42041a0191d",
+      "original_paths": [
+        "assets/Anki 卡牌/音标/音标.apkg",
+        "design/ui-v3/assets/phonetics/音标.apkg"
+      ],
+      "referenced_by": [
+        "site/phonetics.html"
+      ],
+      "site_url": "assets/downloads/anki/phonetics.apkg"
+    },
+    {
+      "path": "site/assets/downloads/anki/phrases.apkg",
+      "type": "apkg",
+      "bytes": 66567,
+      "sha256": "096efd508747c482f1dad6490ddae626294c6e128d9df7f19a5b3e4608f301dc",
+      "original_paths": [
+        "assets/Anki 卡牌/单词/短语.apkg",
+        "design/ui-v3/assets/vocabulary/短语.apkg"
+      ],
+      "referenced_by": [
+        "site/vocabulary.html"
+      ],
+      "site_url": "assets/downloads/anki/phrases.apkg"
+    },
+    {
+      "path": "site/assets/downloads/anki/sentences.apkg",
+      "type": "apkg",
+      "bytes": 538440,
+      "sha256": "62b437fcf571ddc1c400825e13796870a2173c6afa6a44f946bd4ebab83f6945",
+      "original_paths": [
+        "assets/Anki 卡牌/语法/句子.apkg",
+        "design/ui-v3/assets/grammar/句子.apkg"
+      ],
+      "referenced_by": [
+        "site/grammar.html"
+      ],
+      "site_url": "assets/downloads/anki/sentences.apkg"
+    },
+    {
+      "path": "site/assets/downloads/anki/wordbook.apkg",
+      "type": "apkg",
+      "bytes": 58614,
+      "sha256": "9251d877137ce79da1bb4bc9845aa7cc1e6d817eb6444db427ee2cfe4da3fc7b",
+      "original_paths": [
+        "assets/Anki 卡牌/单词/生词本.apkg",
+        "design/ui-v3/assets/vocabulary/生词本.apkg"
+      ],
+      "referenced_by": [
+        "site/vocabulary.html"
+      ],
+      "site_url": "assets/downloads/anki/wordbook.apkg"
+    },
+    {
+      "path": "site/assets/images/about/anki-calendar.png",
+      "type": "png",
+      "bytes": 256742,
+      "sha256": "2dcd98fcb2ba3af7bd481702e2a7faa159abb14f6ecc8379269fa2c18abc15fd",
+      "original_paths": [
+        "design/ui-v3/assets/about/anki-calendar.png"
+      ],
+      "referenced_by": [
+        "site/about.html"
+      ],
+      "site_url": "assets/images/about/anki-calendar.png"
+    },
+    {
+      "path": "site/assets/images/about/anki-logo.png",
+      "type": "png",
+      "bytes": 95415,
+      "sha256": "a97e6aa6c3acef882df164727ded1ac80c1fcc745c015ef014cd8e458f01aecf",
+      "original_paths": [
+        "design/ui-v3/assets/about/anki-logo.png"
+      ],
+      "referenced_by": [
+        "site/about.html",
+        "site/reading.html",
+        "site/tools.html"
+      ],
+      "site_url": "assets/images/about/anki-logo.png"
+    },
+    {
+      "path": "site/assets/images/about/anki-schedule.png",
+      "type": "png",
+      "bytes": 239236,
+      "sha256": "3e559f24050769852c88ce1fb612ac2bfebdafc56aebcb25733736bbbd7119d5",
+      "original_paths": [
+        "design/ui-v3/assets/about/anki-schedule.png"
+      ],
+      "referenced_by": [
+        "site/about.html"
+      ],
+      "site_url": "assets/images/about/anki-schedule.png"
+    },
+    {
+      "path": "site/assets/images/about/grammar-back.png",
+      "type": "png",
+      "bytes": 868607,
+      "sha256": "ba9688f82996ff91b51d78d355af7ab4db3477c1fe9ac9f8ddf95012e8736238",
+      "original_paths": [
+        "design/ui-v3/assets/about/grammar-back.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/about/grammar-back.png"
+    },
+    {
+      "path": "site/assets/images/about/grammar-front.png",
+      "type": "png",
+      "bytes": 853033,
+      "sha256": "81c5a17c92b44f2ee570a90b2157d829e0acc4d3160d0d4273f61716a79859f2",
+      "original_paths": [
+        "design/ui-v3/assets/about/grammar-front.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/about/grammar-front.png"
+    },
+    {
+      "path": "site/assets/images/about/indeed-back.png",
+      "type": "png",
+      "bytes": 481043,
+      "sha256": "b1da088278245ee2d1df61c232cd698990586f6d7f003d0fdf9a6189cfaf2506",
+      "original_paths": [
+        "design/ui-v3/assets/about/indeed-back.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/about/indeed-back.png"
+    },
+    {
+      "path": "site/assets/images/about/indeed-front.png",
+      "type": "png",
+      "bytes": 163616,
+      "sha256": "3822ca21349ab98e0daa22372da234e640af4be421815a0f3e897e47ba66de73",
+      "original_paths": [
+        "design/ui-v3/assets/about/indeed-front.png"
+      ],
+      "referenced_by": [
+        "site/about.html"
+      ],
+      "site_url": "assets/images/about/indeed-front.png"
+    },
+    {
+      "path": "site/assets/images/about/interleaving.jpg",
+      "type": "jpg",
+      "bytes": 109829,
+      "sha256": "84165e2394e0d5688fc50d56598eaa2b61823f90c31b097e6ec2682170ef6f70",
+      "original_paths": [
+        "assets/科学学习方法/交织练习.jpg",
+        "design/ui-v3/assets/about/interleaving.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/about/interleaving.jpg"
+    },
+    {
+      "path": "site/assets/images/about/massed-spaced.jpg",
+      "type": "jpg",
+      "bytes": 114302,
+      "sha256": "78ed957ee3834ce238b065406bdd705bef2045ad8593af3e9db8021241810425",
+      "original_paths": [
+        "assets/科学学习方法/集中练习 VS 间隔练习.jpg",
+        "design/ui-v3/assets/about/massed-spaced.jpg"
+      ],
+      "referenced_by": [
+        "site/about.html"
+      ],
+      "site_url": "assets/images/about/massed-spaced.jpg"
+    },
+    {
+      "path": "site/assets/images/about/spacing.jpg",
+      "type": "jpg",
+      "bytes": 156160,
+      "sha256": "cb7c1857aa67a2a905a76130a69a193f188a615715e2e67448d3cb15162bc081",
+      "original_paths": [
+        "assets/科学学习方法/间隔练习.jpg",
+        "design/ui-v3/assets/about/spacing.jpg"
+      ],
+      "referenced_by": [
+        "site/about.html"
+      ],
+      "site_url": "assets/images/about/spacing.jpg"
+    },
+    {
+      "path": "site/assets/images/about/variation.jpg",
+      "type": "jpg",
+      "bytes": 145630,
+      "sha256": "48c199a60998072092c5afca33a96fb81131ecf0e6c30c7fd68ab896e0981e4c",
+      "original_paths": [
+        "assets/科学学习方法/变式练习.jpg",
+        "design/ui-v3/assets/about/variation.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/about/variation.jpg"
+    },
+    {
+      "path": "site/assets/images/books/english-self-study-guide.png",
+      "type": "png",
+      "bytes": 1138929,
+      "sha256": "d32e6b093b33c957c258d41805adf68b1845d4eaf99015871a9e5da5edd1bc81",
+      "original_paths": [
+        "design/ui-v3/assets/about/english-self-study-guide.png",
+        "resources/english-self-study-guide.png"
+      ],
+      "referenced_by": [
+        "site/about.html"
+      ],
+      "site_url": "assets/images/books/english-self-study-guide.png"
+    },
+    {
+      "path": "site/assets/images/books/essential-grammar-in-use.png",
+      "type": "png",
+      "bytes": 131429,
+      "sha256": "6b8acc9157313ab4e3044bc25f20e3898491ac26cf76f32c6e12cbc6f717a3c5",
+      "original_paths": [
+        "design/ui-v3/assets/grammar/essential-grammar-in-use.png",
+        "resources/essential-grammar-in-use.png"
+      ],
+      "referenced_by": [
+        "site/grammar.html"
+      ],
+      "site_url": "assets/images/books/essential-grammar-in-use.png"
+    },
+    {
+      "path": "site/assets/images/books/fluent-forever.png",
+      "type": "png",
+      "bytes": 149862,
+      "sha256": "2fb34b4d0c8badadb106ffb8b8deb8577fb3be54f2bc0212ba5d50c70511bfb8",
+      "original_paths": [
+        "design/ui-v2/assets/fluent-forever-cover.png",
+        "design/ui-v3/assets/about/fluent-forever.png",
+        "design/ui-v3/assets/grammar/fluent-forever.png",
+        "resources/fluent-forever.png"
+      ],
+      "referenced_by": [
+        "design/archive/v2/about.html",
+        "site/about.html",
+        "site/fluent-forever.html"
+      ],
+      "site_url": "assets/images/books/fluent-forever.png"
+    },
+    {
+      "path": "site/assets/images/books/make-it-stick.png",
+      "type": "png",
+      "bytes": 116853,
+      "sha256": "3ffb3d7701903eae4a03be975c579808618bfab0979018007daec7d3035cf7a7",
+      "original_paths": [
+        "design/ui-v2/assets/make-it-stick-cover.png",
+        "design/ui-v3/assets/about/make-it-stick.png",
+        "resources/make-it-stick.png"
+      ],
+      "referenced_by": [
+        "design/archive/v2/about.html",
+        "site/about.html",
+        "site/make-it-stick.html"
+      ],
+      "site_url": "assets/images/books/make-it-stick.png"
+    },
+    {
+      "path": "site/assets/images/columns/intro.webp",
+      "type": "webp",
+      "bytes": 59542,
+      "sha256": "0877b20546e115b536be91bb7b0a75cec321af4391ac128f9b8d0b2916d690e7",
+      "original_paths": [
+        "design/ui-v3/assets/columns/intro.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/intro.webp"
+    },
+    {
+      "path": "site/assets/images/columns/originals/intro.png",
+      "type": "png",
+      "bytes": 2237869,
+      "sha256": "857f521d95f7de5be07b0782e8a81eab5267f881710c3ecdd536bca3d41513c0",
+      "original_paths": [
+        "assets/专栏/01 开篇词.png",
+        "design/ui-v3/assets/columns/originals/intro.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/intro.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-02.png",
+      "type": "png",
+      "bytes": 421986,
+      "sha256": "2244a0a51ba1551fb206ccc1b6fe7cff4bd6dd663060d6aae1e3a0ebddd6a068",
+      "original_paths": [
+        "assets/专栏/week2.png",
+        "design/ui-v3/assets/columns/originals/week-02.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-02.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-03-04.png",
+      "type": "png",
+      "bytes": 1332124,
+      "sha256": "611f59fa1e668bd3e9c1abd49251c1a4c56a59db858018d2133a2a27c97983fb",
+      "original_paths": [
+        "assets/专栏/week3 & 4.png",
+        "design/ui-v3/assets/columns/originals/week-03-04.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-03-04.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-05.png",
+      "type": "png",
+      "bytes": 631966,
+      "sha256": "66b3a5aa68de2289639beb67ec810665fe542d664c6400b8a6c1116af8c7b112",
+      "original_paths": [
+        "assets/专栏/week5.png",
+        "design/ui-v3/assets/columns/originals/week-05.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-05.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-06.png",
+      "type": "png",
+      "bytes": 1143040,
+      "sha256": "09e9f338eea725ab470395eb5776bd6b353c3f5a977e1b8e953315945c00cf2c",
+      "original_paths": [
+        "assets/专栏/week6.png",
+        "design/ui-v3/assets/columns/originals/week-06.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-06.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-07.png",
+      "type": "png",
+      "bytes": 1138505,
+      "sha256": "a0b4d79f223c81c11d77297a4b780e8a8d312e014cad2f26e22087473b4fa89c",
+      "original_paths": [
+        "assets/专栏/week7.png",
+        "design/ui-v3/assets/columns/originals/week-07.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-07.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-08.png",
+      "type": "png",
+      "bytes": 1975553,
+      "sha256": "a21c9515e2d201aea14417557cbc64f15c1c76a2e7f80ac68420a266073f670f",
+      "original_paths": [
+        "assets/专栏/week8.png",
+        "design/ui-v3/assets/columns/originals/week-08.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-08.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-09.png",
+      "type": "png",
+      "bytes": 1445628,
+      "sha256": "3aa592a5c162a8504840677b6d7b9863abafdcd4c81eb62a37aa465d40c68b4d",
+      "original_paths": [
+        "assets/专栏/week9.png",
+        "design/ui-v3/assets/columns/originals/week-09.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-09.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-10.png",
+      "type": "png",
+      "bytes": 1791845,
+      "sha256": "b0182a20cec922359f6c48f0af7835725df2bcc0cd9aabed5036c53d574dfd6c",
+      "original_paths": [
+        "assets/专栏/week10.png",
+        "design/ui-v3/assets/columns/originals/week-10.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-10.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-11.png",
+      "type": "png",
+      "bytes": 1604070,
+      "sha256": "6347d561e7d69bc057975334046d337360191942f2ac93eaa275d3909d295f97",
+      "original_paths": [
+        "assets/专栏/week11.png",
+        "design/ui-v3/assets/columns/originals/week-11.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-11.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-12.png",
+      "type": "png",
+      "bytes": 1295935,
+      "sha256": "7134d03c4173a532261dbdd084e06be60b8d738fb242b063e28909190cff7eb1",
+      "original_paths": [
+        "assets/专栏/week12.png",
+        "design/ui-v3/assets/columns/originals/week-12.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-12.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-13.png",
+      "type": "png",
+      "bytes": 2041086,
+      "sha256": "e59fc384a59df793615618bb0ff84084280340f45cb4031a82b2aab44fd94030",
+      "original_paths": [
+        "assets/专栏/week13.png",
+        "design/ui-v3/assets/columns/originals/week-13.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-13.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-14.png",
+      "type": "png",
+      "bytes": 1893936,
+      "sha256": "92cdc8901f735cf5a84139549388e5ae72a18a85aede62cdaa48eb1541effcc5",
+      "original_paths": [
+        "assets/专栏/week14.png",
+        "design/ui-v3/assets/columns/originals/week-14.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-14.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-15.png",
+      "type": "png",
+      "bytes": 1509730,
+      "sha256": "44a1ab3dec3e029efda03db5889e060ca01cf3b2dd58254ef765e77f6d64b3bc",
+      "original_paths": [
+        "assets/专栏/week15.png",
+        "design/ui-v3/assets/columns/originals/week-15.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-15.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-16.png",
+      "type": "png",
+      "bytes": 1849770,
+      "sha256": "1646c9185d289a6312f073a9cf4f2c6a0251bf87c24de125a0b85c364c9bfefc",
+      "original_paths": [
+        "assets/专栏/week16.png",
+        "design/ui-v3/assets/columns/originals/week-16.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-16.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-17.png",
+      "type": "png",
+      "bytes": 3105492,
+      "sha256": "c3021a4c3070766f4c80776f3f3901a4a94987c21cdd7eeb254e0d95f02014d6",
+      "original_paths": [
+        "assets/专栏/week17.png",
+        "design/ui-v3/assets/columns/originals/week-17.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-17.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-18.png",
+      "type": "png",
+      "bytes": 1939099,
+      "sha256": "3ec07da60fa0ecc8b88e1ec110e16bc97f3aa0ecf1531738c7f54a149bcfb7ac",
+      "original_paths": [
+        "assets/专栏/week18.png",
+        "design/ui-v3/assets/columns/originals/week-18.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-18.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-19.png",
+      "type": "png",
+      "bytes": 1860496,
+      "sha256": "f8526deeed9a8c99baf6419ddcb1307f957458a357c4ef96f049f4578b20adb8",
+      "original_paths": [
+        "assets/专栏/week19.png",
+        "design/ui-v3/assets/columns/originals/week-19.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-19.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-20.png",
+      "type": "png",
+      "bytes": 2517072,
+      "sha256": "0d04028b53cc8b218d499ca82f0dc0c175d0683539c043e9d22756585ef3f0e5",
+      "original_paths": [
+        "assets/专栏/week20.png",
+        "design/ui-v3/assets/columns/originals/week-20.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-20.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-21.png",
+      "type": "png",
+      "bytes": 1290821,
+      "sha256": "f16c6ab9b092729d4d3152bedc25023c7a9c798401955bb1a8313bb55aeff442",
+      "original_paths": [
+        "assets/专栏/week21.png",
+        "design/ui-v3/assets/columns/originals/week-21.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-21.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-22.png",
+      "type": "png",
+      "bytes": 2137347,
+      "sha256": "b1a613d8e5d6b0b435969aabd1ecae16b02d99cd1d80fb36f9a0d9cf33006f9a",
+      "original_paths": [
+        "assets/专栏/week22.png",
+        "design/ui-v3/assets/columns/originals/week-22.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-22.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-23.png",
+      "type": "png",
+      "bytes": 2397760,
+      "sha256": "efe5a028b4d5f4486f29eb6cf90e0e9fddfe456227fdd9a946f9e6ebd6040929",
+      "original_paths": [
+        "assets/专栏/week23.png",
+        "design/ui-v3/assets/columns/originals/week-23.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-23.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-24.png",
+      "type": "png",
+      "bytes": 2294602,
+      "sha256": "66cc4f5e8be9f8a804957aa3b8564dd112610e763e76a1248fff5c4e91f6818c",
+      "original_paths": [
+        "assets/专栏/week24.png",
+        "design/ui-v3/assets/columns/originals/week-24.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-24.png"
+    },
+    {
+      "path": "site/assets/images/columns/originals/week-25.png",
+      "type": "png",
+      "bytes": 1046605,
+      "sha256": "b9ac414bcd5becf88b77e8420d73bd6e1f584871e6b6bf9533e3f53eb3ec0799",
+      "original_paths": [
+        "assets/专栏/week25.png",
+        "design/ui-v3/assets/columns/originals/week-25.png"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/originals/week-25.png"
+    },
+    {
+      "path": "site/assets/images/columns/week-01.svg",
+      "type": "svg",
+      "bytes": 137186,
+      "sha256": "9cb256cfadb813feeee8856f8ffbd02eca9ebd0c1c5e86f1f4f0dfa7195e71cb",
+      "original_paths": [
+        "assets/专栏/02 Week 01 辅音学习.svg",
+        "design/ui-v3/assets/columns/originals/week-01.svg",
+        "design/ui-v3/assets/columns/week-01.svg"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-01.svg"
+    },
+    {
+      "path": "site/assets/images/columns/week-02.webp",
+      "type": "webp",
+      "bytes": 39796,
+      "sha256": "69ebf4ff6fd805f4e4b34ed08684cc204ca7694c34c206a0a0c2845b335d43b6",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-02.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-02.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-03-04.webp",
+      "type": "webp",
+      "bytes": 54334,
+      "sha256": "e8be7e878beb390bf5ff3dc5b33a59f6ac009b532a6eaaa4229e27da29403d17",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-03-04.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-03-04.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-05.webp",
+      "type": "webp",
+      "bytes": 55068,
+      "sha256": "fa2b79b21d93446afebda76d42e26522be0d3cf0fd83aba5aee6f6870b7da106",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-05.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-05.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-06.webp",
+      "type": "webp",
+      "bytes": 59288,
+      "sha256": "f96b5dc10c119e8260bf9978effadf888c039e0f8a4dff3856ec7a0547b64c43",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-06.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-06.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-07.webp",
+      "type": "webp",
+      "bytes": 38618,
+      "sha256": "1f3928e0c18e8c76f08c0fcb4af8191c60987ff93b5cc4c7b493f207ae134fe9",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-07.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-07.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-08.webp",
+      "type": "webp",
+      "bytes": 49576,
+      "sha256": "6f3d903495053f907afb64b6e47413a5ed2c59592919f754d79ded1fb890ca3c",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-08.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-08.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-09.webp",
+      "type": "webp",
+      "bytes": 97982,
+      "sha256": "0f7d0ba2f1b881213b8cbcbdcdd95de10ba6158fe6335f1cfde9f304b85c1d37",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-09.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-09.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-10.webp",
+      "type": "webp",
+      "bytes": 68676,
+      "sha256": "2b49033bf71108ff98fbc209c65e0a69c207a38845e0971c2c63f2450433aa22",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-10.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-10.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-11.webp",
+      "type": "webp",
+      "bytes": 72144,
+      "sha256": "625a21d82acd7a77eafe81d852bafbe20686ebc7e63eb84772335223bb45ab93",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-11.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-11.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-12.webp",
+      "type": "webp",
+      "bytes": 76456,
+      "sha256": "c33e4e426cdd72e35f5b38c0d60673c7d0a6d2e94edc86a496e9d8fec1995c3b",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-12.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-12.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-13.webp",
+      "type": "webp",
+      "bytes": 76738,
+      "sha256": "2dbde8f31bba0fc0cd8fe4dd483130dd65cd6df3918842fde4ff88b62eb63c98",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-13.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-13.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-14.webp",
+      "type": "webp",
+      "bytes": 87448,
+      "sha256": "138e0d086ce894a6aa9bd47abf2d82cb5e297892395f042edf59b93345dd595c",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-14.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-14.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-15.webp",
+      "type": "webp",
+      "bytes": 82930,
+      "sha256": "795561292c3336896ea2d9ef101fe615fc4d6e92133523ce1525fca5eccb9c12",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-15.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-15.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-16.webp",
+      "type": "webp",
+      "bytes": 66544,
+      "sha256": "3645021e6658988f843f484d8494b2652be824a20d30c0a1aa499268912ee409",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-16.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-16.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-17.webp",
+      "type": "webp",
+      "bytes": 59594,
+      "sha256": "c27d33f28de61736896b98bb1aaed1341d60ab13d136e6f84ae760c0552ca9be",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-17.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-17.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-18.webp",
+      "type": "webp",
+      "bytes": 84562,
+      "sha256": "851d96fb94dc2efbb05f2a7ab74e497907cb024936328e108a9f28b92700e272",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-18.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-18.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-19.webp",
+      "type": "webp",
+      "bytes": 109678,
+      "sha256": "be12247824c153aad5647940922bfd56e392a725bd0dac8822c127521687bb1a",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-19.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-19.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-20.webp",
+      "type": "webp",
+      "bytes": 65222,
+      "sha256": "4c3e41aff92e0b4f1d1296dce9c01c66fe6a87dd128d729e86a4952199f3158e",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-20.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-20.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-21.webp",
+      "type": "webp",
+      "bytes": 97870,
+      "sha256": "ae828c0e274334fdb8a175991691a6dc54768078ef3c23df449a94fe9cbc03e6",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-21.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-21.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-22.webp",
+      "type": "webp",
+      "bytes": 80744,
+      "sha256": "190ac13b3dbfdacb9dc38fe01be879cc3d41691680ff51aaa49bcd155a72fd3d",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-22.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-22.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-23.webp",
+      "type": "webp",
+      "bytes": 83850,
+      "sha256": "128ede3028d1e2fa00906d5c4d7949de3b2669060082648f0b9d57e120443e3e",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-23.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-23.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-24.webp",
+      "type": "webp",
+      "bytes": 76064,
+      "sha256": "1d660cd5d45541d12c353d31eacb9677e858adca77405278e2bf8141597ad7b6",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-24.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-24.webp"
+    },
+    {
+      "path": "site/assets/images/columns/week-25.webp",
+      "type": "webp",
+      "bytes": 48518,
+      "sha256": "b93395de7414f442c4425e7d5f9c258d9b18f2fac6f9bf66638af7f89e1dec2b",
+      "original_paths": [
+        "design/ui-v3/assets/columns/week-25.webp"
+      ],
+      "referenced_by": [
+        "site/columns.html",
+        "site/data/columns-data.json",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/columns/week-25.webp"
+    },
+    {
+      "path": "site/assets/images/grammar/sentence-pattern.png",
+      "type": "png",
+      "bytes": 634149,
+      "sha256": "26b2d1b06033fb555cf8dc545aef02ebbc93c1a0bc49f123e969ac8e83cf7a4b",
+      "original_paths": [
+        "assets/语法/sentence-pattern.png",
+        "design/ui-v3/assets/grammar/sentence-pattern.png"
+      ],
+      "referenced_by": [
+        "site/grammar.html"
+      ],
+      "site_url": "assets/images/grammar/sentence-pattern.png"
+    },
+    {
+      "path": "site/assets/images/grammar/spatial-relation.png",
+      "type": "png",
+      "bytes": 283969,
+      "sha256": "9cdc638259cbf083264149957f56baf43a5c156c0f836e8fc736559ec2d35121",
+      "original_paths": [
+        "assets/语法/spatial-relation.png",
+        "design/ui-v3/assets/grammar/spatial-relation.png"
+      ],
+      "referenced_by": [
+        "site/grammar.html"
+      ],
+      "site_url": "assets/images/grammar/spatial-relation.png"
+    },
+    {
+      "path": "site/assets/images/grammar/word-position.png",
+      "type": "png",
+      "bytes": 365263,
+      "sha256": "6803758ed2a284521dfa2f1e9ff263e11d580d4b224433c3ed2e352d3b0b90e0",
+      "original_paths": [
+        "assets/语法/word-position.png",
+        "design/ui-v3/assets/grammar/word-position.png"
+      ],
+      "referenced_by": [
+        "site/grammar.html"
+      ],
+      "site_url": "assets/images/grammar/word-position.png"
+    },
+    {
+      "path": "site/assets/images/home/learning-scene.png",
+      "type": "png",
+      "bytes": 1692031,
+      "sha256": "3d270df4d0e43e59685a1795ad0ff5c89cd9bf9dcf99c3e195aa02862fed1cca",
+      "original_paths": [
+        "design/ui-v3/assets/学习场景.png"
+      ],
+      "referenced_by": [
+        "design/archive/v2/home.html",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/home/learning-scene.png"
+    },
+    {
+      "path": "site/assets/images/phonetics/articulation-card.png",
+      "type": "png",
+      "bytes": 557814,
+      "sha256": "068103b928172e2bdf98d9444e9acdce8be18c0e96485de2c7fadace0226fbe5",
+      "original_paths": [
+        "assets/音标/image copy.png",
+        "design/ui-v3/assets/phonetics/articulation-card.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/phonetics/articulation-card.png"
+    },
+    {
+      "path": "site/assets/images/phonetics/sound-pair-card.png",
+      "type": "png",
+      "bytes": 107813,
+      "sha256": "4f3cc355b6d7c55bc520ba4628746294e98b0f1fb3e313584f9526d4d385c5c3",
+      "original_paths": [
+        "assets/音标/image copy 3.png",
+        "design/ui-v3/assets/phonetics/sound-pair-card.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/phonetics/sound-pair-card.png"
+    },
+    {
+      "path": "site/assets/images/phonetics/vowel-card.png",
+      "type": "png",
+      "bytes": 95962,
+      "sha256": "0a199b33abe27fbbc01b5b0ba7dc448805f3497e1ca84a5805b9c1acbdb2fb19",
+      "original_paths": [
+        "assets/音标/image.png",
+        "design/ui-v3/assets/phonetics/vowel-card.png"
+      ],
+      "referenced_by": [
+        "site/phonetics.html"
+      ],
+      "site_url": "assets/images/phonetics/vowel-card.png"
+    },
+    {
+      "path": "site/assets/images/phonetics/word-pair-card.png",
+      "type": "png",
+      "bytes": 127578,
+      "sha256": "7f92d1334a0a2f1f5026ec0f608d8ea79387b5658d7e940dbd4a899139496e36",
+      "original_paths": [
+        "assets/音标/image copy 2.png",
+        "design/ui-v3/assets/phonetics/word-pair-card.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/phonetics/word-pair-card.png"
+    },
+    {
+      "path": "site/assets/images/reading/little-prince-placeholder.svg",
+      "type": "svg",
+      "bytes": 738,
+      "sha256": "f85612010818f3cc6b727bf43eeed94b11c4973af4546ec9bf687b83a6fce852",
+      "original_paths": [
+        "design/ui-v3/assets/reading/little-prince-placeholder.svg"
+      ],
+      "referenced_by": [
+        "site/little-prince.html",
+        "site/reading.html"
+      ],
+      "site_url": "assets/images/reading/little-prince-placeholder.svg"
+    },
+    {
+      "path": "site/assets/images/reading/reading-book.png",
+      "type": "png",
+      "bytes": 196401,
+      "sha256": "3c713502465dc5e73b3f11d7e48204db84999e407f71980abbac67a202700613",
+      "original_paths": [
+        "assets/8天教你像读中文一样读英文-书封.png",
+        "design/ui-v3/assets/reading/reading-book.png"
+      ],
+      "referenced_by": [
+        "site/reading.html"
+      ],
+      "site_url": "assets/images/reading/reading-book.png"
+    },
+    {
+      "path": "site/assets/images/tools/app-icon.png",
+      "type": "png",
+      "bytes": 22152,
+      "sha256": "87fc4b699b099b4330910811bad70023092175921a80744a1b0886a411e79359",
+      "original_paths": [
+        "design/ui-v3/assets/tools/app-icon.png"
+      ],
+      "referenced_by": [
+        "site/tools.html"
+      ],
+      "site_url": "assets/images/tools/app-icon.png"
+    },
+    {
+      "path": "site/assets/images/tools/bookshelf-thumb.webp",
+      "type": "webp",
+      "bytes": 7572,
+      "sha256": "c48ae0b18c8c8af715a4f9e210bcf699386ed1ba04c425968186d1e530c1c503",
+      "original_paths": [
+        "design/ui-v3/assets/tools/bookshelf-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/bookshelf-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/bookshelf.webp",
+      "type": "webp",
+      "bytes": 86298,
+      "sha256": "b5a3d515cafe0fc2d2a84686193cd4516c8ee30cf7b60456e441009b7864fbe7",
+      "original_paths": [
+        "design/ui-v3/assets/tools/bookshelf.webp"
+      ],
+      "referenced_by": [
+        "site/tools.html"
+      ],
+      "site_url": "assets/images/tools/bookshelf.webp"
+    },
+    {
+      "path": "site/assets/images/tools/calendar-thumb.webp",
+      "type": "webp",
+      "bytes": 4946,
+      "sha256": "54b76f7f743d43eb274bce159a6cbe0567516a9df8da74ff1b8d3073034da8b6",
+      "original_paths": [
+        "design/ui-v3/assets/tools/calendar-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/calendar-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/calendar.webp",
+      "type": "webp",
+      "bytes": 62332,
+      "sha256": "81c75b5ca0b8c53ad529606a8abe6fc6259c4507d578887f0dca706d84a6ac75",
+      "original_paths": [
+        "design/ui-v3/assets/tools/calendar.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/calendar.webp"
+    },
+    {
+      "path": "site/assets/images/tools/exams-thumb.webp",
+      "type": "webp",
+      "bytes": 5208,
+      "sha256": "af0c2dbf7986c11859dc61a2bc84de4ccf87fe28fa78fad2bd31f19dc687c01a",
+      "original_paths": [
+        "design/ui-v3/assets/tools/exams-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/exams-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/exams.webp",
+      "type": "webp",
+      "bytes": 59758,
+      "sha256": "48b60abc0738af6b5457892e66f9153587f47aca0bd8a646ce04bb69f9749fb7",
+      "original_paths": [
+        "design/ui-v3/assets/tools/exams.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/exams.webp"
+    },
+    {
+      "path": "site/assets/images/tools/lookup-thumb.webp",
+      "type": "webp",
+      "bytes": 7102,
+      "sha256": "c0de3c9be6ff5dca6cee670e63b6377c1f455888902898139dc9ee22ace59a22",
+      "original_paths": [
+        "design/ui-v3/assets/tools/lookup-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/lookup-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/lookup.webp",
+      "type": "webp",
+      "bytes": 92578,
+      "sha256": "59fc6e6c4efd2222f381056d5bf34c5d9ee4f8ad3f41d65f8ea928ae7da6aa82",
+      "original_paths": [
+        "design/ui-v3/assets/tools/lookup.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/lookup.webp"
+    },
+    {
+      "path": "site/assets/images/tools/movies-thumb.webp",
+      "type": "webp",
+      "bytes": 4674,
+      "sha256": "cf38bdb7f7c3576e9ac4b6c47a2ae2f52f26f6df36bb3f3f9a24a7155f718465",
+      "original_paths": [
+        "design/ui-v3/assets/tools/movies-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/movies-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/movies.webp",
+      "type": "webp",
+      "bytes": 52488,
+      "sha256": "9f806b066540665ceb6ed58d0e3d741c642386cf14d7791aab25ab614313d59e",
+      "original_paths": [
+        "design/ui-v3/assets/tools/movies.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/movies.webp"
+    },
+    {
+      "path": "site/assets/images/tools/originals/bookshelf.png",
+      "type": "png",
+      "bytes": 791016,
+      "sha256": "e6959002701ab54d9a64aa721a76bb0fc23577e5a8a85fa70c0a38245e64aa9f",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/bookshelf.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/bookshelf.png"
+    },
+    {
+      "path": "site/assets/images/tools/originals/calendar.png",
+      "type": "png",
+      "bytes": 480038,
+      "sha256": "3522f58b5c201c82c278f0a9cff69350e27792e73a4fcdd90475f9ea68566186",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/calendar.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/calendar.png"
+    },
+    {
+      "path": "site/assets/images/tools/originals/exams.png",
+      "type": "png",
+      "bytes": 615484,
+      "sha256": "277b3593b10ab70580f5a65bda410c4faa8c0774934923069cf5c171f0417635",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/exams.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/exams.png"
+    },
+    {
+      "path": "site/assets/images/tools/originals/lookup.png",
+      "type": "png",
+      "bytes": 1399908,
+      "sha256": "8cfb65f597beff535f3c1a00a536d3ce447780c15bac095b8242fcacff359abc",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/lookup.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/lookup.png"
+    },
+    {
+      "path": "site/assets/images/tools/originals/movies.png",
+      "type": "png",
+      "bytes": 389039,
+      "sha256": "d8976478e5a5d028f23bc61c9a79c1d9116c519485ff49a429d2c212dd5bdd1d",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/movies.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/movies.png"
+    },
+    {
+      "path": "site/assets/images/tools/originals/phrases.png",
+      "type": "png",
+      "bytes": 111601,
+      "sha256": "725925a1d264ee510ecdf639ac7afc959518e5a5b4c027739346fe5a1e7d3568",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/phrases.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/phrases.png"
+    },
+    {
+      "path": "site/assets/images/tools/originals/plan.png",
+      "type": "png",
+      "bytes": 1906061,
+      "sha256": "8d3b64926563455ec4ddf16b5d2f74c216f9e4e5060bc0d86e5569e6ded2dc1e",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/plan.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/plan.png"
+    },
+    {
+      "path": "site/assets/images/tools/originals/player.png",
+      "type": "png",
+      "bytes": 1762225,
+      "sha256": "3305aae5d42ee50318c06593acf9b95028a08c00e60bc68996ff0ee9877aae65",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/player.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/player.png"
+    },
+    {
+      "path": "site/assets/images/tools/originals/profile.png",
+      "type": "png",
+      "bytes": 1430298,
+      "sha256": "4751b0ba717822eb5ecc545be36b5a5fa9f5243d14bcb5d704c2371d8c27b75f",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/profile.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/profile.png"
+    },
+    {
+      "path": "site/assets/images/tools/originals/shadow-movie.png",
+      "type": "png",
+      "bytes": 411191,
+      "sha256": "c5877f234f140acdb2e67808249d2fb44aab091156d28ea93631375bd7ee3b99",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/shadow-movie.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/shadow-movie.png"
+    },
+    {
+      "path": "site/assets/images/tools/originals/shadow-reading.png",
+      "type": "png",
+      "bytes": 1250831,
+      "sha256": "4ce34a50fe40833b14d2df0388d54aede78dced8493e70d634de2b2b711d531c",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/shadow-reading.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/shadow-reading.png"
+    },
+    {
+      "path": "site/assets/images/tools/originals/stats.png",
+      "type": "png",
+      "bytes": 397135,
+      "sha256": "a987929306176718e2e2c30e17111338f31fa392761380459c568b93d88b1e27",
+      "original_paths": [
+        "design/ui-v3/assets/tools/originals/stats.png"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/originals/stats.png"
+    },
+    {
+      "path": "site/assets/images/tools/overview-movies.png",
+      "type": "png",
+      "bytes": 2374603,
+      "sha256": "006aecadc2b15dfa7e843d3abe01306cd60665c9085f9706be08f7f0875c9f6e",
+      "original_paths": [
+        "design/ui-v1/references/软件影视页.png",
+        "design/ui-v2/assets/软件影视页.png"
+      ],
+      "referenced_by": [
+        "design/archive/v2/tools.html",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/tools/overview-movies.png"
+    },
+    {
+      "path": "site/assets/images/tools/overview-reading.png",
+      "type": "png",
+      "bytes": 1455949,
+      "sha256": "0bb96d47d6801a23f32725b5bf564acc521e3bb5667ad7f50785205299cd0f19",
+      "original_paths": [
+        "design/ui-v1/references/软件阅读页.png",
+        "design/ui-v2/assets/软件阅读页.png"
+      ],
+      "referenced_by": [
+        "design/archive/v2/home.html",
+        "design/archive/v2/tools.html",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/tools/overview-reading.png"
+    },
+    {
+      "path": "site/assets/images/tools/overview-stats.png",
+      "type": "png",
+      "bytes": 883035,
+      "sha256": "e76f9f7ffc926fea609893b00200654431ed2c09885b808ea23d378973dcbf4b",
+      "original_paths": [
+        "design/ui-v1/references/软件数据页.png",
+        "design/ui-v2/assets/软件数据页.png"
+      ],
+      "referenced_by": [
+        "design/archive/v2/tools.html",
+        "site/index.html"
+      ],
+      "site_url": "assets/images/tools/overview-stats.png"
+    },
+    {
+      "path": "site/assets/images/tools/phrases-thumb.webp",
+      "type": "webp",
+      "bytes": 4940,
+      "sha256": "f7327820f154f135338c97304b96d813c09a7891960d27c538c5c469c40d1494",
+      "original_paths": [
+        "design/ui-v3/assets/tools/phrases-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/phrases-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/phrases.webp",
+      "type": "webp",
+      "bytes": 29572,
+      "sha256": "fe92dd9a4ae3407ef12795a7ba14bdd44836c0db15a89f2d1a96a8be06de5eec",
+      "original_paths": [
+        "design/ui-v3/assets/tools/phrases.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/phrases.webp"
+    },
+    {
+      "path": "site/assets/images/tools/plan-thumb.webp",
+      "type": "webp",
+      "bytes": 5040,
+      "sha256": "91b360ce9c6f3dc58464cfe236791bb699265b93255aaefbf385816c73faddae",
+      "original_paths": [
+        "design/ui-v3/assets/tools/plan-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/plan-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/plan.webp",
+      "type": "webp",
+      "bytes": 63534,
+      "sha256": "665f441f3bf15998323a96f45cfe7f92125a46aa9d0cf51b74c1565b4a695c9c",
+      "original_paths": [
+        "design/ui-v3/assets/tools/plan.webp"
+      ],
+      "referenced_by": [
+        "site/tools.html"
+      ],
+      "site_url": "assets/images/tools/plan.webp"
+    },
+    {
+      "path": "site/assets/images/tools/player-thumb.webp",
+      "type": "webp",
+      "bytes": 8206,
+      "sha256": "150d52525f2d6145d06a5e70487176e86c15ce4d0c1c1f23a5dd49f618439cdc",
+      "original_paths": [
+        "design/ui-v3/assets/tools/player-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/player-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/player.webp",
+      "type": "webp",
+      "bytes": 79396,
+      "sha256": "4238dd55bab52423d583fa0dff8a83feb051dad6fa43c0faa33433df54de80ec",
+      "original_paths": [
+        "design/ui-v3/assets/tools/player.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/player.webp"
+    },
+    {
+      "path": "site/assets/images/tools/profile-thumb.webp",
+      "type": "webp",
+      "bytes": 5016,
+      "sha256": "944818370dd6fef1bf568d2e4652c9d939c29445e892267348a94486d2ca85f6",
+      "original_paths": [
+        "design/ui-v3/assets/tools/profile-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/profile-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/profile.webp",
+      "type": "webp",
+      "bytes": 58130,
+      "sha256": "005461169b97e3099114a93452979ac04a4c61d0e96475330a560f804d3a8715",
+      "original_paths": [
+        "design/ui-v3/assets/tools/profile.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/profile.webp"
+    },
+    {
+      "path": "site/assets/images/tools/shadow-movie-thumb.webp",
+      "type": "webp",
+      "bytes": 4918,
+      "sha256": "d4cf72e90cb2a8d7e5df2a41704d6445f64b0f332ebc7ae82c5965db7106c8b7",
+      "original_paths": [
+        "design/ui-v3/assets/tools/shadow-movie-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/shadow-movie-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/shadow-movie.webp",
+      "type": "webp",
+      "bytes": 53988,
+      "sha256": "295b9a72c611397c7c2cd01688cfc4e4b0013f05bd17f455b574efe9e6c27bd5",
+      "original_paths": [
+        "design/ui-v3/assets/tools/shadow-movie.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/shadow-movie.webp"
+    },
+    {
+      "path": "site/assets/images/tools/shadow-reading-thumb.webp",
+      "type": "webp",
+      "bytes": 10786,
+      "sha256": "ac72b337643c83ee992127613b0bdd609a09acab5048584d17dea53590b6ec53",
+      "original_paths": [
+        "design/ui-v3/assets/tools/shadow-reading-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/shadow-reading-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/shadow-reading.webp",
+      "type": "webp",
+      "bytes": 138534,
+      "sha256": "2241024c312b6475cff2734b94e1d50f7f9ecc2593e8b6037689c59f94228768",
+      "original_paths": [
+        "design/ui-v3/assets/tools/shadow-reading.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/shadow-reading.webp"
+    },
+    {
+      "path": "site/assets/images/tools/stats-thumb.webp",
+      "type": "webp",
+      "bytes": 4360,
+      "sha256": "5a2e85dcb919bd20233db25ba526da4a05a0cb71e1e9ff771664ee62819e77e2",
+      "original_paths": [
+        "design/ui-v3/assets/tools/stats-thumb.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/stats-thumb.webp"
+    },
+    {
+      "path": "site/assets/images/tools/stats.webp",
+      "type": "webp",
+      "bytes": 58460,
+      "sha256": "c6564190693d0db16d3fc5e11bf068ddb6a9df47a1c8f7bda74c9b1139df51b4",
+      "original_paths": [
+        "design/ui-v3/assets/tools/stats.webp"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/tools/stats.webp"
+    },
+    {
+      "path": "site/assets/images/vocabulary/inquiry.jpg",
+      "type": "jpg",
+      "bytes": 304616,
+      "sha256": "81e50c783c7694d15c3f823cea42facad31def49426296053ebac034ba63cfd2",
+      "original_paths": [
+        "assets/Xnip2026-10-06_16-21-55.jpg",
+        "design/ui-v3/assets/vocabulary/inquiry.jpg"
+      ],
+      "referenced_by": [
+        "site/vocabulary.html"
+      ],
+      "site_url": "assets/images/vocabulary/inquiry.jpg"
+    },
+    {
+      "path": "site/assets/images/vocabulary/nasty.jpg",
+      "type": "jpg",
+      "bytes": 302904,
+      "sha256": "a45c50f268eaa393145f78d155c9469f9e32d64efdb3faf6ca6a3a027458b05e",
+      "original_paths": [
+        "assets/Xnip2026-10-06_16-23-14.jpg",
+        "design/ui-v3/assets/vocabulary/nasty.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/vocabulary/nasty.jpg"
+    },
+    {
+      "path": "site/assets/images/vocabulary/reading-send.png",
+      "type": "png",
+      "bytes": 1479240,
+      "sha256": "f6abb06e682121327e3e58bf06f3c3e735cc0eff09d4fe8b9e2bf102a3c740f1",
+      "original_paths": [
+        "assets/词汇/reading-send.png",
+        "design/ui-v3/assets/vocabulary/reading-send.png"
+      ],
+      "referenced_by": [
+        "site/vocabulary.html"
+      ],
+      "site_url": "assets/images/vocabulary/reading-send.png"
+    },
+    {
+      "path": "site/assets/images/vocabulary/reveal.jpg",
+      "type": "jpg",
+      "bytes": 283748,
+      "sha256": "5024a6087dfd919707be1fc2c5047b3b22afe17fb970a5f860f7a468e7f35291",
+      "original_paths": [
+        "assets/Xnip2026-10-06_16-22-28.jpg",
+        "design/ui-v3/assets/vocabulary/reveal.jpg"
+      ],
+      "referenced_by": [],
+      "site_url": "assets/images/vocabulary/reveal.jpg"
+    },
+    {
+      "path": "site/assets/images/vocabulary/viewing-send.png",
+      "type": "png",
+      "bytes": 1849755,
+      "sha256": "75eedc6f699a34b849f2a5c40cfb27fcce140fd0bc7b004dc3fb6cf0c4f5155c",
+      "original_paths": [
+        "assets/词汇/viewing-send.png",
+        "design/ui-v3/assets/vocabulary/viewing-send.png"
+      ],
+      "referenced_by": [
+        "site/vocabulary.html"
+      ],
+      "site_url": "assets/images/vocabulary/viewing-send.png"
+    },
+    {
+      "path": "site/assets/images/vocabulary/word-library.png",
+      "type": "png",
+      "bytes": 1340132,
+      "sha256": "33bdee91b46b3516a895f29801f190994c0a9fbd97850bb4efa3b82c1112e192",
+      "original_paths": [
+        "assets/词汇/词汇汇集示意图.png",
+        "design/ui-v3/assets/vocabulary/word-library.png"
+      ],
+      "referenced_by": [
+        "site/vocabulary.html"
+      ],
+      "site_url": "assets/images/vocabulary/word-library.png"
+    }
+  ]
+}

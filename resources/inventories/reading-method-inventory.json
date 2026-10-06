@@ -1,0 +1,1933 @@
+{
+  "review_date": "2026-10-06",
+  "timezone": "Asia/Shanghai",
+  "source_root": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文",
+  "scope": "指定Obsidian项目目录全部本地文件及文件内直接引用；不是原书全文或其外链网站的完整研读。",
+  "counts": {
+    "all_files": 61,
+    "markdown": 51,
+    "excalidraw_markdown": 47,
+    "supporting_diagrams": 44,
+    "images": 10,
+    "png": 7,
+    "jpg": 3,
+    "unresolved_local_references": 0,
+    "unique_direct_external_links": 8
+  },
+  "all_local_files_reviewed": true,
+  "all_drawings_decoded": true,
+  "drawings_visually_rendered": false,
+  "unresolved_local_references": [],
+  "byte_identical_groups": [],
+  "external_references": [
+    {
+      "url": "https://anki-img.tlpy8.com/anki/010990363185635251.jpg",
+      "referenced_from": [
+        {
+          "file": "attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.03.excalidraw.md",
+          "line": 32
+        }
+      ],
+      "review_status": "read_attempt_failed",
+      "content_verified": false,
+      "note": "按引用周围文字登记用途，外部图片内容未取得。"
+    },
+    {
+      "url": "https://anki-img.tlpy8.com/anki/048407537693037354.jpg",
+      "referenced_from": [
+        {
+          "file": "attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.03.excalidraw.md",
+          "line": 34
+        }
+      ],
+      "review_status": "read_attempt_failed",
+      "content_verified": false,
+      "note": "按引用周围文字登记用途，外部图片内容未取得。"
+    },
+    {
+      "url": "https://anki-img.tlpy8.com/anki/144027859200973292.jpg",
+      "referenced_from": [
+        {
+          "file": "attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.53.excalidraw.md",
+          "line": 20
+        }
+      ],
+      "review_status": "read_attempt_failed",
+      "content_verified": false,
+      "note": "按引用周围文字登记用途，外部图片内容未取得。"
+    },
+    {
+      "url": "https://anki-img.tlpy8.com/anki/181498901347496466.jpg",
+      "referenced_from": [
+        {
+          "file": "attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.03.excalidraw.md",
+          "line": 28
+        }
+      ],
+      "review_status": "read_attempt_failed",
+      "content_verified": false,
+      "note": "按引用周围文字登记用途，外部图片内容未取得。"
+    },
+    {
+      "url": "https://anki-img.tlpy8.com/anki/657737939066520204.jpg",
+      "referenced_from": [
+        {
+          "file": "attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.03.excalidraw.md",
+          "line": 30
+        }
+      ],
+      "review_status": "read_attempt_failed",
+      "content_verified": false,
+      "note": "按引用周围文字登记用途，外部图片内容未取得。"
+    },
+    {
+      "url": "https://anki-img.tlpy8.com/anki/725176888230458785.png",
+      "referenced_from": [
+        {
+          "file": "attachments/第二章：如何正确理解句子意思 2026-07-15 17.00.43.excalidraw.md",
+          "line": 26
+        }
+      ],
+      "review_status": "read_attempt_failed",
+      "content_verified": false,
+      "note": "按引用周围文字登记用途，外部图片内容未取得。"
+    },
+    {
+      "url": "https://anki-img.tlpy8.com/anki/815597626480770671.png",
+      "referenced_from": [
+        {
+          "file": "attachments/第二章：如何正确理解句子意思 2026-07-15 17.00.43.excalidraw.md",
+          "line": 24
+        }
+      ],
+      "review_status": "read_attempt_failed",
+      "content_verified": false,
+      "note": "按引用周围文字登记用途，外部图片内容未取得。"
+    },
+    {
+      "url": "https://www.zhihu.com/question/19659335/answer/2874818452",
+      "referenced_from": [
+        {
+          "file": "IIB - 8天教你像读中文一样读英文.md",
+          "line": 44
+        }
+      ],
+      "review_status": "read_attempt_failed",
+      "content_verified": false,
+      "note": "本地两张笔记截图已查看，外链全文未取得。"
+    }
+  ],
+  "additional_verification_sources": [
+    {
+      "url": "https://www.psychologicalscience.org/journals/psychological-science/0956797614531148/",
+      "scope": "期刊官方论文摘要；不能据此声称读过全文或验证了项目方法。",
+      "supports": "禁止回读可能损害理解。"
+    },
+    {
+      "url": "https://erfoundation.org/wordpress/useful-resources/ertoolkit/",
+      "scope": "基金会教学资源页。",
+      "supports": "泛读选用容易、有兴趣的材料。"
+    },
+    {
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/do1_1",
+      "scope": "do词条，suitable与travel等义项。",
+      "supports": "满足需要；行进某段距离，不必限定步行。"
+    },
+    {
+      "url": "https://www.oxfordlearnersdictionaries.com/definition/english/tease_1",
+      "scope": "tease词条多义项。",
+      "supports": "不可把所有用法统一释为欺负。"
+    }
+  ],
+  "outputs": [
+    "英语阅读方法与页面内容基础.md",
+    "阅读资料研读与勘误.md",
+    "reading-method-inventory.json"
+  ],
+  "files": [
+    {
+      "relative_path": "IIB - 8天教你像读中文一样读英文.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/IIB - 8天教你像读中文一样读英文.md",
+      "bytes": 29551,
+      "sha256": "871b13840d45f8f56a1e664a23a13698d9df5d77f961232f968562eabcc1c0be",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 1582,
+      "has_drawing": true,
+      "role": "overview_or_chapter",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 56,
+        "active_text_elements": 15,
+        "active_image_elements": 6,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [
+        {
+          "line": 47,
+          "reference": "Pasted Image 20260712153824_422.png",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/Pasted Image 20260712153824_422.png"
+          ]
+        },
+        {
+          "line": 49,
+          "reference": "302ee54d4acff0bcb8f50bae8959f0bb.jpg",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/302ee54d4acff0bcb8f50bae8959f0bb.jpg"
+          ]
+        },
+        {
+          "line": 51,
+          "reference": "426000f667011b4e8d68ec4ca3223be0.jpg",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/426000f667011b4e8d68ec4ca3223be0.jpg"
+          ]
+        },
+        {
+          "line": 53,
+          "reference": "Pasted Image 20260712161221_687.png",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/Pasted Image 20260712161221_687.png"
+          ]
+        },
+        {
+          "line": 55,
+          "reference": "7c414fa4f8ed3b30209bd6c1628ab8a6.jpg",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/7c414fa4f8ed3b30209bd6c1628ab8a6.jpg"
+          ]
+        }
+      ],
+      "external_urls": [
+        "https://www.zhihu.com/question/19659335/answer/2874818452"
+      ]
+    },
+    {
+      "relative_path": "attachment/为什么要创建断点2.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/为什么要创建断点2.md",
+      "bytes": 5955,
+      "sha256": "f904154abfb193dcc443b4ef2e95bbdfaab2736a0fe309a765234e2e1541fcde",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 660,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 6,
+        "active_text_elements": 5,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 16.21.19.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.21.19.excalidraw.md",
+      "bytes": 6923,
+      "sha256": "fc3aa5000e8183fe61f757179ac2e4a6b4b3f3a204e95a11a3376492277c5933",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 628,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 9,
+        "active_text_elements": 8,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 16.27.04.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.27.04.excalidraw.md",
+      "bytes": 6665,
+      "sha256": "9bc300928b7ea2380da0a3acb36331789fd266c50afd00bb33aadb7261c570bd",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 616,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 7,
+        "active_text_elements": 6,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 16.34.27.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.34.27.excalidraw.md",
+      "bytes": 4107,
+      "sha256": "b949cc67987c93169016498ef7017e86df7e34501d5f22b584afd2434854692e",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 416,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 5,
+        "active_text_elements": 4,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 16.36.18.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.36.18.excalidraw.md",
+      "bytes": 7408,
+      "sha256": "632f69e82e0edc61b86c9def82aa6cb07292104526f84d3e9e6d32aa6cd410ef",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 649,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 10,
+        "active_text_elements": 8,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 16.43.07.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.43.07.excalidraw.md",
+      "bytes": 6386,
+      "sha256": "59f080cddea1e21ab0cf8452c436e2798ffc654827c056c90b5b471e9de0d8c6",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 682,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 7,
+        "active_text_elements": 6,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 16.44.58.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.44.58.excalidraw.md",
+      "bytes": 7693,
+      "sha256": "4a6cd5addcc9a4e8bfc6a30228bc0b70cf7daf3ba734b74ff60aad98115e985d",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 576,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 13,
+        "active_text_elements": 5,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 16.48.58.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.48.58.excalidraw.md",
+      "bytes": 9730,
+      "sha256": "956e78baa618d8c3664d96a47710c92dbf5e1ad2208fe19891ddd6544e9dbbbd",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 809,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 9,
+        "active_text_elements": 8,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 16.51.59.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.51.59.excalidraw.md",
+      "bytes": 7330,
+      "sha256": "f82400c2b7f772b7d36fce4d2000589f742aca1c1a4deb3693356602609f9d3a",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 633,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 7,
+        "active_text_elements": 6,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 16.59.19.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.59.19.excalidraw.md",
+      "bytes": 5734,
+      "sha256": "4a83725905f43492c9f94c652ab28178c9d597803010b890c3a16905bf503478",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 575,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 6,
+        "active_text_elements": 5,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 17.02.12.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.02.12.excalidraw.md",
+      "bytes": 8310,
+      "sha256": "94e7f135f9e330c5a081e93ad5e81f2f3627bd781800f8b6b1f5d4869c5b8f38",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 751,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 13,
+        "active_text_elements": 11,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 17.07.44.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.07.44.excalidraw.md",
+      "bytes": 7226,
+      "sha256": "667923a2aa01869d5b5313716a4d21e9a1e9e575371fd4187d87d08e80f55b49",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 705,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 9,
+        "active_text_elements": 5,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 17.18.52.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.18.52.excalidraw.md",
+      "bytes": 6575,
+      "sha256": "bd43b3d891bf45d0796a86c882a5ebe09750d9eeae5b855dc31bb4518a03ecee",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 612,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 8,
+        "active_text_elements": 7,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 17.21.25.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.21.25.excalidraw.md",
+      "bytes": 5499,
+      "sha256": "c358337e78e9d17c63b2efa3377e0d26b67edd3bdfcd02d551142129e75b072b",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 660,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 5,
+        "active_text_elements": 4,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachment/第二章：如何正确理解句子意思 2026-07-21 17.23.21.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.23.21.excalidraw.md",
+      "bytes": 9590,
+      "sha256": "5576dc7854267d25d3f41bffe76449a77c59dea9755c7c2c2b38924a6d8d5db1",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 787,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 15,
+        "active_text_elements": 11,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/302ee54d4acff0bcb8f50bae8959f0bb.jpg",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/302ee54d4acff0bcb8f50bae8959f0bb.jpg",
+      "bytes": 238266,
+      "sha256": "9f78869e966847b9b3d04a41f176b209157be6f2feeb2932bb5a1574981dfe4d",
+      "kind": "image",
+      "review_status": "viewed",
+      "content_note": "阅读笔记上半截图，含放弃精读、准确度、速度、精确度与理解80%至90%的说法；底部被界面遮挡，续图另见426000开头图片。"
+    },
+    {
+      "relative_path": "attachments/426000f667011b4e8d68ec4ca3223be0.jpg",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/426000f667011b4e8d68ec4ca3223be0.jpg",
+      "bytes": 285117,
+      "sha256": "b3a72837ddeb64e008e6c98d6a1e15b446a94e7debbda5abb72c7ef5e357fe8c",
+      "kind": "image",
+      "review_status": "viewed",
+      "content_note": "阅读笔记续图，包含语序、断句、加词、带着生词阅读、语境词义与知乎来源。"
+    },
+    {
+      "relative_path": "attachments/7c414fa4f8ed3b30209bd6c1628ab8a6.jpg",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/7c414fa4f8ed3b30209bd6c1628ab8a6.jpg",
+      "bytes": 275190,
+      "sha256": "211d130e0b1f56f9bf067baf6c169c2b23cb6065229fcb5be64b3ac066c6e8bf",
+      "kind": "image",
+      "review_status": "viewed",
+      "content_note": "私人对话截图，涉及前两章方法分享和个人评价；仅用于理解资料背景，不复制为公开推荐语。"
+    },
+    {
+      "relative_path": "attachments/Pasted Image 20260712153824_422.png",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/Pasted Image 20260712153824_422.png",
+      "bytes": 196401,
+      "sha256": "3c713502465dc5e73b3f11d7e48204db84999e407f71980abbac67a202700613",
+      "kind": "image",
+      "review_status": "viewed",
+      "content_note": "8天教你像读中文一样读英文书封。"
+    },
+    {
+      "relative_path": "attachments/Pasted Image 20260712161221_687.png",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/Pasted Image 20260712161221_687.png",
+      "bytes": 54057,
+      "sha256": "12ea3aeea1815ef0b68ab8b982f840034b434d4962732b270eb3f21c994e08a8",
+      "kind": "image",
+      "review_status": "viewed",
+      "content_note": "How to Take Smart Notes 书封，为补充例句的书籍线索。"
+    },
+    {
+      "relative_path": "attachments/attachments/Pasted Image 20260715114620_968.png",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/attachments/Pasted Image 20260715114620_968.png",
+      "bytes": 220074,
+      "sha256": "fccca47d4886e3875b6f88bb53a650a8988c6e17807a092a11a71048ffb77b82",
+      "kind": "image",
+      "review_status": "viewed",
+      "content_note": "老年活动中心建筑照片，用于中文中心的语境示例。"
+    },
+    {
+      "relative_path": "attachments/attachments/Pasted Image 20260726175249_194.png",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/attachments/Pasted Image 20260726175249_194.png",
+      "bytes": 190878,
+      "sha256": "e67945dce816ed1e61495ddea0be408d8ef13c3757ceca6a36cf3bd9a8c57146",
+      "kind": "image",
+      "review_status": "viewed",
+      "content_note": "油锅照片，放在spit图解中。"
+    },
+    {
+      "relative_path": "attachments/attachments/Pasted Image 20260726180329_148.png",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/attachments/Pasted Image 20260726180329_148.png",
+      "bytes": 436928,
+      "sha256": "176b0b4e3dc80a9777dde552c0a895229b3bcd681f5520bc3cc029d26dff31d8",
+      "kind": "image",
+      "review_status": "viewed",
+      "content_note": "校园中男孩与后方同学的场景照片，放在tease图解中。"
+    },
+    {
+      "relative_path": "attachments/attachments/Pasted Image 20260726180447_373.png",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/attachments/Pasted Image 20260726180447_373.png",
+      "bytes": 289169,
+      "sha256": "03fee8a2c782bd13e8692f15663ae696e5df795e92c4e6c1e689b09518a69f93",
+      "kind": "image",
+      "review_status": "viewed",
+      "content_note": "男女在咖啡馆交谈的场景照片，放在tease图解中。"
+    },
+    {
+      "relative_path": "attachments/第一章 传统的阅读方法怎么了 2026-07-15 11.06.00.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 传统的阅读方法怎么了 2026-07-15 11.06.00.excalidraw.md",
+      "bytes": 7094,
+      "sha256": "058453746bdf40c814a52b960272e8cfa80ef079fa824651f2be60ec1b30e2c8",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 699,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 8,
+        "active_text_elements": 7,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第一章 开篇 2026-07-15 10.51.06.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 10.51.06.excalidraw.md",
+      "bytes": 4607,
+      "sha256": "80d5c6d236485639040670973b1fa2436e197c644860f0a7c6e8faa408cef742",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 660,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 4,
+        "active_text_elements": 3,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第一章 开篇 2026-07-15 10.53.02.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 10.53.02.excalidraw.md",
+      "bytes": 4791,
+      "sha256": "279f35e46afa8390821adb5639a4e2047e2052548cb6b69c51767a455b145864",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 680,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 3,
+        "active_text_elements": 2,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第一章 开篇 2026-07-15 10.55.29.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 10.55.29.excalidraw.md",
+      "bytes": 9475,
+      "sha256": "a1eebd88d638b5a54421a9d21a8a585682613fdc2aa1a3e01c5a458668ced735",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 862,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 14,
+        "active_text_elements": 7,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第一章 开篇 2026-07-15 10.58.04.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 10.58.04.excalidraw.md",
+      "bytes": 9470,
+      "sha256": "3eef2240a6dc410bf78f308051ac98c568fe348819950de8f8b164f8fc086ec9",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 801,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 15,
+        "active_text_elements": 4,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第一章 开篇 2026-07-15 11.00.42.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 11.00.42.excalidraw.md",
+      "bytes": 4508,
+      "sha256": "e1eb25f2be4e4add86de8d07bcef6e500131fc0af8420c1081cf7a3d5a0cd4ea",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 483,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 5,
+        "active_text_elements": 4,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第一章 开篇 2026-07-15 11.01.56.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 11.01.56.excalidraw.md",
+      "bytes": 4795,
+      "sha256": "75bfc31b1dba807ed080269f1da38f46898d1905d85776acc79c440eae4ba630",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 514,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 5,
+        "active_text_elements": 4,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第一章 开篇 2026-07-15 11.04.20.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 11.04.20.excalidraw.md",
+      "bytes": 5593,
+      "sha256": "9c47d2adaa328146dc7c0f53dfd5ea7c5936dd17671fd160023ee8e0dceebcf1",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 536,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 4,
+        "active_text_elements": 3,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 11.31.18.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.31.18.excalidraw.md",
+      "bytes": 4681,
+      "sha256": "b17f65c53b1b3192faf3a424e3eadc4ef74a59270ed000d8b04256b14ac00463",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 458,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 6,
+        "active_text_elements": 4,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 11.35.07.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.35.07.excalidraw.md",
+      "bytes": 10170,
+      "sha256": "25e498f6b3f9d4b840d0339e19ba0df2520dd8450eced4b01c0dedc32d9d47a0",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 883,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 17,
+        "active_text_elements": 14,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 11.37.32.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.37.32.excalidraw.md",
+      "bytes": 5768,
+      "sha256": "1ad250da3d543ead532c934646dab49b198ddca0cc2d261e62d39fb89fd9fe06",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 677,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 6,
+        "active_text_elements": 3,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 11.39.27.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.39.27.excalidraw.md",
+      "bytes": 7562,
+      "sha256": "25bbaa618bf69a432442dfb10356fa49d69e47463a8d83b4e90c8569e7cda386",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 671,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 10,
+        "active_text_elements": 9,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 11.41.41.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.41.41.excalidraw.md",
+      "bytes": 7519,
+      "sha256": "6a19a9f7956159abacde93f4034bdc6cb5f2e94661747e103a7ce007f7642759",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 832,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 9,
+        "active_text_elements": 6,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 11.44.44.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.44.44.excalidraw.md",
+      "bytes": 5893,
+      "sha256": "75fabc90ec30a7874dad90af1118e0861f228cdd94fa10fb173a067ee6b96a6c",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 556,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 9,
+        "active_text_elements": 5,
+        "active_image_elements": 1,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [
+        {
+          "line": 24,
+          "reference": "Pasted Image 20260715114620_968.png",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/attachments/Pasted Image 20260715114620_968.png"
+          ]
+        }
+      ],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 11.47.21.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.47.21.excalidraw.md",
+      "bytes": 5820,
+      "sha256": "c95aa68067beefc7d83769d16b1031a71d641a7b8461f4d19d659669bce6c1fb",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 585,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 7,
+        "active_text_elements": 6,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 11.53.47.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.53.47.excalidraw.md",
+      "bytes": 8399,
+      "sha256": "ce44da949c7a7502aeeae831f41ed2aee69aa98ffa3923fbf97bc80da2ecb68d",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 796,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 12,
+        "active_text_elements": 6,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 11.59.59.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.59.59.excalidraw.md",
+      "bytes": 9451,
+      "sha256": "2e0236dc342c897a9c0ece7cafb25d76d77e9d051e6274df2bf3a5962c56c4b2",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 862,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 12,
+        "active_text_elements": 6,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 16.37.37.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.37.37.excalidraw.md",
+      "bytes": 6182,
+      "sha256": "165b434c2859eda599749a69c27f322a705ea7d6432d7509eea3a6d48b1ef956",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 621,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 7,
+        "active_text_elements": 6,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.03.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.03.excalidraw.md",
+      "bytes": 8050,
+      "sha256": "a804cdf416720dc5a9ffa483bca4d8df7534cc826e3782b458a3dbf438dff147",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 1011,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 13,
+        "active_text_elements": 7,
+        "active_image_elements": 5,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [
+        {
+          "line": 36,
+          "reference": "Pasted Image 20260726175249_194.png",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/attachments/Pasted Image 20260726175249_194.png"
+          ]
+        }
+      ],
+      "external_urls": [
+        "https://anki-img.tlpy8.com/anki/010990363185635251.jpg",
+        "https://anki-img.tlpy8.com/anki/048407537693037354.jpg",
+        "https://anki-img.tlpy8.com/anki/181498901347496466.jpg",
+        "https://anki-img.tlpy8.com/anki/657737939066520204.jpg"
+      ]
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.53.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.53.excalidraw.md",
+      "bytes": 5293,
+      "sha256": "20e15f508d5aec34c346f08544915114586194703f79dfe9d140150f5d509e17",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 688,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 7,
+        "active_text_elements": 3,
+        "active_image_elements": 3,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [
+        {
+          "line": 22,
+          "reference": "Pasted Image 20260726180329_148.png",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/attachments/Pasted Image 20260726180329_148.png"
+          ]
+        },
+        {
+          "line": 24,
+          "reference": "Pasted Image 20260726180447_373.png",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/attachments/Pasted Image 20260726180447_373.png"
+          ]
+        }
+      ],
+      "external_urls": [
+        "https://anki-img.tlpy8.com/anki/144027859200973292.jpg"
+      ]
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 16.43.23.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.43.23.excalidraw.md",
+      "bytes": 5205,
+      "sha256": "ae6721d5ee59eda8cac810f58add06d1f5f8cb8236a3e9a8c5f9082a66f4d70a",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 498,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 4,
+        "active_text_elements": 3,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 16.45.04.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.45.04.excalidraw.md",
+      "bytes": 8359,
+      "sha256": "92abd9d10938bd90cdbb01a9baf1c3efe64f2d662a7a5558671fc8e60b6b5fa2",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 674,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 14,
+        "active_text_elements": 7,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 16.59.29.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.59.29.excalidraw.md",
+      "bytes": 5746,
+      "sha256": "dd9d33d7fdb43a3f4a280a693aa1b57f3037c20e6270599daee606b1162f9939",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 479,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 7,
+        "active_text_elements": 6,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 17.00.43.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.00.43.excalidraw.md",
+      "bytes": 5832,
+      "sha256": "d0fd13907b9943995946b4356cc9e8c515ab548648fa98ee887097acfff94c49",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 689,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 8,
+        "active_text_elements": 5,
+        "active_image_elements": 2,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": [
+        "https://anki-img.tlpy8.com/anki/725176888230458785.png",
+        "https://anki-img.tlpy8.com/anki/815597626480770671.png"
+      ]
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 17.01.38.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.01.38.excalidraw.md",
+      "bytes": 3440,
+      "sha256": "e631d57260d869c4b790082e2c7663e996826010f59f2785835da2d7cf414bde",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 413,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 3,
+        "active_text_elements": 2,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 17.02.20.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.02.20.excalidraw.md",
+      "bytes": 10610,
+      "sha256": "8337fe6d20ecf3dad498cd09d2caee20bcff938cc6267732e4fc7a8561c17e74",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 827,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 21,
+        "active_text_elements": 3,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-07-15 17.04.33.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.04.33.excalidraw.md",
+      "bytes": 5756,
+      "sha256": "155d76c1d1c47eae8ed19d1f55b0513b825746ece40bf009bc29b6eacf5294e4",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 575,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 6,
+        "active_text_elements": 5,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-08-13 11.42.58.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-08-13 11.42.58.excalidraw.md",
+      "bytes": 7445,
+      "sha256": "e49cf2a456d8b5f66c9513e49844c215a017e5783e24a60c2c804bd4a5d0ff86",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 738,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 9,
+        "active_text_elements": 6,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "attachments/第二章：如何正确理解句子意思 2026-08-14 23.38.46.excalidraw.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-08-14 23.38.46.excalidraw.md",
+      "bytes": 24528,
+      "sha256": "4cbc36c8bfa986c7ab3dad04ba4f29216eb765d7f1d8e4f6acbf467510fcbac5",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 493,
+      "has_drawing": true,
+      "role": "supporting_diagram",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 11,
+        "active_text_elements": 10,
+        "active_image_elements": 0,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "原版书提取/第一章 传统的阅读方法怎么了.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/原版书提取/第一章 传统的阅读方法怎么了.md",
+      "bytes": 5319,
+      "sha256": "3b69d24bec26305aa6ea6fd30a406746311965b10590a1ff12aebe6050094b90",
+      "kind": "markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 2187,
+      "has_drawing": false,
+      "role": "book_extract",
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "原版书提取/第三章  培养正确的阅读习惯.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/原版书提取/第三章  培养正确的阅读习惯.md",
+      "bytes": 8880,
+      "sha256": "34272d43c804281af86c46444b113e92c7bd0678299e063db1aedde45f5a46ab",
+      "kind": "markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 4766,
+      "has_drawing": false,
+      "role": "book_extract",
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "原版书提取/第二章  培养正确的阅读习惯.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/原版书提取/第二章  培养正确的阅读习惯.md",
+      "bytes": 32489,
+      "sha256": "333b765ed2949af0d29d322894df207ac4f7317c5a359f236996bd4ac4fb5266",
+      "kind": "markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 13577,
+      "has_drawing": false,
+      "role": "book_extract",
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "封面输出/第三课封面-制作说明.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/封面输出/第三课封面-制作说明.md",
+      "bytes": 471,
+      "sha256": "d62dca38c69c1b22bc6a2e9fc7e489ff1171cc34b079b071697f70f036b5f9c5",
+      "kind": "markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 187,
+      "has_drawing": false,
+      "role": "cover_notes",
+      "local_references": [],
+      "external_urls": []
+    },
+    {
+      "relative_path": "封面输出/第三课封面-断句加词顺语序.png",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/封面输出/第三课封面-断句加词顺语序.png",
+      "bytes": 1256069,
+      "sha256": "cd44267ae687b84156493b91f778937e56d46d8c1858d9196057b0f5b8b61606",
+      "kind": "image",
+      "review_status": "viewed",
+      "content_note": "第三课课程封面，标签为断句、加词、顺语序；含一遍理清长难句的结果文案。"
+    },
+    {
+      "relative_path": "第一章 开篇.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/第一章 开篇.md",
+      "bytes": 12155,
+      "sha256": "ec45d6640557392bb408120535947372707dbc8e364517bdb3432f9960ca5c61",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 4330,
+      "has_drawing": true,
+      "role": "overview_or_chapter",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 10,
+        "active_text_elements": 1,
+        "active_image_elements": 9,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [
+        {
+          "line": 12,
+          "reference": "第一章 开篇 2026-07-15 10.51.06.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 10.51.06.excalidraw.md"
+          ]
+        },
+        {
+          "line": 36,
+          "reference": "第一章 开篇 2026-07-15 10.58.04.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 10.58.04.excalidraw.md"
+          ]
+        },
+        {
+          "line": 42,
+          "reference": "第一章 开篇 2026-07-15 11.04.20.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 11.04.20.excalidraw.md"
+          ]
+        },
+        {
+          "line": 83,
+          "reference": "第一章 开篇 2026-07-15 10.51.06.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 10.51.06.excalidraw.md"
+          ]
+        },
+        {
+          "line": 85,
+          "reference": "第一章 开篇 2026-07-15 10.53.02.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 10.53.02.excalidraw.md"
+          ]
+        },
+        {
+          "line": 87,
+          "reference": "第一章 开篇 2026-07-15 10.55.29.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 10.55.29.excalidraw.md"
+          ]
+        },
+        {
+          "line": 89,
+          "reference": "第一章 开篇 2026-07-15 11.00.42.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 11.00.42.excalidraw.md"
+          ]
+        },
+        {
+          "line": 91,
+          "reference": "第一章 开篇 2026-07-15 11.01.56.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 11.01.56.excalidraw.md"
+          ]
+        },
+        {
+          "line": 93,
+          "reference": "第一章 开篇 2026-07-15 10.58.04.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 10.58.04.excalidraw.md"
+          ]
+        },
+        {
+          "line": 95,
+          "reference": "第一章 开篇 2026-07-15 11.04.20.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 11.04.20.excalidraw.md"
+          ]
+        },
+        {
+          "line": 97,
+          "reference": "第一章 传统的阅读方法怎么了 2026-07-15 11.06.00.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 传统的阅读方法怎么了 2026-07-15 11.06.00.excalidraw.md"
+          ]
+        },
+        {
+          "line": 99,
+          "reference": "Pasted Image 20260712153824_422.png",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/Pasted Image 20260712153824_422.png"
+          ]
+        }
+      ],
+      "external_urls": []
+    },
+    {
+      "relative_path": "第二章：如何正确理解句子意思.md",
+      "absolute_path": "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/第二章：如何正确理解句子意思.md",
+      "bytes": 23945,
+      "sha256": "62fb62ffc3e5fc61ad394a852f383d38aebdcede8736b479ee82594196c231c8",
+      "kind": "excalidraw_markdown",
+      "review_status": "all_visible_text_read",
+      "visible_characters_including_metadata": 5480,
+      "has_drawing": true,
+      "role": "overview_or_chapter",
+      "drawing_review": {
+        "compressed_json_decoded": true,
+        "active_elements": 42,
+        "active_text_elements": 5,
+        "active_image_elements": 36,
+        "text_ids_missing_from_visible_text": [],
+        "layout_rendered": false
+      },
+      "local_references": [
+        {
+          "line": 6,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.31.18.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.31.18.excalidraw.md"
+          ]
+        },
+        {
+          "line": 7,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.35.07.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.35.07.excalidraw.md"
+          ]
+        },
+        {
+          "line": 9,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.37.32.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.37.32.excalidraw.md"
+          ]
+        },
+        {
+          "line": 11,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.39.27.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.39.27.excalidraw.md"
+          ]
+        },
+        {
+          "line": 12,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.41.41.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.41.41.excalidraw.md"
+          ]
+        },
+        {
+          "line": 13,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.44.44.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.44.44.excalidraw.md"
+          ]
+        },
+        {
+          "line": 15,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.47.21.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.47.21.excalidraw.md"
+          ]
+        },
+        {
+          "line": 17,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.53.47.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.53.47.excalidraw.md"
+          ]
+        },
+        {
+          "line": 18,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.59.59.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.59.59.excalidraw.md"
+          ]
+        },
+        {
+          "line": 20,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.37.37.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.37.37.excalidraw.md"
+          ]
+        },
+        {
+          "line": 22,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.41.03.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.03.excalidraw.md"
+          ]
+        },
+        {
+          "line": 24,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.41.53.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.53.excalidraw.md"
+          ]
+        },
+        {
+          "line": 25,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.43.23.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.43.23.excalidraw.md"
+          ]
+        },
+        {
+          "line": 27,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.45.04.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.45.04.excalidraw.md"
+          ]
+        },
+        {
+          "line": 29,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.59.29.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.59.29.excalidraw.md"
+          ]
+        },
+        {
+          "line": 31,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 17.00.43.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.00.43.excalidraw.md"
+          ]
+        },
+        {
+          "line": 33,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 17.01.38.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.01.38.excalidraw.md"
+          ]
+        },
+        {
+          "line": 35,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 17.02.20.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.02.20.excalidraw.md"
+          ]
+        },
+        {
+          "line": 37,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 17.04.33.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.04.33.excalidraw.md"
+          ]
+        },
+        {
+          "line": 39,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.21.19.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.21.19.excalidraw.md"
+          ]
+        },
+        {
+          "line": 41,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.27.04.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.27.04.excalidraw.md"
+          ]
+        },
+        {
+          "line": 43,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.34.27.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.34.27.excalidraw.md"
+          ]
+        },
+        {
+          "line": 45,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.36.18.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.36.18.excalidraw.md"
+          ]
+        },
+        {
+          "line": 47,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.43.07.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.43.07.excalidraw.md"
+          ]
+        },
+        {
+          "line": 49,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.44.58.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.44.58.excalidraw.md"
+          ]
+        },
+        {
+          "line": 51,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.48.58.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.48.58.excalidraw.md"
+          ]
+        },
+        {
+          "line": 52,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.51.59.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.51.59.excalidraw.md"
+          ]
+        },
+        {
+          "line": 54,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.59.19.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.59.19.excalidraw.md"
+          ]
+        },
+        {
+          "line": 56,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 17.02.12.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.02.12.excalidraw.md"
+          ]
+        },
+        {
+          "line": 58,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 17.07.44.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.07.44.excalidraw.md"
+          ]
+        },
+        {
+          "line": 60,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 17.18.52.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.18.52.excalidraw.md"
+          ]
+        },
+        {
+          "line": 62,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 17.21.25.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.21.25.excalidraw.md"
+          ]
+        },
+        {
+          "line": 63,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 17.23.21.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.23.21.excalidraw.md"
+          ]
+        },
+        {
+          "line": 65,
+          "reference": "第二章：如何正确理解句子意思 2026-08-13 11.42.58.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-08-13 11.42.58.excalidraw.md"
+          ]
+        },
+        {
+          "line": 82,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.31.18.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.31.18.excalidraw.md"
+          ]
+        },
+        {
+          "line": 84,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.35.07.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.35.07.excalidraw.md"
+          ]
+        },
+        {
+          "line": 86,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.37.32.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.37.32.excalidraw.md"
+          ]
+        },
+        {
+          "line": 88,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.39.27.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.39.27.excalidraw.md"
+          ]
+        },
+        {
+          "line": 90,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.41.41.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.41.41.excalidraw.md"
+          ]
+        },
+        {
+          "line": 92,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.44.44.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.44.44.excalidraw.md"
+          ]
+        },
+        {
+          "line": 94,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.47.21.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.47.21.excalidraw.md"
+          ]
+        },
+        {
+          "line": 96,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.53.47.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.53.47.excalidraw.md"
+          ]
+        },
+        {
+          "line": 98,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 11.59.59.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 11.59.59.excalidraw.md"
+          ]
+        },
+        {
+          "line": 100,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.37.37.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.37.37.excalidraw.md"
+          ]
+        },
+        {
+          "line": 102,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.41.03.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.03.excalidraw.md"
+          ]
+        },
+        {
+          "line": 104,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.41.53.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.41.53.excalidraw.md"
+          ]
+        },
+        {
+          "line": 106,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.43.23.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.43.23.excalidraw.md"
+          ]
+        },
+        {
+          "line": 108,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.45.04.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.45.04.excalidraw.md"
+          ]
+        },
+        {
+          "line": 110,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 16.59.29.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 16.59.29.excalidraw.md"
+          ]
+        },
+        {
+          "line": 112,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 17.00.43.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.00.43.excalidraw.md"
+          ]
+        },
+        {
+          "line": 114,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 17.01.38.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.01.38.excalidraw.md"
+          ]
+        },
+        {
+          "line": 116,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 17.02.20.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.02.20.excalidraw.md"
+          ]
+        },
+        {
+          "line": 118,
+          "reference": "第二章：如何正确理解句子意思 2026-07-15 17.04.33.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-07-15 17.04.33.excalidraw.md"
+          ]
+        },
+        {
+          "line": 120,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.21.19.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.21.19.excalidraw.md"
+          ]
+        },
+        {
+          "line": 122,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.27.04.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.27.04.excalidraw.md"
+          ]
+        },
+        {
+          "line": 124,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.34.27.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.34.27.excalidraw.md"
+          ]
+        },
+        {
+          "line": 126,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.36.18.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.36.18.excalidraw.md"
+          ]
+        },
+        {
+          "line": 128,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.43.07.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.43.07.excalidraw.md"
+          ]
+        },
+        {
+          "line": 130,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.44.58.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.44.58.excalidraw.md"
+          ]
+        },
+        {
+          "line": 132,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.48.58.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.48.58.excalidraw.md"
+          ]
+        },
+        {
+          "line": 134,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.51.59.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.51.59.excalidraw.md"
+          ]
+        },
+        {
+          "line": 136,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 16.59.19.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 16.59.19.excalidraw.md"
+          ]
+        },
+        {
+          "line": 138,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 17.02.12.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.02.12.excalidraw.md"
+          ]
+        },
+        {
+          "line": 140,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 17.07.44.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.07.44.excalidraw.md"
+          ]
+        },
+        {
+          "line": 142,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 17.18.52.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.18.52.excalidraw.md"
+          ]
+        },
+        {
+          "line": 144,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 17.21.25.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.21.25.excalidraw.md"
+          ]
+        },
+        {
+          "line": 146,
+          "reference": "第二章：如何正确理解句子意思 2026-07-21 17.23.21.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachment/第二章：如何正确理解句子意思 2026-07-21 17.23.21.excalidraw.md"
+          ]
+        },
+        {
+          "line": 148,
+          "reference": "第一章 开篇 2026-07-15 10.58.04.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第一章 开篇 2026-07-15 10.58.04.excalidraw.md"
+          ]
+        },
+        {
+          "line": 150,
+          "reference": "第二章：如何正确理解句子意思 2026-08-13 11.42.58.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-08-13 11.42.58.excalidraw.md"
+          ]
+        },
+        {
+          "line": 152,
+          "reference": "第二章：如何正确理解句子意思 2026-08-14 23.38.46.excalidraw",
+          "resolved_paths": [
+            "/Users/simoon/Documents/Obsidian Vault/Projects/03 8天教你学会像读中文那样读英文/attachments/第二章：如何正确理解句子意思 2026-08-14 23.38.46.excalidraw.md"
+          ]
+        }
+      ],
+      "external_urls": []
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "win-x64": {"label":"Windows 64 位 · x64","status":"pending","url":null,"version":null,"minimumSystem":null},
+  "win-x86": {"label":"Windows 32 位 · x86","status":"unconfirmed","url":null,"version":null,"minimumSystem":null},
+  "mac-arm64": {"label":"macOS · Apple 芯片","status":"pending","url":null,"version":null,"minimumSystem":null},
+  "mac-x64": {"label":"macOS · Intel 芯片","status":"pending","url":null,"version":null,"minimumSystem":null}
+}

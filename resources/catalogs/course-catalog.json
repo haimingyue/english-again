@@ -1,0 +1,542 @@
+{
+  "source": "用户提供的 3 份 CSV、3 张合集截图，以及 2026-10-06 补充的第 24、25 周标题与链接",
+  "link_mapping_status": "全部 25 集已通过 Bilibili 视频元数据核对标题与链接（2026-10-06）",
+  "source_repairs": [
+    {
+      "file": "近期稿件对比.csv",
+      "row": 6,
+      "note": "标题含未转义逗号，依据发布时间位置合并标题字段；原文件保留"
+    }
+  ],
+  "notes": [
+    "第三、四周合为一集",
+    "截图单集标题将形容词副词标为第21周、单词位置标为第22周；完整稿件标题分别为第20周、第21周，目录采用稿件标题周次",
+    "第十一周单集标题截断，完整主题待补充"
+  ],
+  "videos": [
+    {
+      "title": "52周，10 个阶段，我们重学一次英语！我开了个英语自学专栏，一起玩一年。",
+      "published_at": "2026年04月17日 19:00:00",
+      "source_file": "近期稿件对比 (2).csv",
+      "source_row": 4,
+      "weeks": [],
+      "topic": "开篇介绍与全年计划",
+      "bvid": "BV1gNd6BqEnJ",
+      "url": "https://www.bilibili.com/video/BV1gNd6BqEnJ/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 1,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1105,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/intro.webp",
+      "original": "assets/images/columns/originals/intro.png",
+      "category": "导览",
+      "label": "开篇"
+    },
+    {
+      "title": "一起学一年英语，搞定听说读写。第一周任务来啦",
+      "published_at": "2026年04月19日 23:04:50",
+      "source_file": "近期稿件对比 (2).csv",
+      "source_row": 3,
+      "weeks": [
+        1
+      ],
+      "topic": "辅音",
+      "bvid": "BV1pddfBLEze",
+      "url": "https://www.bilibili.com/video/BV1pddfBLEze/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 2,
+      "topic_evidence": "截图 1 单集标题",
+      "duration_seconds": 745,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-01.svg",
+      "original": "assets/images/columns/week-01.svg",
+      "category": "发音",
+      "label": "第 1 周"
+    },
+    {
+      "title": "怎么学元音 | 英语自学指北 第二周 | 进度4%，我一定能更新完的",
+      "published_at": "2026年04月25日 19:06:25",
+      "source_file": "近期稿件对比 (2).csv",
+      "source_row": 2,
+      "weeks": [
+        2
+      ],
+      "topic": "元音",
+      "bvid": "BV1YboQBCEBj",
+      "url": "https://www.bilibili.com/video/BV1YboQBCEBj/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 3,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 785,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-02.webp",
+      "original": "assets/images/columns/originals/week-02.png",
+      "category": "发音",
+      "label": "第 2 周"
+    },
+    {
+      "title": "从 100 个单词、100 个句子开启不一样的英语学习之旅 ｜ 英语自学指北第四周 ｜ 进度 8%，我一定可以更新完的，加油",
+      "published_at": "2026年05月03日 10:44:03",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 11,
+      "weeks": [
+        3,
+        4
+      ],
+      "topic": "100 个单词与 100 个句子",
+      "bvid": "BV1399RBVEfD",
+      "url": "https://www.bilibili.com/video/BV1399RBVEfD/",
+      "week_evidence": "截图 1 确认第三、四周合集",
+      "catalog_order": 4,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1295,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-03-04.webp",
+      "original": "assets/images/columns/originals/week-03-04.png",
+      "category": "词汇",
+      "label": "第 3–4 周"
+    },
+    {
+      "title": "我们一起用剑桥出版的《Essential grammar in use》学习基础语法 ｜ 一年学习进度 10%，我一定会完成这个专栏的",
+      "published_at": "2026年05月10日 22:29:21",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 10,
+      "week_evidence": "截图 1 的单集标题明确为第五周",
+      "weeks": [
+        5
+      ],
+      "topic": "基础语法入门",
+      "bvid": "BV1Yz5J6EEc9",
+      "url": "https://www.bilibili.com/video/BV1Yz5J6EEc9/",
+      "catalog_order": 5,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1239,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-05.webp",
+      "original": "assets/images/columns/originals/week-05.png",
+      "category": "语法",
+      "label": "第 5 周"
+    },
+    {
+      "title": "一个视频彻底搞懂一般现在时和现在进行时的区别 ｜ 英语自学指北week6  ｜ 进度12%，我一定会完成这个专栏的",
+      "published_at": "2026年05月16日 23:07:06",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 9,
+      "weeks": [
+        6
+      ],
+      "topic": "一般现在时与现在进行时",
+      "bvid": "BV1zpL56mEdU",
+      "url": "https://www.bilibili.com/video/BV1zpL56mEdU/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 6,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1263,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-06.webp",
+      "original": "assets/images/columns/originals/week-06.png",
+      "category": "语法",
+      "label": "第 6 周"
+    },
+    {
+      "title": "自学指北专栏第七周，搞清楚英语中的“过去” ｜ 100个单词，130 个句子，30 张语法牌",
+      "published_at": "2026年05月24日 11:45:33",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 8,
+      "weeks": [
+        7
+      ],
+      "topic": "过去时",
+      "bvid": "BV1UHGL64E1y",
+      "url": "https://www.bilibili.com/video/BV1UHGL64E1y/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 7,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1036,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-07.webp",
+      "original": "assets/images/columns/originals/week-07.png",
+      "category": "语法",
+      "label": "第 7 周"
+    },
+    {
+      "title": "终于完成 625 单词的学习，今天我们学习现在完成时 ｜ 自学指北，第八周！ 进度 15%",
+      "published_at": "2026年05月31日 22:12:41",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 6,
+      "weeks": [
+        8
+      ],
+      "topic": "现在完成时与 625 单词学习",
+      "bvid": "BV1tjVQ68E5v",
+      "url": "https://www.bilibili.com/video/BV1tjVQ68E5v/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 8,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1423,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-08.webp",
+      "original": "assets/images/columns/originals/week-08.png",
+      "category": "语法",
+      "label": "第 8 周"
+    },
+    {
+      "title": "英语中的被动以及如何表达未来 ｜ 英语自学指北 第九周",
+      "published_at": "2026年06月07日 21:03:11",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 7,
+      "weeks": [
+        9
+      ],
+      "topic": "被动与未来表达",
+      "bvid": "BV14FEb6rEHv",
+      "url": "https://www.bilibili.com/video/BV14FEb6rEHv/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 9,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1264,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-09.webp",
+      "original": "assets/images/columns/originals/week-09.png",
+      "category": "语法",
+      "label": "第 9 周"
+    },
+    {
+      "title": "一个视频搞定 might 、should、can、could、must、would、I have to 的区别和使用场景 ｜ 英语自学指北 第十周",
+      "published_at": "2026年06月14日 23:09:56",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 5,
+      "weeks": [
+        10
+      ],
+      "topic": "情态动词",
+      "bvid": "BV1wiJK6rEbm",
+      "url": "https://www.bilibili.com/video/BV1wiJK6rEbm/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 10,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1206,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-10.webp",
+      "original": "assets/images/columns/originals/week-10.png",
+      "category": "语法",
+      "label": "第 10 周"
+    },
+    {
+      "title": "一不小心把专栏做到第十一周了｜ 英语自学指北",
+      "published_at": "2026年06月20日 13:48:41",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 4,
+      "weeks": [
+        11
+      ],
+      "topic": "祈使句、used to、there be 与 it",
+      "bvid": "BV1Ufj76CEmR",
+      "url": "https://www.bilibili.com/video/BV1Ufj76CEmR/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 11,
+      "topic_evidence": "截图 2 可见文字，标题截断",
+      "duration_seconds": 1061,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-11.webp",
+      "original": "assets/images/columns/originals/week-11.png",
+      "category": "语法",
+      "label": "第 11 周"
+    },
+    {
+      "title": "18 分钟搞定助动词 ｜这是我们学习的第十二周，全年进度 23%",
+      "published_at": "2026年06月28日 10:27:59",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 3,
+      "weeks": [
+        12
+      ],
+      "topic": "助动词",
+      "bvid": "BV1XjTT6FEY9",
+      "url": "https://www.bilibili.com/video/BV1XjTT6FEY9/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 12,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1136,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-12.webp",
+      "original": "assets/images/columns/originals/week-12.png",
+      "category": "语法",
+      "label": "第 12 周"
+    },
+    {
+      "title": "如何用英语提问？把陈述句变成疑问句的三个手段 ｜ 英语自学指北第十三周",
+      "published_at": "2026年07月05日 10:28:00",
+      "source_file": "近期稿件对比 (1).csv",
+      "source_row": 2,
+      "weeks": [
+        13
+      ],
+      "topic": "疑问句",
+      "bvid": "BV1YSMu6uETD",
+      "url": "https://www.bilibili.com/video/BV1YSMu6uETD/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 13,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1363,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-13.webp",
+      "original": "assets/images/columns/originals/week-13.png",
+      "category": "语法",
+      "label": "第 13 周"
+    },
+    {
+      "title": "to do 还是 doing？英语动词搭配终于讲明白了｜英语自学指北·第14周",
+      "published_at": "2026年07月12日 10:17:59",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 11,
+      "weeks": [
+        14
+      ],
+      "topic": "to do 与 doing",
+      "bvid": "BV1qMNK6fEqM",
+      "url": "https://www.bilibili.com/video/BV1qMNK6fEqM/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 14,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1009,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-14.webp",
+      "original": "assets/images/columns/originals/week-14.png",
+      "category": "语法",
+      "label": "第 14 周"
+    },
+    {
+      "title": "这周搞懂了 Go、Get、Do、Have，千词达成 ｜ 自学指北进度15 周，进度一半了",
+      "published_at": "2026年07月18日 22:17:01",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 10,
+      "weeks": [
+        15
+      ],
+      "topic": "Go、Get、Do、Have",
+      "bvid": "BV1jrKK6cEVt",
+      "url": "https://www.bilibili.com/video/BV1jrKK6cEVt/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 15,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1033,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-15.webp",
+      "original": "assets/images/columns/originals/week-15.png",
+      "category": "语法",
+      "label": "第 15 周"
+    },
+    {
+      "title": "代词和所有格 ｜ pronouns和possessives ｜ 英语自学指北 - 第十六周",
+      "published_at": "2026年07月26日 17:26:37",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 9,
+      "weeks": [
+        16
+      ],
+      "topic": "代词与所有格",
+      "bvid": "BV1ok3E61EoZ",
+      "url": "https://www.bilibili.com/video/BV1ok3E61EoZ/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 16,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 879,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-16.webp",
+      "original": "assets/images/columns/originals/week-16.png",
+      "category": "语法",
+      "label": "第 16 周"
+    },
+    {
+      "title": "关于 a an the 的一次全面学习，长达 30 分钟｜ 自学指北第 17 周",
+      "published_at": "2026年08月09日 16:57:00",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 8,
+      "weeks": [
+        17
+      ],
+      "topic": "冠词 a、an、the",
+      "bvid": "BV1eCum6DEZU",
+      "url": "https://www.bilibili.com/video/BV1eCum6DEZU/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 17,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1650,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-17.webp",
+      "original": "assets/images/columns/originals/week-17.png",
+      "category": "语法",
+      "label": "第 17 周"
+    },
+    {
+      "title": "第18周：this/that、one/ones、some/any 一次讲清 ｜ 英语自学指北",
+      "published_at": "2026年08月16日 21:15:07",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 7,
+      "weeks": [
+        18
+      ],
+      "topic": "this/that、one/ones、some/any",
+      "bvid": "BV1HdbQ6ZEcR",
+      "url": "https://www.bilibili.com/video/BV1HdbQ6ZEcR/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 18,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1228,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-18.webp",
+      "original": "assets/images/columns/originals/week-18.png",
+      "category": "语法",
+      "label": "第 18 周"
+    },
+    {
+      "title": "学了好多年都学不明白的 many, much, many of, much of, a lot of, 等 ｜ 英语自学指北 19 周",
+      "published_at": "2026年08月22日 20:56:40",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 6,
+      "weeks": [
+        19
+      ],
+      "topic": "many、much 等数量表达",
+      "bvid": "BV1D78m6cEKP",
+      "url": "https://www.bilibili.com/video/BV1D78m6cEKP/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 19,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1263,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-19.webp",
+      "original": "assets/images/columns/originals/week-19.png",
+      "category": "语法",
+      "label": "第 19 周"
+    },
+    {
+      "title": "30分钟，英语中形容词、副词的全面学习 ｜ 英语自学指北 20 周",
+      "published_at": "2026年08月30日 09:00:00",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 5,
+      "weeks": [
+        20
+      ],
+      "topic": "形容词与副词",
+      "bvid": "BV11A4U6UErq",
+      "url": "https://www.bilibili.com/video/BV11A4U6UErq/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 20,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1784,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-20.webp",
+      "original": "assets/images/columns/originals/week-20.png",
+      "category": "语法",
+      "label": "第 20 周"
+    },
+    {
+      "title": "一个单词，在句子里应该放在什么位置? | 英语自学指北 21 周",
+      "published_at": "2026年09月05日 18:33:07",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 4,
+      "weeks": [
+        21
+      ],
+      "topic": "单词在句子中的位置",
+      "bvid": "BV1B1t26KE5c",
+      "url": "https://www.bilibili.com/video/BV1B1t26KE5c/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 21,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 855,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-21.webp",
+      "original": "assets/images/columns/originals/week-21.png",
+      "category": "语法",
+      "label": "第 21 周"
+    },
+    {
+      "title": "如何把简单句组成长句子？ ｜ 英语自学指北 22 周",
+      "published_at": "2026年09月12日 19:16:26",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 3,
+      "weeks": [
+        22
+      ],
+      "topic": "简单句组成长句",
+      "bvid": "BV1hGYX6DEPV",
+      "url": "https://www.bilibili.com/video/BV1hGYX6DEPV/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 22,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1546,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-22.webp",
+      "original": "assets/images/columns/originals/week-22.png",
+      "category": "语法",
+      "label": "第 22 周"
+    },
+    {
+      "title": "为什么是 at work，却是 in bed？英语介词到底怎么选 ｜ 英语自学指北第 23 周",
+      "published_at": "2026年09月27日 14:33:32",
+      "source_file": "近期稿件对比.csv",
+      "source_row": 2,
+      "weeks": [
+        23
+      ],
+      "topic": "介词",
+      "bvid": "BV124at63EBK",
+      "url": "https://www.bilibili.com/video/BV124at63EBK/",
+      "week_evidence": "CSV 完整稿件标题",
+      "catalog_order": 23,
+      "topic_evidence": "CSV 稿件标题概括",
+      "duration_seconds": 1294,
+      "metadata_status": "verified_bilibili_api",
+      "thumbnail": "assets/images/columns/week-23.webp",
+      "original": "assets/images/columns/originals/week-23.png",
+      "category": "语法",
+      "label": "第 23 周"
+    },
+    {
+      "title": "英语里的这些“小词”，才是最麻烦的！｜英语自学指北 Week 24",
+      "published_at": null,
+      "source": "用户于 2026-10-06 补充",
+      "weeks": [
+        24
+      ],
+      "topic": "英语中的“小词”",
+      "bvid": "BV1PpHW6wE8e",
+      "url": "https://www.bilibili.com/video/BV1PpHW6wE8e/",
+      "week_evidence": "用户明确指定周次",
+      "catalog_order": 24,
+      "topic_evidence": "用户提供的视频标题",
+      "metadata_status": "verified_bilibili_api",
+      "duration_seconds": 1341,
+      "thumbnail": "assets/images/columns/week-24.webp",
+      "original": "assets/images/columns/originals/week-24.png",
+      "category": "语法",
+      "label": "第 24 周"
+    },
+    {
+      "title": "Phrasal verbs 短语动词是啥？｜英语自学指北第 25 周",
+      "published_at": null,
+      "source": "用户于 2026-10-06 补充",
+      "weeks": [
+        25
+      ],
+      "topic": "Phrasal verbs 短语动词",
+      "bvid": "BV1jCpF6WEeU",
+      "url": "https://www.bilibili.com/video/BV1jCpF6WEeU/",
+      "week_evidence": "用户明确指定周次",
+      "catalog_order": 25,
+      "topic_evidence": "用户提供的视频标题",
+      "metadata_status": "verified_bilibili_api",
+      "duration_seconds": 564,
+      "thumbnail": "assets/images/columns/week-25.webp",
+      "original": "assets/images/columns/originals/week-25.png",
+      "category": "语法",
+      "label": "第 25 周"
+    }
+  ],
+  "updated_at": "2026-10-06",
+  "planned_weeks": 25
+}

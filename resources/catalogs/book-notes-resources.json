@@ -1,0 +1,1101 @@
+{
+  "schema_version": 1,
+  "updated_on": "2026-10-02",
+  "purpose": "官网内容与方法论选材索引，非已上线或可下载资源目录",
+  "local_resource_count": 49,
+  "external_resource_count": 25,
+  "local_resources": [
+    {
+      "id": "M00",
+      "book": "MIS",
+      "name": "00. Preface",
+      "type": "章节图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/00. Preface.md",
+      "relative_to_book": "Chapter/00. Preface.md",
+      "stage": "全阶段",
+      "description": "书籍与章节概览",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有参考",
+      "website_sections": [
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "M01",
+      "book": "MIS",
+      "name": "01. Learning Is Misunderstood",
+      "type": "章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/01. Learning Is Misunderstood.md",
+      "relative_to_book": "Chapter/01. Learning Is Misunderstood.md",
+      "stage": "全阶段",
+      "description": "学习误区、熟悉感与掌握的区别",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "介绍",
+        "学习路线"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "M02",
+      "book": "MIS",
+      "name": "02. To Learn, Retrieve",
+      "type": "章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/02. To Learn, Retrieve.md",
+      "relative_to_book": "Chapter/02. To Learn, Retrieve.md",
+      "stage": "全阶段",
+      "description": "主动提取、测验、反馈与反思",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "介绍",
+        "Anki",
+        "专栏"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "M03",
+      "book": "MIS",
+      "name": "03. Mix Up Your Practice",
+      "type": "章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/03. Mix Up Your Practice.md",
+      "relative_to_book": "Chapter/03. Mix Up Your Practice.md",
+      "stage": "全阶段",
+      "description": "间隔、交织、多样化与迁移",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "学习路线",
+        "语法",
+        "Anki"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "M04",
+      "book": "MIS",
+      "name": "04. Embrace Difficulties",
+      "type": "双语章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/04. Embrace Difficulties.md",
+      "relative_to_book": "Chapter/04. Embrace Difficulties.md",
+      "stage": "全阶段",
+      "description": "合意困难、生成、反思、编码巩固与不良困难的边界",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "介绍",
+        "学习路线",
+        "语法"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "M05",
+      "book": "MIS",
+      "name": "05. Avoid Illusions of Knowing",
+      "type": "双语章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/05. Avoid Illusions of Knowing.md",
+      "relative_to_book": "Chapter/05. Avoid Illusions of Knowing.md",
+      "stage": "全阶段",
+      "description": "校准掌握程度、延迟检查与反馈",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "学习路线",
+        "专栏",
+        "Anki"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "M06",
+      "book": "MIS",
+      "name": "06. Get Beyond Learning Styles",
+      "type": "双语章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/06. Get Beyond Learning Styles.md",
+      "relative_to_book": "Chapter/06. Get Beyond Learning Styles.md",
+      "stage": "全阶段",
+      "description": "动态测试、结构构建、规则与示例；不按学习风格贴标签",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "介绍",
+        "学习路线"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "M07",
+      "book": "MIS",
+      "name": "07. Increase Your Abilities",
+      "type": "双语章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/07. Increase Your Abilities.md",
+      "relative_to_book": "Chapter/07. Increase Your Abilities.md",
+      "stage": "全阶段",
+      "description": "刻意练习、成长心态与助记；神经科学数字不直接移入官网",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "介绍",
+        "Anki"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "M08",
+      "book": "MIS",
+      "name": "08. Make It Stick",
+      "type": "章节占位",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/08. Make It Stick.md",
+      "relative_to_book": "Chapter/08. Make It Stick.md",
+      "stage": "全阶段",
+      "description": "文件为零字节，缺少本章正文",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "空文件，未作为来源",
+      "website_sections": [],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "MI",
+      "book": "MIS",
+      "name": "IIB - Make It Stick",
+      "type": "Excalidraw 总览",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/IIB - Make It Stick.md",
+      "relative_to_book": "IIB - Make It Stick.md",
+      "stage": "全阶段",
+      "description": "可定位学习原则与外部链接；首页书名作者元数据有误",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订",
+      "website_sections": [
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "ML",
+      "book": "MIS",
+      "name": "LN - Make It Stick",
+      "type": "目录",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/LN - Make It Stick.md",
+      "relative_to_book": "LN - Make It Stick.md",
+      "stage": "全阶段",
+      "description": "链接到前言与八个章节；链接数不等于正文完整",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有参考",
+      "website_sections": [
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "MS",
+      "book": "MIS",
+      "name": "Summary - Make It Stick",
+      "type": "英文短摘要",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Summary - Make It Stick.md",
+      "relative_to_book": "Summary - Make It Stick.md",
+      "stage": "全阶段",
+      "description": "理解、记忆与未来使用的概述",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有可整理",
+      "website_sections": [
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "MB",
+      "book": "MIS",
+      "name": "Boap - Make It Stick",
+      "type": "Excalidraw 方法总图",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Boap - Make It Stick.md",
+      "relative_to_book": "Boap - Make It Stick.md",
+      "stage": "全阶段",
+      "description": "把提取、间隔、交织、阐述、生成和反思串起来",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订",
+      "website_sections": [
+        "介绍",
+        "学习路线"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "MV",
+      "book": "MIS",
+      "name": "口播文案 - Make it stick",
+      "type": "中文口播稿",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/口播文案 - Make it stick.md",
+      "relative_to_book": "口播文案 - Make it stick.md",
+      "stage": "全阶段",
+      "description": "已有七种学习策略和 Anki 演示，可改写成方法文章",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需改写",
+      "website_sections": [
+        "介绍",
+        "专栏"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "ME",
+      "book": "MIS",
+      "name": "export",
+      "type": "Excalidraw 局部导出",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/export.md",
+      "relative_to_book": "export.md",
+      "stage": "全阶段",
+      "description": "长期记忆与提取线索两点；不是完整文章或完整成品图",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有参考",
+      "website_sections": [
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "MH",
+      "book": "MIS",
+      "name": "How Learning Happens",
+      "type": "认知负荷补充笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/How Learning Happens.md",
+      "relative_to_book": "Chapter/How Learning Happens.md",
+      "stage": "全阶段",
+      "description": "工作记忆、长期记忆与图式；来自其他材料，不能全归于本书",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，来源待核",
+      "website_sections": [
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "MC",
+      "book": "MIS",
+      "name": "cover",
+      "type": "Excalidraw 书籍封面板",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/cover.md",
+      "relative_to_book": "Chapter/cover.md",
+      "stage": "全阶段",
+      "description": "书名、作者与封面展示参考",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有参考",
+      "website_sections": [
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "F00",
+      "book": "FF",
+      "name": "00 Praise for fluent forever",
+      "type": "推荐语摘录",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/00 Praise for fluent forever.md",
+      "relative_to_book": "chapter/00 Praise for fluent forever.md",
+      "stage": "全阶段",
+      "description": "书籍推荐语，不能用作本项目用户评价或成效证据",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "暂不纳入",
+      "website_sections": [],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "FP",
+      "book": "FF",
+      "name": "00 Praise for fluent forever",
+      "type": "重复推荐语摘录",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/00 Praise for fluent forever.md",
+      "relative_to_book": "00 Praise for fluent forever.md",
+      "stage": "全阶段",
+      "description": "与 chapter 中同名文件字节相同",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "重复，暂不纳入",
+      "website_sections": [],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "F01",
+      "book": "FF",
+      "name": "01 Introduction Stab, Stab, Stab",
+      "type": "英文章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/01 Introduction Stab, Stab, Stab.md",
+      "relative_to_book": "chapter/01 Introduction Stab, Stab, Stab.md",
+      "stage": "入门",
+      "description": "从发音、SRS 与意义连接起步；准备教材与工具",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有可整理",
+      "website_sections": [
+        "介绍",
+        "学习路线"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "F02",
+      "book": "FF",
+      "name": "02 Upload- Five Principles to End Forgetting",
+      "type": "章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/02 Upload- Five Principles to End Forgetting.md",
+      "relative_to_book": "chapter/02 Upload- Five Principles to End Forgetting.md",
+      "stage": "全阶段",
+      "description": "五项记忆原则、自制卡片、理解与产出、时间投入",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "介绍",
+        "Anki"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "F02I",
+      "book": "FF",
+      "name": "02 Upload- Five Principles to End Forgetting - Illustration",
+      "type": "Excalidraw 章节摘要",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/02 Upload- Five Principles to End Forgetting - Illustration.md",
+      "relative_to_book": "chapter/02 Upload- Five Principles to End Forgetting - Illustration.md",
+      "stage": "全阶段",
+      "description": "记忆原则与 SRS 的图解入口",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有可整理",
+      "website_sections": [
+        "介绍",
+        "Anki"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "F03",
+      "book": "FF",
+      "name": "03 Sound Play",
+      "type": "章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/03 Sound Play.md",
+      "relative_to_book": "chapter/03 Sound Play.md",
+      "stage": "发音起步",
+      "description": "最小对立体、构音、IPA、逆向连接与拼写声音映射",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "音标",
+        "学习路线"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "F04",
+      "book": "FF",
+      "name": "04 Word Play and the Symphony of a Word",
+      "type": "章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/04 Word Play and the Symphony of a Word.md",
+      "relative_to_book": "chapter/04 Word Play and the Symphony of a Word.md",
+      "stage": "基础词汇与短句",
+      "description": "声音拼写含义个人连接；新版 100 词起步、兴趣话题与 625 扩展",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "词汇",
+        "Anki",
+        "学习路线"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "FG",
+      "book": "FF",
+      "name": "04.01 The Gallery A Guide to the Flash Cards That Will Teach You Your Language",
+      "type": "制卡原则笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/04.01 The Gallery A Guide to the Flash Cards That Will Teach You Your Language.md",
+      "relative_to_book": "chapter/04.01 The Gallery A Guide to the Flash Cards That Will Teach You Your Language.md",
+      "stage": "全阶段",
+      "description": "简单卡片、单一目标、理解与产出及按基础调整卡量；正文不是卡组",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "资源",
+        "Anki"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "F05",
+      "book": "FF",
+      "name": "05 Sentence Play",
+      "type": "章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/05 Sentence Play.md",
+      "relative_to_book": "chapter/05 Sentence Play.md",
+      "stage": "语法起步及进阶",
+      "description": "新词、词形、词序的句子拆解；自主写作与纠错",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "语法",
+        "Anki",
+        "专栏"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "F06",
+      "book": "FF",
+      "name": "06 The Journey to Fluency",
+      "type": "章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/06 The Journey to Fluency.md",
+      "relative_to_book": "chapter/06 The Journey to Fluency.md",
+      "stage": "基础到中级",
+      "description": "三种工具条件、例句来源、AI 校核、习惯与中断恢复",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "工具",
+        "资源",
+        "学习路线"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "F07",
+      "book": "FF",
+      "name": "07 Fine-Tuning and Reaching Advanced Levels",
+      "type": "章节笔记",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/07 Fine-Tuning and Reaching Advanced Levels.md",
+      "relative_to_book": "chapter/07 Fine-Tuning and Reaching Advanced Levels.md",
+      "stage": "中级及进阶",
+      "description": "减少词汇干扰、单语词典、读听材料调节、绕述与输出",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已用于方法论",
+      "website_sections": [
+        "阅读",
+        "听力",
+        "工具",
+        "学习路线"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "FI",
+      "book": "FF",
+      "name": "IIB - Fluent Forever",
+      "type": "Excalidraw 总览",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/IIB - Fluent Forever.md",
+      "relative_to_book": "IIB - Fluent Forever.md",
+      "stage": "全阶段",
+      "description": "作者经历、学习与记忆连接、B 站链接；不是网站文章正文",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有参考",
+      "website_sections": [
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "FL",
+      "book": "FF",
+      "name": "LN - Fluent Forever",
+      "type": "双语目录",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/LN - Fluent Forever.md",
+      "relative_to_book": "LN - Fluent Forever.md",
+      "stage": "全阶段",
+      "description": "其中第 6 章旧称 The Language Game，与实际新版章节结构不一致",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订",
+      "website_sections": [
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "FT1",
+      "book": "FF",
+      "name": "Pronunciation Tutorial 1 English Pronunciation and IPA Voicing and Place",
+      "type": "中文教程稿与 Excalidraw",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/附件/Pronunciation Tutorial 1 English Pronunciation and IPA Voicing and Place.md",
+      "relative_to_book": "附件/Pronunciation Tutorial 1 English Pronunciation and IPA Voicing and Place.md",
+      "stage": "发音起步",
+      "description": "清浊与发音部位，含口腔示意与原视频截图；需校订硬腭/软腭",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订",
+      "website_sections": [
+        "音标"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "FT2",
+      "book": "FF",
+      "name": "Pronunciation Tutorial 2",
+      "type": "中文教程稿与 Excalidraw",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/附件/Pronunciation Tutorial 2.md",
+      "relative_to_book": "附件/Pronunciation Tutorial 2.md",
+      "stage": "发音起步",
+      "description": "发音方式与英语辅音，含全 IPA 图表；需校订 ɽ、ɺ 等分类",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订",
+      "website_sections": [
+        "音标"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "FT3",
+      "book": "FF",
+      "name": "Pronunciation Tutorial 3",
+      "type": "中文教程稿与 Excalidraw",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/附件/Pronunciation Tutorial 3.md",
+      "relative_to_book": "附件/Pronunciation Tutorial 3.md",
+      "stage": "发音起步",
+      "description": "元音高度、圆唇、前后、弱读、双元音与口音差别",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订",
+      "website_sections": [
+        "音标"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "FTE",
+      "book": "FF",
+      "name": "导出用图",
+      "type": "Excalidraw 局部导出",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/附件/导出用图.md",
+      "relative_to_book": "附件/导出用图.md",
+      "stage": "发音起步",
+      "description": "发音部位概念展示；不是全部教程的导出成品",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有参考",
+      "website_sections": [
+        "音标"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D01",
+      "book": "MIS",
+      "name": "Illustration - Retrieve Tips - Make it stick",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/attachments/Illustration - Retrieve Tips - Make it stick.md",
+      "relative_to_book": "Chapter/attachments/Illustration - Retrieve Tips - Make it stick.md",
+      "stage": "对应章节阶段",
+      "description": "主动回忆与正确反馈的学习动作图",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "介绍",
+        "Anki"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D02",
+      "book": "MIS",
+      "name": "Illustration - Use Anki To Learn - Make it stick",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/attachments/Illustration - Use Anki To Learn - Make it stick.md",
+      "relative_to_book": "Chapter/attachments/Illustration - Use Anki To Learn - Make it stick.md",
+      "stage": "对应章节阶段",
+      "description": "间隔复习、提取、反馈和进度的图解",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "资源",
+        "Anki"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D03",
+      "book": "MIS",
+      "name": "Illustration - Interleaved Practice - Make it stick",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/attachments/Illustration - Interleaved Practice - Make it stick.md",
+      "relative_to_book": "Chapter/attachments/Illustration - Interleaved Practice - Make it stick.md",
+      "stage": "对应章节阶段",
+      "description": "不同类型问题的辨别与交替练习",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "语法",
+        "学习路线"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D04",
+      "book": "MIS",
+      "name": "Illustrator - desirable difficulty - Make it stick",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/attachments/Illustrator - desirable difficulty - Make it stick.md",
+      "relative_to_book": "Chapter/attachments/Illustrator - desirable difficulty - Make it stick.md",
+      "stage": "对应章节阶段",
+      "description": "合意困难的概念示意",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D05",
+      "book": "MIS",
+      "name": "Illustrator - Dynamic Testing - Make it stick",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/attachments/Illustrator - Dynamic Testing - Make it stick.md",
+      "relative_to_book": "Chapter/attachments/Illustrator - Dynamic Testing - Make it stick.md",
+      "stage": "对应章节阶段",
+      "description": "测试、调整与再次测试的循环",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "学习路线"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D06",
+      "book": "MIS",
+      "name": "Illustrator - Structure Building - Make it stick",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/01 Make It Stick/Chapter/attachments/Illustrator - Structure Building - Make it stick.md",
+      "relative_to_book": "Chapter/attachments/Illustrator - Structure Building - Make it stick.md",
+      "stage": "对应章节阶段",
+      "description": "组织知识与构建整体关系",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D07",
+      "book": "FF",
+      "name": "Illustration - Minimal Pair Testing - Fluent Forever",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/attachments/Illustration - Minimal Pair Testing - Fluent Forever.md",
+      "relative_to_book": "chapter/attachments/Illustration - Minimal Pair Testing - Fluent Forever.md",
+      "stage": "对应章节阶段",
+      "description": "最小对立体的反馈练习示意，图中实验数字需回原研究核查",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "音标"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D08",
+      "book": "FF",
+      "name": "Illustration - three training methods - Fluent Forever",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/attachments/Illustration - three training methods - Fluent Forever.md",
+      "relative_to_book": "chapter/attachments/Illustration - three training methods - Fluent Forever.md",
+      "stage": "对应章节阶段",
+      "description": "耳朵、嘴巴与文字的训练结构",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "音标"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D09",
+      "book": "FF",
+      "name": "Illustration - Back chaining - Fluent Forever",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/attachments/Illustration - Back chaining - Fluent Forever.md",
+      "relative_to_book": "chapter/attachments/Illustration - Back chaining - Fluent Forever.md",
+      "stage": "对应章节阶段",
+      "description": "难词从末尾向前连接的练习示意",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "音标"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D10",
+      "book": "FF",
+      "name": "Illustration - Words are like a symphony - Fluent Forever",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/attachments/Illustration - Words are like a symphony - Fluent Forever.md",
+      "relative_to_book": "chapter/attachments/Illustration - Words are like a symphony - Fluent Forever.md",
+      "stage": "对应章节阶段",
+      "description": "单词的声音、拼写、含义与语法关联",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "词汇",
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D11",
+      "book": "FF",
+      "name": "Illustration - Learning the First 625 - Fluent Forever",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/attachments/Illustration - Learning the First 625 - Fluent Forever.md",
+      "relative_to_book": "chapter/attachments/Illustration - Learning the First 625 - Fluent Forever.md",
+      "stage": "对应章节阶段",
+      "description": "基础具体词的选材思路，不能作为已存在的词表",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "词汇",
+        "资源"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D12",
+      "book": "FF",
+      "name": "Illustration - COCA - Fluent Forever",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/attachments/Illustration - COCA - Fluent Forever.md",
+      "relative_to_book": "chapter/attachments/Illustration - COCA - Fluent Forever.md",
+      "stage": "对应章节阶段",
+      "description": "词频语料查询思路，不能当作本地语料数据",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "资源",
+        "介绍"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D13",
+      "book": "FF",
+      "name": "Illustration - vocabulary customization - Fluent Forever",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/attachments/Illustration - vocabulary customization - Fluent Forever.md",
+      "relative_to_book": "chapter/attachments/Illustration - vocabulary customization - Fluent Forever.md",
+      "stage": "对应章节阶段",
+      "description": "按学习目标选择词汇",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "词汇",
+        "学习路线"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D14",
+      "book": "FF",
+      "name": "Illustration - The Path Forward - Fluent Forever",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/attachments/Illustration - The Path Forward - Fluent Forever.md",
+      "relative_to_book": "chapter/attachments/Illustration - The Path Forward - Fluent Forever.md",
+      "stage": "对应章节阶段",
+      "description": "教材、词典、发音与网络资源的工具选择",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "资源"
+      ],
+      "local_downloadable_deck": false
+    },
+    {
+      "id": "D15",
+      "book": "FF",
+      "name": "Three methods to learn the subtle differences in languages",
+      "type": "可编辑图解",
+      "source_path": "/Users/simoon/Documents/Obsidian Vault/Archive/Books Reading Lab/03 Fluent Forerver/chapter/attachments/Three methods to learn the subtle differences in languages.md",
+      "relative_to_book": "chapter/attachments/Three methods to learn the subtle differences in languages.md",
+      "stage": "对应章节阶段",
+      "description": "减少干扰、单语词典与自主写作",
+      "source_usage": "用户提供的读书笔记与原书摘录；内部研读，官网使用项目转述；原图、截图与大段摘录另核来源",
+      "status": "已有，需校订后导出",
+      "website_sections": [
+        "阅读",
+        "语法"
+      ],
+      "local_downloadable_deck": false
+    }
+  ],
+  "external_resources": [
+    {
+      "id": "E01",
+      "name": "Make It Stick 著者与学习依据",
+      "url": "https://www.makeitstick.com/meet-the-authors",
+      "purpose": "核对书名著者",
+      "local_origin": "MIS 总览；本次补充官网核对",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "作为依据外链，避免沿用错误元数据",
+      "local_file": null
+    },
+    {
+      "id": "E02",
+      "name": "Retrieval Practice 的 Make It Stick 资源",
+      "url": "https://www.retrievalpractice.org/make-it-stick",
+      "purpose": "书籍介绍与提取练习资料",
+      "local_origin": "MIS IIB",
+      "verification_date": "2026-10-02",
+      "verification_status": "官方资源页已检索",
+      "usage_notes": "保留研究与教学语境，具体下载内容需另核",
+      "local_file": null
+    },
+    {
+      "id": "E03",
+      "name": "Fluent Forever 新版配套目录",
+      "url": "https://fluentforeverbook.com/",
+      "purpose": "章节及附录资源入口",
+      "local_origin": "FF 第 3、6、7 章提及配套网站",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "当前目录优先于旧短链；本地有新版内容线索，具体书籍版本仍须核对版权页",
+      "local_file": null
+    },
+    {
+      "id": "E04",
+      "name": "Fluent Forever 发音教程",
+      "url": "https://blog.fluent-forever.com/chapter3/",
+      "purpose": "三份英语 IPA 教程及最小对立体制卡说明",
+      "local_origin": "FF 第 3 章和三份发音教程",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "保留作者原视频外链；未下载视频或音频",
+      "local_file": null
+    },
+    {
+      "id": "E05",
+      "name": "Fluent Forever 制卡图库",
+      "url": "https://blog.fluent-forever.com/gallery/",
+      "purpose": "卡片类型、model deck 和制作说明",
+      "local_origin": "FF The Gallery 与第 2、5 章",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "页面提供 model deck 链接，未下载或验证与当前 Anki 的兼容性",
+      "local_file": null
+    },
+    {
+      "id": "E06",
+      "name": "Fluent Forever 625 词表",
+      "url": "https://blog.fluent-forever.com/appendix5/",
+      "purpose": "附录词表与相关资源",
+      "local_origin": "FF 第 4 章附录 5 线索",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "页面列出主题与字母排序的可打印词表，部分翻译版本标注购买；本地没有词表文件",
+      "local_file": null
+    },
+    {
+      "id": "E07",
+      "name": "Fluent Forever Anki 教程",
+      "url": "https://blog.fluent-forever.com/chapter2/",
+      "purpose": "安装与制卡视频说明",
+      "local_origin": "FF 第 2 章显式链接",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "旧教程界面与参数对照 Anki 当前手册",
+      "local_file": null
+    },
+    {
+      "id": "E08",
+      "name": "Anki 当前调度手册",
+      "url": "https://docs.ankiweb.net/deck-options.html#fsrs",
+      "purpose": "FSRS 与复习设置",
+      "local_origin": "本次为校订旧口播参数补充",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "按照当前版本核对；不复制他人的固定间隔或参数",
+      "local_file": null
+    },
+    {
+      "id": "E09",
+      "name": "IPA 官方图表",
+      "url": "https://www.internationalphoneticassociation.org/content/ipa-chart",
+      "purpose": "核对符号、图表及图表许可",
+      "local_origin": "本次为校订发音教程补充",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "明确选用的具体图表版本；IPA Kiel 页注明 CC BY-SA 4.0，其他图表或原视频截图不因此获得相同许可",
+      "local_file": null
+    },
+    {
+      "id": "E10",
+      "name": "Forvo",
+      "url": "https://forvo.com/",
+      "purpose": "词语的发音查询",
+      "local_origin": "FF 第 3、6 章",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "当前只作为外链；录音口音与使用方式逐条核对",
+      "local_file": null
+    },
+    {
+      "id": "E11",
+      "name": "RhinoSpike",
+      "url": "https://rhinospike.com/",
+      "purpose": "文字录音请求与参考",
+      "local_origin": "FF 第 3、6 章",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "请求、账户及具体录音未实测",
+      "local_file": null
+    },
+    {
+      "id": "E12",
+      "name": "Reverso Context",
+      "url": "https://context.reverso.net/translation/",
+      "purpose": "寻找语境例句",
+      "local_origin": "FF 第 6 章",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "词义和语境仍需核对；不批量复制例句库",
+      "local_file": null
+    },
+    {
+      "id": "E13",
+      "name": "Linguee",
+      "url": "https://www.linguee.com/",
+      "purpose": "词典与双语语境参考",
+      "local_origin": "FF 第 6 章",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "优先选择符合学习阶段与目标的例句",
+      "local_file": null
+    },
+    {
+      "id": "E14",
+      "name": "LangCorrect",
+      "url": "https://langcorrect.com/",
+      "purpose": "自主写作的交流纠错入口",
+      "local_origin": "FF 第 5、7 章",
+      "verification_date": "2026-10-02",
+      "verification_status": "官网正文可读取",
+      "usage_notes": "未登录或提交内容；不承诺回复时效",
+      "local_file": null
+    },
+    {
+      "id": "E15",
+      "name": "COCA",
+      "url": "https://www.english-corpora.org/coca/",
+      "purpose": "延续项目语料查询入口",
+      "local_origin": "FF COCA 图解；现有官网介绍",
+      "verification_date": "2026-10-02",
+      "verification_status": "抓取受限，未读取正文",
+      "usage_notes": "本次返回 403；不代表用户浏览器无法访问；没有新增本地词频表",
+      "local_file": null
+    },
+    {
+      "id": "E16",
+      "name": "Tatoeba",
+      "url": "https://tatoeba.org/en/",
+      "purpose": "句子检索候选",
+      "local_origin": "FF 第 6 章",
+      "verification_date": "2026-10-02",
+      "verification_status": "抓取受限，未读取正文",
+      "usage_notes": "本次返回 429；没有核对具体句子、录音及各自许可",
+      "local_file": null
+    },
+    {
+      "id": "E17",
+      "name": "Journaly",
+      "url": "https://journaly.com/",
+      "purpose": "写作交流候选",
+      "local_origin": "FF 第 5 章",
+      "verification_date": "2026-10-02",
+      "verification_status": "抓取失败，未读取正文",
+      "usage_notes": "不据此判定服务失效；未实测功能",
+      "local_file": null
+    },
+    {
+      "id": "E18",
+      "name": "italki",
+      "url": "https://www.italki.com/",
+      "purpose": "教师与会话练习候选",
+      "local_origin": "FF 第 5–7 章",
+      "verification_date": null,
+      "verification_status": "本地提及，未在线核验",
+      "usage_notes": "仅作为笔记中的候选入口；价格、可用性、适用性与资料来源未确认",
+      "local_file": null
+    },
+    {
+      "id": "E19",
+      "name": "Preply",
+      "url": "https://preply.com/",
+      "purpose": "教师练习候选",
+      "local_origin": "FF 第 6、7 章",
+      "verification_date": null,
+      "verification_status": "本地提及，未在线核验",
+      "usage_notes": "仅作为笔记中的候选入口；价格、可用性、适用性与资料来源未确认",
+      "local_file": null
+    },
+    {
+      "id": "E20",
+      "name": "Lingoda",
+      "url": "https://lingoda.com/",
+      "purpose": "课程候选",
+      "local_origin": "FF 第 6、7 章",
+      "verification_date": null,
+      "verification_status": "本地提及，未在线核验",
+      "usage_notes": "仅作为笔记中的候选入口；价格、可用性、适用性与资料来源未确认",
+      "local_file": null
+    },
+    {
+      "id": "E21",
+      "name": "Tandem",
+      "url": "https://tandem.net/",
+      "purpose": "语言交换候选",
+      "local_origin": "FF 第 1、7 章",
+      "verification_date": null,
+      "verification_status": "本地提及，未在线核验",
+      "usage_notes": "仅作为笔记中的候选入口；价格、可用性、适用性与资料来源未确认",
+      "local_file": null
+    },
+    {
+      "id": "E22",
+      "name": "HelloTalk",
+      "url": "https://hellotalk.com/",
+      "purpose": "语言交换候选",
+      "local_origin": "FF 第 7 章",
+      "verification_date": null,
+      "verification_status": "本地提及，未在线核验",
+      "usage_notes": "仅作为笔记中的候选入口；价格、可用性、适用性与资料来源未确认",
+      "local_file": null
+    },
+    {
+      "id": "E23",
+      "name": "ConversationExchange",
+      "url": "https://conversationexchange.com/",
+      "purpose": "语言交换候选",
+      "local_origin": "FF 第 7 章",
+      "verification_date": null,
+      "verification_status": "本地提及，未在线核验",
+      "usage_notes": "仅作为笔记中的候选入口；价格、可用性、适用性与资料来源未确认",
+      "local_file": null
+    },
+    {
+      "id": "E24",
+      "name": "Wiktionary",
+      "url": "https://en.wiktionary.org/",
+      "purpose": "词典及词频列表线索",
+      "local_origin": "FF 第 3、7 章",
+      "verification_date": null,
+      "verification_status": "本地提及，未在线核验",
+      "usage_notes": "仅作为笔记中的候选入口；价格、可用性、适用性与资料来源未确认",
+      "local_file": null
+    },
+    {
+      "id": "E25",
+      "name": "FSI Language Courses 网站",
+      "url": "https://www.fsi-language-courses.org/",
+      "purpose": "历史课程资料线索",
+      "local_origin": "FF 第 3 章",
+      "verification_date": null,
+      "verification_status": "本地提及，未在线核验",
+      "usage_notes": "仅作为笔记中的候选入口；价格、可用性、适用性与资料来源未确认",
+      "local_file": null
+    }
+  ],
+  "methodology_document": "resources/英语自学方法论.md",
+  "inventory_document": "resources/book-notes-inventory.json"
+}

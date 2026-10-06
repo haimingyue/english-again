@@ -1,0 +1,26 @@
+{
+  "语法": {
+    "download_matches_original": true,
+    "bytes": 339364
+  },
+  "句子": {
+    "download_matches_original": true,
+    "bytes": 538440
+  },
+  "responsive_widths": [
+    390,
+    768,
+    1440
+  ],
+  "no_horizontal_overflow": true,
+  "local_links_and_anchors": "Passed for index, phonetics, grammar",
+  "javascript_syntax": "node --check passed",
+  "interactions": [
+    "All three recall examples reveal correct answers via pointer/keyboard",
+    "Mobile menu open and Escape close",
+    "Image dialog open, native Escape and close button",
+    "Both Anki downloads verified byte-for-byte"
+  ],
+  "images": "All 4 visible content images loaded; three supplied screenshots copied unchanged into assets/语法 and design/ui-v3/assets/grammar",
+  "independence": "All navigation stays within V3 or explicit external Anki resources; no V2 dependencies"
+}

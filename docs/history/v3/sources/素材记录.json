@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-01",
+  "type": "homepage-ui-mockup",
+  "hero": {
+    "file": "assets/学习场景.png",
+    "source": "image_gen original generated image",
+    "purpose": "Illustrative study scene, not a real learner testimonial",
+    "prompt": "Use case: photorealistic-natural. Asset type: original full-bleed hero background for a Chinese English self-study website. Generate one original candid documentary photograph in a wide 16:9 landscape, target 1920 x 1080. A Chinese-speaking adult English learner in their late 20s seen from behind and slight side profile on the RIGHT half, wearing a casual dark forest green cotton shirt with natural fabric texture, listening with small unbranded headphones while studying at a real home desk beside a window. A plain laptop open to an unbranded English reading page, a slightly used exercise notebook with a few handwritten English lines, and a simple coffee cup. Show convincing natural daylight, subtle real imperfections, moderate film grain, honest lived-in atmosphere, no luxury office or staged stock-photo grin, realistic anatomy. The LEFT 50% is mostly shadowed quiet room and out-of-focus wall, sufficiently dark and uncluttered for overlaying white website headline and a yellow button in HTML; do not add any text or graphic overlay in the generated image. Minimal warm neutral palette, deep forest-black shadows, soft natural daylight from upper right. Comfortable over-the-shoulder composition centered on the activity rather than a beauty portrait. No website interface frame, no titles, no watermarks, no other brand logos, no video call tutor, no paper-card collage, no floating UI, no illustrated greenery. This must feel like an authentic study moment, not an AI fantasy."
+  },
+  "softwareScreenshots": {
+    "source": "User supplied",
+    "files": [
+      "../ui-v1/references/软件阅读页.png",
+      "../ui-v1/references/软件影视页.png",
+      "../ui-v1/references/软件数据页.png"
+    ]
+  },
+  "reference": {
+    "url": "https://www.cambly.com/zh_CN/english",
+    "scope": "Color emphasis and layout rhythm; no Cambly logo, photos or copy reused"
+  },
+  "courseSource": "../../resources/course-catalog.json"
+}

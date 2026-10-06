@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-06",
+  "deck": {
+    "file": "assets/phonetics/音标.apkg",
+    "bytes": 25693448,
+    "sha256": "b8b3c91d6a63a28efb63d48d225148e9c7c421c27ce9ff7e0d6da42041a0191d",
+    "notes": 154,
+    "cards": 264,
+    "types": {
+      "元音IPA": 20,
+      "辅音IPA": 24,
+      "Minimal Pairs - Words": 90,
+      "Minimal Pairs - Sound": 20
+    },
+    "review_log_rows": 0
+  },
+  "pairs": [
+    {
+      "type": "单词听辨",
+      "options": [
+        {
+          "word": "sheep",
+          "ipa": "/ʃiːp/",
+          "source": "google-c348773b-a2f970fa-14c342a8-e7ed9499-04572b67.mp3",
+          "audio": "assets/phonetics/pair-1-1.mp3"
+        },
+        {
+          "word": "ship",
+          "ipa": "/ʃɪp/",
+          "source": "google-d1fadee5-f262e995-8cd9560a-32b4b282-755fcddc.mp3",
+          "audio": "assets/phonetics/pair-1-2.mp3"
+        }
+      ]
+    },
+    {
+      "type": "单词听辨",
+      "options": [
+        {
+          "word": "back",
+          "ipa": "/bæk/",
+          "source": "google-95d6b740-94bd50da-40134461-24b8fdce-0f16d849.mp3",
+          "audio": "assets/phonetics/pair-2-1.mp3"
+        },
+        {
+          "word": "pack",
+          "ipa": "/pæk/",
+          "source": "google-1884e4b8-ee1ce104-06b03491-4460b901-b36eb660.mp3",
+          "audio": "assets/phonetics/pair-2-2.mp3"
+        }
+      ]
+    },
+    {
+      "type": "音素听辨",
+      "options": [
+        {
+          "word": "/f/",
+          "ipa": "清辅音",
+          "source": "f.MP3",
+          "audio": "assets/phonetics/pair-3-1.mp3"
+        },
+        {
+          "word": "/v/",
+          "ipa": "浊辅音",
+          "source": "v.MP3",
+          "audio": "assets/phonetics/pair-3-2.mp3"
+        }
+      ]
+    }
+  ],
+  "images": "User-supplied screenshots, copied unchanged from project assets/音标",
+  "method_source": "Fluent Forever chapter 3 Sound Play, user-supplied chapter notes and resources/英语自学方法论.md",
+  "audio_note": "Six audio files extracted from the supplied deck; each SHA-1 verified against the package manifest. No synthetic replacement audio."
+}

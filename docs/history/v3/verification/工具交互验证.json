@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-06",
+  "responsiveWidths": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "horizontalOverflow": false,
+  "featureImages": [
+    "assets/tools/plan.webp",
+    "assets/tools/bookshelf.webp",
+    "assets/tools/exams.webp",
+    "assets/tools/player.webp",
+    "assets/tools/movies.webp",
+    "assets/tools/lookup.webp",
+    "assets/tools/phrases.webp",
+    "assets/tools/profile.webp",
+    "assets/tools/shadow-reading.webp",
+    "assets/tools/shadow-movie.webp",
+    "assets/tools/stats.webp",
+    "assets/tools/calendar.webp"
+  ],
+  "downloadChecks": [
+    {
+      "disabled": true,
+      "link": null,
+      "selected": "win-x64",
+      "title": "Windows 64 位 · x64"
+    },
+    {
+      "disabled": true,
+      "link": null,
+      "selected": "win-x86",
+      "title": "Windows 32 位 · x86"
+    },
+    {
+      "disabled": true,
+      "link": null,
+      "selected": "mac-arm64",
+      "title": "macOS · Apple 芯片"
+    },
+    {
+      "disabled": true,
+      "link": null,
+      "selected": "mac-x64",
+      "title": "macOS · Intel 芯片"
+    }
+  ],
+  "keyboardTabs": "ArrowRight and End passed",
+  "gallery": "open, next, Escape, return focus passed",
+  "mobileMenu": "open and Escape passed",
+  "consoleErrors": []
+}

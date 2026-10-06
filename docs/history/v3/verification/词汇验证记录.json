@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-06",
+  "responsive_widths": [
+    1440,
+    768,
+    390
+  ],
+  "horizontal_overflow": false,
+  "local_links_and_anchors": "All four V3 HTML pages checked; no missing files or anchors; no V2 references",
+  "audio": {
+    "inquiry": {
+      "readyState": 4,
+      "played_seconds": 0.936
+    },
+    "reveal": {
+      "readyState": 4,
+      "played_seconds": 0.96
+    },
+    "nasty": "Observed playing and ended status"
+  },
+  "interactions": [
+    "Three card tabs; ArrowRight keyboard switch",
+    "Image dialog open, Escape close, focus restored",
+    "Mobile menu open and Escape close",
+    "Import help expands"
+  ],
+  "downloads": {
+    "verification": "Full HTTP response SHA-256 compared with source assets",
+    "COCA30000.apkg": {
+      "status": 200,
+      "bytes": 244805657,
+      "hash_match": true
+    },
+    "生词本.apkg": {
+      "status": 200,
+      "bytes": 58614,
+      "hash_match": true
+    },
+    "短语.apkg": {
+      "status": 200,
+      "bytes": 66567,
+      "hash_match": true
+    },
+    "browser_save_dialog": "Download-event automation timed out; not claimed as verified"
+  },
+  "js_syntax": "node --check passed",
+  "limits": [
+    "No actual Anki import",
+    "No automatic collection implemented or promised"
+  ],
+  "sources": [
+    "https://blog.fluent-forever.com/vocabulary/",
+    "https://www.english-corpora.org/coca/help/texts.asp",
+    "resources/英语自学手册的目录 - 少数派 (张奕源 Nick).epub §2.1 and 答疑篇02",
+    "Conversation 阅读英语自学手册重点内容",
+    "User Fluent Forever chapter notes 2,4,5,7"
+  ],
+  "reading_viewing_addition": {
+    "screenshots": "Both original images load at 2880x1800",
+    "desktop_mobile_widths": [
+      1440,
+      390
+    ],
+    "horizontal_overflow": false,
+    "dialogs": "Each image opens with correct title/source; Escape and close button verified",
+    "scope": "Screenshots explain companion-tool entry points; no real sending action performed"
+  }
+}

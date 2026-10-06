@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-01",
+  "pages": [
+    {
+      "page": "首页",
+      "file": "01-首页.png",
+      "width": 1190,
+      "height": 1322,
+      "bytes": 1564746
+    },
+    {
+      "page": "介绍",
+      "file": "02-介绍.png",
+      "width": 1190,
+      "height": 1322,
+      "bytes": 1464622
+    },
+    {
+      "page": "音标",
+      "file": "03-音标.png",
+      "width": 1190,
+      "height": 1322,
+      "bytes": 1468324
+    },
+    {
+      "page": "语法",
+      "file": "04-语法.png",
+      "width": 1190,
+      "height": 1322,
+      "bytes": 1533614
+    },
+    {
+      "page": "资源",
+      "file": "05-资源.png",
+      "width": 1190,
+      "height": 1322,
+      "bytes": 1363726
+    },
+    {
+      "page": "专栏",
+      "file": "06-专栏.png",
+      "width": 1190,
+      "height": 1322,
+      "bytes": 1535420
+    },
+    {
+      "page": "工具",
+      "file": "07-工具.png",
+      "width": 1190,
+      "height": 1322,
+      "bytes": 1498014
+    }
+  ]
+}

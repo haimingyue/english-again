@@ -1,0 +1,84 @@
+{
+  "hintsAndExercises": [
+    {
+      "active": "01原句",
+      "kind": "hint",
+      "text": "先独立理解是谁“回答了我的问题”？Maya 和 the email 都在句子里。先试着找到 answered 对应的对象，再想想后半句的 not 否定了什么。"
+    },
+    {
+      "active": "02意群提示",
+      "kind": "hint",
+      "text": "意群提示 / 斜线表示参考停顿The email/that Maya sent after the meeting/answered my question,/but it did not explain/why the schedule had changed.读到 The e"
+    },
+    {
+      "active": "04完整理解",
+      "kind": "hint",
+      "text": "完整理解 / 再与自己的答案核对Maya 在会后发来的邮件回答了我的问题，但没有说明日程为什么发生了变动。检查三件事：answered 是否接回邮件；it 是否指邮件；not 是否只否定 explain。核对后回到原句，再顺着英文读一遍。"
+    },
+    {
+      "answer": "商店降价，但销售几乎没有变化。cut prices 是降价；hardly 表示“几乎不”。不能把后半句理解成“销售发生了很大变化”。",
+      "kind": "exercise",
+      "position": "1 / 5",
+      "visible": true
+    },
+    {
+      "answer": "教师与主题都是原因，句子赋予两者同等分量。把 as much because of… as because of… 两端连起来。这里强调两者同样重要，不等于有测量数据证明各占一半。",
+      "kind": "exercise",
+      "position": "2 / 5",
+      "visible": true
+    },
+    {
+      "answer": "Leo 上周借的那些书，仍在他的桌上。主线是 The books → are。that 引出借书的说明，不能把 Leo 当成 are 的主语。",
+      "kind": "exercise",
+      "position": "3 / 5",
+      "visible": true
+    },
+    {
+      "answer": "Nora 买了一盏灯，并把这盏灯放在沙发旁。which 指前面的 lamp，she 指 Nora。补明对象即可，不需要凭空添加原因。",
+      "kind": "exercise",
+      "position": "4 / 5",
+      "visible": true
+    },
+    {
+      "answer": "如果已经有别人预约了这本书，就不能借。unless 表示“除非”。借书有一个例外条件，不能略过这个连接词。",
+      "kind": "exercise",
+      "position": "5 / 5",
+      "visible": true
+    }
+  ],
+  "responsive": [
+    {
+      "overflow": false,
+      "page": "/ui-v3/little-prince.html",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "page": "/ui-v3/little-prince.html",
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "page": "/ui-v3/little-prince.html",
+      "width": 1024
+    },
+    {
+      "overflow": false,
+      "page": "/ui-v3/reading.html",
+      "width": 320
+    },
+    {
+      "overflow": false,
+      "page": "/ui-v3/reading.html",
+      "width": 768
+    },
+    {
+      "overflow": false,
+      "page": "/ui-v3/reading.html",
+      "width": 1024
+    }
+  ],
+  "princeSearch": "猴面包树 → 1 集；空结果 → 可重置为 7 集",
+  "princeSort": "倒序首项 Day 06",
+  "consoleErrors": []
+}
