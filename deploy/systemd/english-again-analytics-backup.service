@@ -1,0 +1,15 @@
+[Unit]
+Description=Verified SQLite backup for English Again analytics
+
+[Service]
+Type=oneshot
+User=english-analytics
+Group=english-analytics
+EnvironmentFile=/etc/english-again-analytics.env
+ExecStart=/opt/english-again-analytics/venv/bin/python /opt/english-again-analytics/current/manage.py backup --output /var/backups/english-again-analytics
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/english-again-analytics /var/backups/english-again-analytics

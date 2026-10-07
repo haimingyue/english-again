@@ -1,8 +1,10 @@
 # 静态网站部署
 
+服务器 SSH 连接命令、密钥位置、当前线上版本及最近一次发布记录统一维护在项目根目录的 [DEPLOYMENT.md](../DEPLOYMENT.md)。继续部署前先查阅该文件，并确认服务器上的实际版本。
+
 ## 架构
 
-GitHub Actions 负责构建与验收，Nginx 直接提供 `.output/public` 中的静态文件。服务器无需 Node、PM2、Docker 或数据库。工作流成功后下载 `english-again-static`，解压后上传；目前没有配置 GitHub 自动 SSH 发布，也不把 SSH 私钥提交进仓库。
+GitHub Actions 负责构建与验收，Nginx 直接提供 `.output/public` 中的静态文件。公众站无需 Node、PM2 或 Docker；访问后台独立运行 Python/Gunicorn，使用本机 SQLite。详见 [后台部署与运维](../backend/README.md)。工作流成功后下载 `english-again-static`，解压后上传；目前没有配置 GitHub 自动 SSH 发布，也不把 SSH 私钥提交进仓库。
 
 首次部署使用提交 `d8787e9` 在本机重新生成的产物，已通过静态资源检查；对应源码也已通过 GitHub Actions 全部检查。
 
@@ -44,7 +46,7 @@ certbot certonly --webroot -w /var/www/letsencrypt -d english.tlpy8.com
 
 ## 首次上线记录（2026-10-06）
 
-- 当前发布版本：`d8787e9-20261006`，全部上传文件已通过 SHA-256 比对。
+- 首次发布版本：`d8787e9-20261006`，全部上传文件已通过 SHA-256 比对。此处为历史记录，当前版本见根目录部署信息。
 - HTTPS 已启用，HTTP 请求重定向到 `https://english.tlpy8.com`。
 - 证书到期日：2027-01-04；已启用 `certbot.timer` 和续期后 Nginx 重载钩子。
 - 线上验证：32 项路由与资源检查通过，包括全部页面、旧 `.html` 地址、六个 Anki 下载、缓存、404 和隐藏文件访问限制；Range 请求返回 206，HTML gzip 生效。

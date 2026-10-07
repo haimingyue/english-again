@@ -4,6 +4,13 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineNuxtConfig({
   compatibilityDate: "2026-10-06",
   devtools: { enabled: false },
+  runtimeConfig: {
+    public: {
+      analyticsEnabled: process.env.NUXT_PUBLIC_ANALYTICS_ENABLED
+        ? process.env.NUXT_PUBLIC_ANALYTICS_ENABLED === "true"
+        : process.env.NODE_ENV === "production",
+    },
+  },
   css: ["~/assets/css/main.css"],
   components: [{ path: "~/components", pathPrefix: false }],
   vite: { plugins: [tailwindcss()] },

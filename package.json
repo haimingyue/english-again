@@ -16,7 +16,9 @@
     "test": "node --experimental-strip-types --test tests/unit/*.test.ts",
     "test:e2e": "playwright test",
     "check": "npm run typecheck && npm test",
-    "check:static": "node scripts/check-nuxt.mjs"
+    "check:static": "node scripts/check-nuxt.mjs",
+    "test:analytics": ".venv/bin/python -m unittest discover -s backend/tests -v",
+    "test:analytics:e2e": "node tests/analytics-browser.mjs"
   },
   "dependencies": {
     "nuxt": "4.6.0",

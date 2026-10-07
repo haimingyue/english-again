@@ -1,0 +1,22 @@
+[Unit]
+Description=English Again analytics and admin
+After=network.target
+
+[Service]
+User=english-analytics
+Group=english-analytics
+WorkingDirectory=/opt/english-again-analytics/current
+EnvironmentFile=/etc/english-again-analytics.env
+ExecStart=/opt/english-again-analytics/venv/bin/gunicorn --bind 127.0.0.1:8091 --workers 2 --threads 2 --timeout 60 --access-logfile /dev/null app:create_app()
+Restart=on-failure
+RestartSec=3
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/english-again-analytics
+MemoryMax=384M
+
+[Install]
+WantedBy=multi-user.target

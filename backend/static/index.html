@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex,nofollow" />
+    <title>访问管理 · 英语自学指北</title>
+    <link rel="icon" href="/brand/compass-logo.png" />
+    <link rel="stylesheet" href="/admin/admin.css" />
+    <script src="/admin/admin.js" defer></script>
+  </head>
+  <body>
+    <div id="boot" role="status">正在连接管理后台…</div>
+    <main id="login" class="login-wrap" hidden>
+      <section class="login-story">
+        <a href="/" class="brand">英语自学指北 <span>ENGLISH AGAIN</span></a>
+        <div>
+          <p class="eyebrow">每一次到访，都有迹可循</p>
+          <h1>看见学习<br />发生的地方。</h1>
+          <p>了解读者从哪里来，在哪一页停下，<br />又带走了哪些学习资源。</p>
+        </div>
+        <p class="muted-light">网站访问管理 · 仅限管理员</p>
+      </section>
+      <section class="login-panel">
+        <form id="login-form" class="login-card">
+          <p class="eyebrow">管理后台</p>
+          <h2>欢迎回来</h2>
+          <p class="muted">登录后查看访问记录与资源点击情况。</p>
+          <label
+            >账号<input
+              name="username"
+              autocomplete="username"
+              required
+              maxlength="64" /></label
+          ><label
+            >密码<input
+              name="password"
+              type="password"
+              autocomplete="current-password"
+              required
+              maxlength="256"
+          /></label>
+          <p id="login-error" class="error" role="alert"></p>
+          <button type="submit" class="primary wide">
+            登录后台 <span>→</span></button
+          ><a href="/" class="back-link">返回网站</a>
+        </form>
+      </section>
+    </main>
+    <div id="dashboard" hidden>
+      <header class="topbar">
+        <a class="brand" href="/">英语自学指北 <span>访问管理</span></a>
+        <div class="account">
+          <span id="username"></span
+          ><button id="password-open" class="quiet">修改密码</button
+          ><button id="logout" class="quiet">退出登录</button>
+        </div>
+      </header>
+      <main class="workspace">
+        <div class="heading">
+          <div>
+            <p class="eyebrow">网站数据 / OVERVIEW</p>
+            <h1>访问概览</h1>
+            <p class="muted">了解每一次到访，让内容更有方向。</p>
+          </div>
+          <div class="heading-actions">
+            <span id="updated" class="muted"></span
+            ><button id="refresh">刷新数据</button>
+          </div>
+        </div>
+        <p id="status" class="status" role="status" aria-live="polite"></p>
+        <form id="filters" class="filters" aria-label="筛选访问记录">
+          <div class="quick-dates">
+            <span>时间范围</span
+            ><button type="button" data-range="1">今天</button
+            ><button type="button" data-range="7">近 7 天</button
+            ><button type="button" data-range="30">近 30 天</button
+            ><button type="button" data-range="all">全部时间</button
+            ><span class="timezone">北京时间 UTC+8</span>
+          </div>
+          <div class="filter-grid">
+            <label>开始日期<input type="date" name="start" /></label
+            ><label>结束日期<input type="date" name="end" /></label>
+            <label
+              >事件类型<select name="kind" aria-label="事件类型">
+                <option value="">全部事件</option>
+                <option value="pageview">页面浏览</option>
+                <option value="download">下载点击</option>
+                <option value="video">视频点击</option>
+                <option value="outbound">外链点击</option>
+              </select></label
+            >
+            <label
+              >访问页面<select name="path" aria-label="访问页面">
+                <option value="">全部页面</option>
+                <option value="/">首页</option>
+                <option value="/about">介绍</option>
+                <option value="/phonetics">音标</option>
+                <option value="/grammar">语法</option>
+                <option value="/vocabulary">词汇</option>
+                <option value="/reading">阅读</option>
+                <option value="/columns">专栏</option>
+                <option value="/fluent-forever">流利英语</option>
+                <option value="/make-it-stick">认知天性</option>
+                <option value="/little-prince">小王子</option>
+                <option value="/tools">工具</option>
+              </select></label
+            >
+            <label
+              >设备<select name="device" aria-label="设备">
+                <option value="">全部设备</option>
+                <option value="desktop">电脑</option>
+                <option value="mobile">手机</option>
+                <option value="tablet">平板</option>
+              </select></label
+            >
+            <label
+              >排序<select name="order" aria-label="排序">
+                <option value="desc">最新优先</option>
+                <option value="asc">最早优先</option>
+              </select></label
+            >
+            <label class="search"
+              >关键词<input
+                name="q"
+                type="search"
+                placeholder="搜索 IP、页面、来源、点击内容或访客标识"
+                maxlength="200"
+            /></label>
+            <div class="filter-buttons">
+              <button type="submit" class="primary">查询记录</button
+              ><button id="reset-filters" type="button">重置</button>
+            </div>
+          </div>
+          <div id="visitor-filter" class="visitor-filter" hidden>
+            <span></span><button type="button">清除访客筛选</button>
+          </div>
+        </form>
+        <section class="metrics" aria-label="筛选结果概览">
+          <article>
+            <span>页面浏览量</span><strong id="metric-pageviews">—</strong
+            ><small>页面被打开的次数</small>
+          </article>
+          <article>
+            <span>独立访客</span><strong id="metric-visitors">—</strong
+            ><small>按匿名浏览器标识去重</small>
+          </article>
+          <article>
+            <span>访问会话</span><strong id="metric-sessions">—</strong
+            ><small>间隔 30 分钟重新计次</small>
+          </article>
+          <article>
+            <span>下载点击</span><strong id="metric-downloads">—</strong
+            ><small>点击下载链接的次数</small>
+          </article>
+        </section>
+        <section class="insights">
+          <article class="panel">
+            <div class="panel-heading">
+              <h2>浏览趋势</h2>
+              <span>筛选范围内最近 31 个有访问的日期</span>
+            </div>
+            <div id="trend" class="trend"></div>
+          </article>
+          <article class="panel">
+            <div class="panel-heading">
+              <h2>热门页面</h2>
+              <span>按浏览量排序</span>
+            </div>
+            <ol id="top-pages" class="top-pages"></ol>
+          </article>
+        </section>
+        <section class="panel records">
+          <div class="panel-heading">
+            <div>
+              <h2>详细记录 <span id="total" class="count"></span></h2>
+              <p class="muted">
+                点击“查看”了解详情，点击访客标识查看其访问轨迹。
+              </p>
+            </div>
+            <button id="export" class="primary">导出筛选结果 CSV ↓</button>
+          </div>
+          <div class="table-wrap">
+            <table>
+              <thead>
+                <tr>
+                  <th>访问时间</th>
+                  <th>类型</th>
+                  <th>页面 / 内容</th>
+                  <th>访客 / IP</th>
+                  <th>设备 / 浏览器</th>
+                  <th>来源</th>
+                  <th>操作</th>
+                </tr>
+              </thead>
+              <tbody id="rows"></tbody>
+            </table>
+          </div>
+          <div class="pagination">
+            <label
+              >每页<select id="page-size" aria-label="每页条数">
+                <option>25</option>
+                <option>50</option>
+                <option>100</option></select
+              >条</label
+            ><span id="page-info"></span>
+            <div>
+              <button id="prev">上一页</button><button id="next">下一页</button>
+            </div>
+          </div>
+        </section>
+        <footer class="footnote">
+          统计从功能上线后开始。访客为匿名浏览器标识，不等于真实人数；下载点击不代表下载完成。已知爬虫会被过滤，禁用脚本或拦截统计的访问可能遗漏。来源链接不保存查询参数。
+        </footer>
+      </main>
+    </div>
+    <dialog id="detail-dialog" aria-labelledby="detail-title">
+      <div class="dialog-heading">
+        <h2 id="detail-title">访问详情</h2>
+        <button
+          type="button"
+          data-close="detail-dialog"
+          aria-label="关闭访问详情"
+        >
+          ✕
+        </button>
+      </div>
+      <dl id="detail-fields"></dl>
+      <button id="view-visitor" class="primary">查看该访客的访问轨迹</button>
+    </dialog>
+    <dialog id="password-dialog" aria-labelledby="password-title">
+      <div class="dialog-heading">
+        <h2 id="password-title">修改登录密码</h2>
+        <button
+          type="button"
+          data-close="password-dialog"
+          aria-label="关闭修改密码"
+        >
+          ✕
+        </button>
+      </div>
+      <form id="password-form">
+        <p class="muted">
+          密码至少 12 个字符。修改成功后，所有设备都需要重新登录。
+        </p>
+        <label
+          >当前密码<input
+            name="current"
+            type="password"
+            autocomplete="current-password"
+            required
+            maxlength="256" /></label
+        ><label
+          >新密码<input
+            name="password"
+            type="password"
+            autocomplete="new-password"
+            required
+            minlength="12"
+            maxlength="128" /></label
+        ><label
+          >确认新密码<input
+            name="confirm"
+            type="password"
+            autocomplete="new-password"
+            required
+            minlength="12"
+            maxlength="128"
+        /></label>
+        <p id="password-error" class="error" role="alert"></p>
+        <button type="submit" class="primary wide">保存新密码</button>
+      </form>
+    </dialog>
+  </body>
+</html>

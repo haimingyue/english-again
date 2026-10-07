@@ -1,6 +1,8 @@
 # 英语自学指北 · English Again
 
-从发音到阅读，重新学一次英语。基于现有 11 页设计，以 **Nuxt 4 + Vue 3 + TypeScript + Tailwind CSS 4** 重写，默认生成可直接部署的静态网站。
+从发音到阅读，重新学一次英语。基于现有 11 页设计，以 **Nuxt 4 + Vue 3 + TypeScript + Tailwind CSS 4** 重写，公众页面默认生成可直接部署的静态网站，访问管理后台由同机独立 Python 服务提供。
+
+线上地址、SSH 连接命令、密钥位置和当前发布版本见根目录 [部署信息](DEPLOYMENT.md)。
 
 ## 开始开发
 
@@ -61,6 +63,10 @@ docs/             开发和迁移说明
 
 每次推送或发起 Pull Request 时，`Build and verify website` 会自动安装依赖与 Git LFS 资源，执行类型检查、单元测试、静态生成、资源检查和浏览器验收。也可以在 GitHub 的 Actions 页面手动运行。
 
-全部通过后，在对应运行记录的 **Artifacts** 中下载 `english-again-static`，解压后把其中的文件部署到 Nginx 网站根目录即可。产物保留 7 天；当前工作流只生成部署包，不连接服务器。
+全部通过后，在对应运行记录的 **Artifacts** 中下载 `english-again-static`，解压后上传到新的发布目录，再切换线上目录。产物保留 7 天；当前工作流只生成部署包，不连接服务器。
 
-生产站点：<https://english.tlpy8.com>。Nginx 配置、发布与回滚步骤见 [部署说明](deploy/README.md)。
+生产站点：<https://english.tlpy8.com>。连接服务器和发布步骤见 [部署信息](DEPLOYMENT.md)，Nginx 与 HTTPS 配置见 [部署说明](deploy/README.md)。
+
+## 访问管理后台
+
+入口：<https://english.tlpy8.com/admin/>。支持账号登录、访问概览、日期/页面/事件/设备/关键词筛选、访客轨迹、详细记录及全量 CSV 导出。公众站生产构建默认启用统计；数据保存在同机 SQLite，按北京时间查询，每日备份。开发、接口、配置、备份恢复和统计口径见 [后台说明](backend/README.md)。
