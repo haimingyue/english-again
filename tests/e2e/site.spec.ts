@@ -1,5 +1,14 @@
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
+import { readFileSync } from "node:fs";
+const imageReport = JSON.parse(
+  readFileSync("docs/maintenance/generated/png-webp.json", "utf8"),
+);
+const replacedPngs = new Set<string>(
+  imageReport.images.map((image: { source: string }) =>
+    image.source.replace(/^(?:site|public)/, ""),
+  ),
+);
 const routes = [
   "/",
   "/about",
@@ -12,6 +21,11 @@ const routes = [
   "/make-it-stick",
   "/little-prince",
   "/tools",
+  "/guides",
+  "/guides/anki-setup",
+  "/guides/phonetics-practice",
+  "/guides/reading-and-viewing",
+  "/resources",
 ];
 for (const route of routes) {
   test(`${route}: accessible, responsive and complete`, async ({ page }) => {
@@ -30,6 +44,8 @@ for (const route of routes) {
     // Bring each lazy image into view before asserting its completed response.
     for (const image of await page.locator("main img").all()) {
       await image.scrollIntoViewIfNeeded();
+      const src = await image.getAttribute("src");
+      expect(replacedPngs.has(new URL(src!, page.url()).pathname)).toBe(false);
       await expect
         .poll(() =>
           image.evaluate(
@@ -202,7 +218,7 @@ for (const [route, count] of [
   ["/columns", 25],
   ["/fluent-forever", 8],
   ["/make-it-stick", 7],
-  ["/little-prince", 7],
+  ["/little-prince", 9],
 ] as const) {
   test(`${route}: search, sort, empty state and reset`, async ({ page }) => {
     await page.goto(route);
@@ -241,22 +257,28 @@ test("tools tabs, gallery arrows and published downloads", async ({ page }) => {
   await expect(dialog.locator("img")).not.toHaveAttribute("src", src!);
   await page.keyboard.press("Escape");
   const downloads = {
-    "win-x64":
-      "https://books-club.cn/desktop-updates/windows/x64/English-Club-0.4.19-x64.exe",
-    "mac-arm64":
-      "https://books-club.cn/desktop-updates/macos/English-Club-0.4.19-arm64.dmg",
-    "mac-x64":
-      "https://books-club.cn/desktop-updates/macos/English-Club-0.4.19-x64.dmg",
+    "win-x64": {
+      url: "https://books-club.cn/desktop-updates/windows/x64/English-Club-0.4.27-x64.exe",
+      version: "0.4.27",
+    },
+    "mac-arm64": {
+      url: "https://books-club.cn/desktop-updates/macos/English-Club-0.4.27-arm64.dmg",
+      version: "0.4.27",
+    },
+    "mac-x64": {
+      url: "https://books-club.cn/desktop-updates/macos/English-Club-0.4.27-x64.dmg",
+      version: "0.4.27",
+    },
   };
   await expect(page.locator('input[name="platform"]')).toHaveCount(3);
   await expect(page.locator('[data-platform="win-x86"]')).toHaveCount(0);
-  for (const [platform, url] of Object.entries(downloads)) {
+  for (const [platform, { url, version }] of Object.entries(downloads)) {
     const radio = page.locator(`input[value="${platform}"]`);
     await radio.check();
     await expect(radio).toBeChecked();
     await expect(page.locator("#download-unavailable")).toHaveCount(0);
     await expect(page.locator("#download-link")).toHaveAttribute("href", url);
-    await expect(page.locator("#release-detail")).toHaveText("版本 0.4.19");
+    await expect(page.locator("#release-detail")).toHaveText(`版本 ${version}`);
   }
 });
 

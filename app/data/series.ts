@@ -51,7 +51,7 @@ export const videoSeries = {
         category: "导览",
         label: "开篇",
         duration_seconds: 1105,
-        original: "/assets/images/columns/originals/intro.png",
+        original: "/assets/images/columns/originals/intro.webp",
         weeks: [],
       },
       {
@@ -73,7 +73,7 @@ export const videoSeries = {
         category: "发音",
         label: "第 2 周",
         duration_seconds: 785,
-        original: "/assets/images/columns/originals/week-02.png",
+        original: "/assets/images/columns/originals/week-02.webp",
         weeks: [2],
       },
       {
@@ -85,7 +85,7 @@ export const videoSeries = {
         category: "词汇",
         label: "第 3–4 周",
         duration_seconds: 1295,
-        original: "/assets/images/columns/originals/week-03-04.png",
+        original: "/assets/images/columns/originals/week-03-04.webp",
         weeks: [3, 4],
       },
       {
@@ -97,7 +97,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 5 周",
         duration_seconds: 1239,
-        original: "/assets/images/columns/originals/week-05.png",
+        original: "/assets/images/columns/originals/week-05.webp",
         weeks: [5],
       },
       {
@@ -109,7 +109,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 6 周",
         duration_seconds: 1263,
-        original: "/assets/images/columns/originals/week-06.png",
+        original: "/assets/images/columns/originals/week-06.webp",
         weeks: [6],
       },
       {
@@ -121,7 +121,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 7 周",
         duration_seconds: 1036,
-        original: "/assets/images/columns/originals/week-07.png",
+        original: "/assets/images/columns/originals/week-07.webp",
         weeks: [7],
       },
       {
@@ -133,7 +133,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 8 周",
         duration_seconds: 1423,
-        original: "/assets/images/columns/originals/week-08.png",
+        original: "/assets/images/columns/originals/week-08.webp",
         weeks: [8],
       },
       {
@@ -144,7 +144,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 9 周",
         duration_seconds: 1264,
-        original: "/assets/images/columns/originals/week-09.png",
+        original: "/assets/images/columns/originals/week-09.webp",
         weeks: [9],
       },
       {
@@ -156,7 +156,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 10 周",
         duration_seconds: 1206,
-        original: "/assets/images/columns/originals/week-10.png",
+        original: "/assets/images/columns/originals/week-10.webp",
         weeks: [10],
       },
       {
@@ -167,7 +167,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 11 周",
         duration_seconds: 1061,
-        original: "/assets/images/columns/originals/week-11.png",
+        original: "/assets/images/columns/originals/week-11.webp",
         weeks: [11],
       },
       {
@@ -178,7 +178,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 12 周",
         duration_seconds: 1136,
-        original: "/assets/images/columns/originals/week-12.png",
+        original: "/assets/images/columns/originals/week-12.webp",
         weeks: [12],
       },
       {
@@ -190,7 +190,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 13 周",
         duration_seconds: 1363,
-        original: "/assets/images/columns/originals/week-13.png",
+        original: "/assets/images/columns/originals/week-13.webp",
         weeks: [13],
       },
       {
@@ -202,7 +202,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 14 周",
         duration_seconds: 1009,
-        original: "/assets/images/columns/originals/week-14.png",
+        original: "/assets/images/columns/originals/week-14.webp",
         weeks: [14],
       },
       {
@@ -214,7 +214,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 15 周",
         duration_seconds: 1033,
-        original: "/assets/images/columns/originals/week-15.png",
+        original: "/assets/images/columns/originals/week-15.webp",
         weeks: [15],
       },
       {
@@ -226,7 +226,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 16 周",
         duration_seconds: 879,
-        original: "/assets/images/columns/originals/week-16.png",
+        original: "/assets/images/columns/originals/week-16.webp",
         weeks: [16],
       },
       {
@@ -237,7 +237,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 17 周",
         duration_seconds: 1650,
-        original: "/assets/images/columns/originals/week-17.png",
+        original: "/assets/images/columns/originals/week-17.webp",
         weeks: [17],
       },
       {
@@ -248,7 +248,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 18 周",
         duration_seconds: 1228,
-        original: "/assets/images/columns/originals/week-18.png",
+        original: "/assets/images/columns/originals/week-18.webp",
         weeks: [18],
       },
       {
@@ -260,7 +260,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 19 周",
         duration_seconds: 1263,
-        original: "/assets/images/columns/originals/week-19.png",
+        original: "/assets/images/columns/originals/week-19.webp",
         weeks: [19],
       },
       {
@@ -271,7 +271,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 20 周",
         duration_seconds: 1784,
-        original: "/assets/images/columns/originals/week-20.png",
+        original: "/assets/images/columns/originals/week-20.webp",
         weeks: [20],
       },
       {
@@ -282,7 +282,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 21 周",
         duration_seconds: 855,
-        original: "/assets/images/columns/originals/week-21.png",
+        original: "/assets/images/columns/originals/week-21.webp",
         weeks: [21],
       },
       {
@@ -293,7 +293,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 22 周",
         duration_seconds: 1546,
-        original: "/assets/images/columns/originals/week-22.png",
+        original: "/assets/images/columns/originals/week-22.webp",
         weeks: [22],
       },
       {
@@ -305,7 +305,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 23 周",
         duration_seconds: 1294,
-        original: "/assets/images/columns/originals/week-23.png",
+        original: "/assets/images/columns/originals/week-23.webp",
         weeks: [23],
       },
       {
@@ -316,7 +316,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 24 周",
         duration_seconds: 1341,
-        original: "/assets/images/columns/originals/week-24.png",
+        original: "/assets/images/columns/originals/week-24.webp",
         weeks: [24],
       },
       {
@@ -327,7 +327,7 @@ export const videoSeries = {
         category: "语法",
         label: "第 25 周",
         duration_seconds: 564,
-        original: "/assets/images/columns/originals/week-25.png",
+        original: "/assets/images/columns/originals/week-25.webp",
         weeks: [25],
       },
     ],
@@ -342,7 +342,7 @@ export const videoSeries = {
     note: "8 集读书视频 · 配合音标、语法与词汇页面练习",
     startUrl: "https://www.bilibili.com/video/BV1WNzQBEE23/",
     startLabel: "观看第一集 ↗",
-    book: "/assets/images/books/fluent-forever.png",
+    book: "/assets/images/books/fluent-forever.webp",
     bookAlt: "Fluent Forever 书封",
     stamp: "8 集读书视频",
     sectionEyebrow: "Fluent Forever / VIDEO LIBRARY",
@@ -350,7 +350,7 @@ export const videoSeries = {
     sectionIntro:
       "点击卡片，前往 Bilibili 观看。\n看完一集，试着把一个方法用到今天的练习中。",
     filterNote: "从第一集开始，也可以按标题找到感兴趣的话题。",
-    fallback: "/assets/images/books/fluent-forever.png",
+    fallback: "/assets/images/books/fluent-forever.webp",
     videos: [
       {
         title:
@@ -455,7 +455,7 @@ export const videoSeries = {
     note: "7 集读书视频 · 主动回忆、练习方式与学习判断",
     startUrl: "https://www.bilibili.com/video/BV1sEHxzQEbz/",
     startLabel: "观看第一集 ↗",
-    book: "/assets/images/books/make-it-stick.png",
+    book: "/assets/images/books/make-it-stick.webp",
     bookAlt: "Make It Stick 书封",
     stamp: "7 集读书视频",
     sectionEyebrow: "Make It Stick / VIDEO LIBRARY",
@@ -463,7 +463,7 @@ export const videoSeries = {
     sectionIntro:
       "点击卡片，前往 Bilibili 观看。\n看完一集，试着把一个方法用到今天的练习中。",
     filterNote: "从第一集开始，也可以按标题找到感兴趣的话题。",
-    fallback: "/assets/images/books/make-it-stick.png",
+    fallback: "/assets/images/books/make-it-stick.webp",
     videos: [
       {
         title: "你一定在用错误的学习方式学习 ｜ 《Make it Stick》《认知天性》",
@@ -552,7 +552,7 @@ export const videoSeries = {
     eyebrow: "原版书实验室 · 连载中",
     title: "从一小段开始，\n读进小王子的世界。",
     lede: "跟着故事走，把阅读方法用到真实的英文里。\n先读一段，再看讲解；理解人物，也留意句子里的线索。",
-    note: "已收录 7 集 · 开篇导读 + Day 01–06 · 持续连载",
+    note: "已收录 9 集 · 开篇导读 + Day 01–08 · 持续连载",
     startUrl: "https://www.bilibili.com/video/BV12sGP6REaP/",
     startLabel: "观看第一集 ↗",
     book: null,
@@ -561,7 +561,7 @@ export const videoSeries = {
     sectionEyebrow: "小王子共读 · 连载中 / VIDEO LIBRARY",
     sectionTitle: "一段英文，一个新的相遇。",
     sectionIntro:
-      "点击卡片，前往 Bilibili 观看。\n连载中，已收录开篇与前 6 天的共读。",
+      "点击卡片，前往 Bilibili 观看。\n连载中，已收录开篇与前 8 天的共读。",
     filterNote: "从第一集开始，也可以按标题找到感兴趣的话题。",
     fallback: "/assets/images/reading/little-prince-placeholder.svg",
     videos: [
@@ -644,6 +644,29 @@ export const videoSeries = {
         category: "共读",
         label: "Day 06",
         duration_seconds: 825,
+        original: null,
+      },
+      {
+        title: "一个人很难过的时候，就会喜欢看日落 ｜ 小王子阅读第 7 天",
+        topic: "Day 07 · 难过的时候看日落",
+        url: "https://www.bilibili.com/video/BV1BGpJ6LE1d/",
+        thumbnail:
+          "https://i0.hdslb.com/bfs/archive/8235f05e8bac4777784b7e3dfe7c0938f0f72f3b.jpg",
+        category: "共读",
+        label: "Day 07",
+        duration_seconds: 796,
+        original: null,
+      },
+      {
+        title:
+          "因为一朵花，满天星星都有了意义 ｜ 阅读 The little prince - Day 8",
+        topic: "Day 08 · 一朵花与满天星星",
+        url: "https://www.bilibili.com/video/BV14dxt6fEbf/",
+        thumbnail:
+          "https://i2.hdslb.com/bfs/archive/514345421ae711786efdda093064e66a95940209.jpg",
+        category: "共读",
+        label: "Day 08",
+        duration_seconds: 826,
         original: null,
       },
     ],

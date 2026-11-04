@@ -11,6 +11,7 @@ const links = [
   { to: "/reading", label: "阅读" },
   { to: "/columns", label: "专栏" },
   { to: "/tools", label: "工具" },
+  { to: "/guides", label: "使用指南" },
 ];
 const seriesRoutes = ["/fluent-forever", "/make-it-stick", "/little-prince"];
 const normalizedPath = computed(
@@ -23,6 +24,7 @@ const normalizedPath = computed(
 function active(to: string) {
   return (
     normalizedPath.value === to ||
+    (to === "/guides" && normalizedPath.value.startsWith("/guides/")) ||
     (to === "/columns" && seriesRoutes.includes(normalizedPath.value))
   );
 }

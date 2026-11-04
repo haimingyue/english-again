@@ -9,7 +9,7 @@ const card = computed(
 );
 const imageSource = computed(
   () =>
-    `/assets/images/about/${card.value.file}-${revealed.value ? "back" : "front"}.png`,
+    `/assets/images/about/${card.value.file}-${revealed.value ? "back" : "front"}.webp`,
 );
 watch(selected, () => {
   revealed.value = false;

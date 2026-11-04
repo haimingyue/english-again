@@ -4,11 +4,11 @@ Nuxt 页面：`app/pages/tools.vue`；下载组件：`app/components/learning/To
 
 | 配置键 | 安装包 | 当前版本 |
 | --- | --- | --- |
-| `win-x64` | Windows 64 位 · x64 | 0.4.19 |
-| `mac-arm64` | macOS · Apple 芯片 | 0.4.19 |
-| `mac-x64` | macOS · Intel 芯片 | 0.4.19 |
+| `win-x64` | Windows 64 位 · x64 | 0.4.27 |
+| `mac-arm64` | macOS · Apple 芯片 | 0.4.27 |
+| `mac-x64` | macOS · Intel 芯片 | 0.4.27 |
 
-三个地址由项目所有者提供，2026-10-06 使用 HEAD 请求均返回 HTTP 200。没有下载或执行安装包，也没有推断最低系统版本、代码签名或安装兼容性。
+2026-10-22 已将 Windows x64、macOS Apple 芯片（ARM64）与 macOS Intel 芯片（x64）的下载地址和版本号统一更新至 0.4.27，三个安装包的公网 HTTPS HEAD 请求均返回 HTTP 200。没有下载或执行完整安装包，也没有推断最低系统版本、代码签名或安装兼容性。
 
 不提供 Windows 32 位安装包。识别到 32 位 Windows 时显示不支持提示，不自动选择 x64。Windows ARM 兼容性未确认；Mac 浏览器未提供可靠芯片信息时保留手动选择。`Win32` 平台字符串本身不能说明操作系统是 32 位。
 

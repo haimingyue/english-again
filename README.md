@@ -6,7 +6,7 @@
 
 ## 开始开发
 
-需要 Node.js 24.15+（推荐使用 `.nvmrc`）和 Git LFS。卡组使用 LFS，首次克隆后需拉取完整文件：
+需要 Node.js 24.15+（推荐使用 `.nvmrc`）和 Git LFS。卡组和安卓 APK 使用 LFS，首次克隆后需拉取完整文件：
 
 ```bash
 git clone https://github.com/haimingyue/english-again.git
@@ -21,7 +21,7 @@ npm run dev
 
 ```bash
 npm run check       # 严格类型检查、搜索与平台识别单元测试
-npm run test:e2e    # Chrome：11 页响应式、无障碍和学习交互验收
+npm run test:e2e    # Chrome：16 页响应式、无障碍和学习交互验收
 npm run generate   # 静态产物 .output/public
 npm run build      # 可选：Nitro 服务端部署产物
 ```
@@ -32,7 +32,7 @@ npm run build      # 可选：Nitro 服务端部署产物
 
 ```text
 app/
-  pages/           11 个页面与旧 .html 地址别名
+  pages/           16 个页面与旧 .html 地址别名
   layouts/         公共布局
   components/      导航、弹窗、选项卡、学习练习、专栏、工具展示
   composables/     页面 SEO、图片预览、音频生命周期
@@ -46,16 +46,19 @@ design/           原设计与验收资料
 docs/             开发和迁移说明
 ```
 
-`site/*.html`、旧样式和旧脚本不参与 Nuxt 运行。图片、9 段试听和 6 套 Anki 卡组沿用原文件；构建时复制媒体到静态产物，仓库不额外复制大文件。
+`site/*.html`、旧样式和旧脚本不参与 Nuxt 运行。9 段试听和 6 套 Anki 卡组沿用原文件；构建时复制媒体到静态产物。大 PNG 的页面引用使用同尺寸 WebP，原始 PNG 保留用于素材校验及旧链接兼容。
 
 ## 内容维护与部署
 
 - 页面正文在 `app/pages/`；重复交互在 `app/components/`。
+- 使用指南目录在 `/guides`，已发布教程信息集中在 `app/data/guides.ts`，各期正文在 `app/pages/guides/`。三期已完结：Anki 安装与同步、美式音标练习、从单词走向阅读与观影。配套资源页在 `/resources`，首页展示三个学习群二维码；维护方法见 [Nuxt 开发说明](docs/nuxt-development.md)。
 - 47 个视频条目集中在 `app/data/series.ts`，首页和专栏共用。
-- 软件下载状态在 `app/data/downloads.json`。只有 `status: "published"` 且 URL 合法时启用真实下载；当前提供 0.4.19 的 Windows x64、macOS ARM64 与 macOS x64 安装包，不提供 Windows 32 位版。
-- `npm run generate` 后部署整个 `.output/public/`，保留子目录结构。11 个无扩展名路由和旧 `.html` 路径均预渲染；无需 Node 服务。
+- 软件下载状态在 `app/data/downloads.json`。只有 `status: "published"` 且 URL 合法时启用真实下载；当前提供 Windows x64、macOS ARM64 与 macOS x64 0.4.27 安装包，不提供 Windows 32 位版。
+- `npm run generate` 后部署整个 `.output/public/`，保留子目录结构。16 个无扩展名路由和旧 `.html` 路径均预渲染；无需 Node 服务。
 - 原型独立预览：`python3 scripts/serve.py --port 4176`。
 - 原始素材完整性验证：`python3 scripts/check_project.py`。
+- 大 PNG 优化：安装 `scripts/requirements.txt` 后运行 `python3 scripts/optimize_pngs.py`，为 `site/assets/images/` 和 `public/` 中超过 100 KiB 的 PNG 生成同尺寸 WebP。截图、笔记、书封和页面标志采用无损压缩；两张主插图采用质量 94，并验证 RGB PSNR 不低于 40 dB。原 PNG 和透明度保留；页面图片不缩小分辨率。另从原标志生成 32×32 浏览器图标和 180×180 Apple touch icon，以小尺寸 PNG 兼容平台，避免下载大原图。
+- 图片验收：`python3 scripts/optimize_pngs.py --check` 验证尺寸、像素和 SHA-256；`npm run check:static` 验证构建产物中的 WebP 并防止页面重新引用大 PNG。清单和压缩数据位于 `docs/maintenance/generated/png-webp.json`。新增图片后还需更新 `app/` 中相应的图片引用。
 
 详见 [Nuxt 开发说明](docs/nuxt-development.md)、[浏览器验收](design-qa.md) 和 [原始资源目录](resources/README.md)。
 

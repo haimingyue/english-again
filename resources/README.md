@@ -13,6 +13,8 @@
 
 网站下载的卡组分别为 `phonetics.apkg`、`grammar.apkg`、`sentences.apkg`、`coca-30000.apkg`、`phrases.apkg`、`wordbook.apkg`。原来的中文文件名及 COCA 日期文件名，可在迁移记录的 `path` 字段中查到。
 
+用户授权替换现用资源时，在 `asset-replacements.json` 记录新文件的 SHA-256、字节数与来源，并同步 `asset-manifest.json`。`previous_sha256` 固定对应迁移记录中的原始哈希；历史迁移记录保持不变。`scripts/check_project.py` 同时校验替换来源、现用文件哈希与体积。2026-11-04 更新的语法、句子牌组分别为 1,627 和 2,705 张卡片。
+
 资源索引的 `path` 相对于项目根目录，`site_url` 相对于 `site/`。`referenced_by` 记录可静态识别的网页引用；为空不代表可以删除，部分文件由脚本动态选择，或属于原始研究资料和历史设计。
 
 历史素材来源、读书资料目录中的外部文件路径继续保留。当前运行和维护脚本不需要原桌面素材目录、临时剪贴板文件或旧版设计目录。

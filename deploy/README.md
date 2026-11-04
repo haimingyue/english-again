@@ -25,7 +25,7 @@ GitHub Actions 负责构建与验收，Nginx 直接提供 `.output/public` 中�
 3. 校验上传文件与本地 SHA-256 一致，并确认 `index.html`、`404.html`、`_nuxt/` 和所有页面资源齐全。
 4. 若已有当前版本，将旧版本 `_nuxt/` 中尚未存在的文件复制到新版本 `_nuxt/`，让已打开的页面仍能加载旧的哈希资源。
 5. 记录 `readlink /var/www/english-again/current`，用临时符号链接加 `mv -Tf` 原子切换 `current` 到新目录。仅更新静态文件不需要重启 Nginx。
-6. 检查首页、11 条路由、旧 `.html` 链接、404、音频和下载，失败则将 `current` 切回前一目录。
+6. 检查首页、13 条路由、旧 `.html` 链接、404、音频和下载，失败则将 `current` 切回前一目录。
 
 至少保留最近两版。配置更新时先备份，再执行 `nginx -t && systemctl reload nginx`。
 

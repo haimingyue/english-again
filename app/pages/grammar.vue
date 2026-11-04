@@ -88,7 +88,7 @@ definePageMeta({ alias: "/grammar.html" });
               class="[box-shadow:9px_14px_17px_#253a2c38] block h-auto max-w-[100%] [transform:rotate(-7deg)] w-[165px] min-[701px]:w-[150px] min-[961px]:w-[174px] min-[1201px]:w-[188px]"
               height="360"
               loading="eager"
-              src="/assets/images/books/essential-grammar-in-use.png"
+              src="/assets/images/books/essential-grammar-in-use.webp"
               width="255"
             />
             <span
@@ -486,7 +486,7 @@ definePageMeta({ alias: "/grammar.html" });
             <button
               @click="
                 openImage({
-                  src: '/assets/images/grammar/word-position.png',
+                  src: '/assets/images/grammar/word-position.webp',
                   alt: 'Anki 卡片正面：She is careful making conservative estimates. 提示词 about，配有估算费用的图片',
                   title: '一个词，放在哪里？',
                 })
@@ -500,7 +500,7 @@ definePageMeta({ alias: "/grammar.html" });
                 class="[aspect-ratio:1024/1440] block [filter:drop-shadow(0_8px_10px_#211b3618)] h-auto max-w-[100%] object-contain w-full"
                 height="1440"
                 loading="lazy"
-                src="/assets/images/grammar/word-position.png"
+                src="/assets/images/grammar/word-position.webp"
                 width="1024"
               />
               <span
@@ -530,7 +530,7 @@ definePageMeta({ alias: "/grammar.html" });
             <button
               @click="
                 openImage({
-                  src: '/assets/images/grammar/sentence-pattern.png',
+                  src: '/assets/images/grammar/sentence-pattern.webp',
                   alt: 'Anki 卡片正面：After the experiment, they concluded that the idea worked. 提示词 finishing，配有实验场景',
                   title: '给动作，找到位置。',
                 })
@@ -544,7 +544,7 @@ definePageMeta({ alias: "/grammar.html" });
                 class="[aspect-ratio:1024/1440] block [filter:drop-shadow(0_8px_10px_#211b3618)] h-auto max-w-[100%] object-contain w-full"
                 height="1440"
                 loading="lazy"
-                src="/assets/images/grammar/sentence-pattern.png"
+                src="/assets/images/grammar/sentence-pattern.webp"
                 width="1024"
               />
               <span
@@ -574,7 +574,7 @@ definePageMeta({ alias: "/grammar.html" });
             <button
               @click="
                 openImage({
-                  src: '/assets/images/grammar/spatial-relation.png',
+                  src: '/assets/images/grammar/spatial-relation.webp',
                   alt: 'Anki 卡片背面：A is next to B，next to 用红色标出，配有 A 至 E 五人的位置示意图',
                   title: '看见关系，记住表达。',
                 })
@@ -588,7 +588,7 @@ definePageMeta({ alias: "/grammar.html" });
                 class="[aspect-ratio:1024/1440] block [filter:drop-shadow(0_8px_10px_#211b3618)] h-auto max-w-[100%] object-contain w-full"
                 height="1440"
                 loading="lazy"
-                src="/assets/images/grammar/spatial-relation.png"
+                src="/assets/images/grammar/spatial-relation.webp"
                 width="1024"
               />
               <span
@@ -689,10 +689,10 @@ definePageMeta({ alias: "/grammar.html" });
               <a
                 class="btn btn-dark [-webkit-tap-highlight-color:transparent] items-center [background:var(--ink)] rounded-full text-white gap-x-[28px] inline-flex text-[14px] font-[650] justify-center min-h-[50px] pb-[12px] pl-[19px] pr-[19px] pt-[12px] gap-y-[28px] no-underline [transition:background_.18s,transform_.18s] min-[701px]:text-[13px] min-[961px]:text-[14px] min-[961px]:pl-[23px] min-[961px]:pr-[23px]"
                 download="英语自学指北-语法.apkg"
-                href="/assets/downloads/anki/grammar.apkg"
+                href="/assets/downloads/anki/grammar.apkg?v=20261104"
                 >下载语法卡组 <span aria-hidden="true">↓</span>
               </a>
-              <span class="[color:var(--muted)] text-[12px]">332 KB</span>
+              <span class="[color:var(--muted)] text-[12px]">375 KB</span>
             </div>
           </article>
           <article
@@ -719,7 +719,7 @@ definePageMeta({ alias: "/grammar.html" });
             >
               <strong
                 class="text-[62px] font-semibold tracking-[-.05em] leading-[1.1] min-[701px]:text-[60px] min-[961px]:text-[66px]"
-                >2,706</strong
+                >2,705</strong
               >
               <span class="[color:var(--muted)] text-[13px]">张卡片</span>
             </div>
@@ -729,10 +729,10 @@ definePageMeta({ alias: "/grammar.html" });
               <a
                 class="btn btn-dark [-webkit-tap-highlight-color:transparent] items-center [background:var(--ink)] rounded-full text-white gap-x-[28px] inline-flex text-[14px] font-[650] justify-center min-h-[50px] pb-[12px] pl-[19px] pr-[19px] pt-[12px] gap-y-[28px] no-underline [transition:background_.18s,transform_.18s] min-[701px]:text-[13px] min-[961px]:text-[14px] min-[961px]:pl-[23px] min-[961px]:pr-[23px]"
                 download="英语自学指北-句子.apkg"
-                href="/assets/downloads/anki/sentences.apkg"
+                href="/assets/downloads/anki/sentences.apkg?v=20261104"
                 >下载句子卡组 <span aria-hidden="true">↓</span>
               </a>
-              <span class="[color:var(--muted)] text-[12px]">526 KB</span>
+              <span class="[color:var(--muted)] text-[12px]">575 KB</span>
             </div>
           </article>
         </div>

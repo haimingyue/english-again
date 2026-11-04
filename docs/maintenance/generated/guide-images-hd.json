@@ -1,0 +1,494 @@
+{
+  "renderer": "Obsidian Excalidraw plugin 2.29.0 installed runtime (includes native strokeOptions support)",
+  "padding": 10,
+  "scales": [
+    2,
+    4
+  ],
+  "sourceRoot": "/Users/simoon/Documents/Obsidian Vault/Projects/01 英语自学指北/使用指南 2",
+  "scenes": [
+    {
+      "name": "anki-01-overview",
+      "source": "attachments/index 2026-10-15 20.46.32.excalidraw.md",
+      "sourceSha256": "7a795be8c30bcbd2bc2a3a04e0bb0a96a97aec58210e21cc1eac2bfd1e9df46b",
+      "elementCount": 10,
+      "elementsSha256": "c10f3bd1df9943f286d6fe168c801d310d3fdf4567221883c4a38068adcb9ed0",
+      "sources": [
+        {
+          "id": "905d89ded5b93ea22da9983626731adf83a8646d",
+          "file": "attachments/attachments/Pasted Image 20261015204713_895.png",
+          "sha256": "382ae539855112d9ec158cb2da8c8ed7f6412df018f9dd2a790ac127e224a8c9",
+          "bytes": 39471,
+          "dimensions": [
+            225,
+            225
+          ]
+        }
+      ],
+      "exports": [
+        {
+          "path": "site/assets/images/guides/anki-01-overview-2x.webp",
+          "scale": 2,
+          "dimensions": [
+            1192,
+            791
+          ],
+          "bytes": 82452,
+          "pngSha256": "6472900a2fecaf4916fb6567d8869c687f96b279f681c9c3ede60db3d7ea6d68",
+          "webpSha256": "f895843eb95cf51be252a358e4bc965fa65747e8e0815509ba0b8261b309250f",
+          "pixelEqual": true
+        },
+        {
+          "path": "site/assets/images/guides/anki-01-overview-hd.webp",
+          "scale": 4,
+          "dimensions": [
+            2385,
+            1581
+          ],
+          "bytes": 198052,
+          "pngSha256": "3ae5ab62dbbd9e5765da4eca40bc3efff88dcef0814aee802003960891faf1e0",
+          "webpSha256": "6ceae4269ce09bb95dcdc208f0dbe8fddc618e6f2baf05c71d2946c090cd0a47",
+          "pixelEqual": true
+        }
+      ]
+    },
+    {
+      "name": "anki-02-desktop",
+      "source": "attachments/index 2026-10-15 21.58.52.excalidraw.md",
+      "sourceSha256": "81362234e507f316d8e033365bc51269ecce15a06024f268589a895701db4940",
+      "elementCount": 5,
+      "elementsSha256": "c0bfb6ca06687c131460fcf3ff4fddc6d572dfe92decc48117f465fe8384226e",
+      "sources": [
+        {
+          "id": "fe13ef89aca320ea83c3d5f767c1c93a99db2162",
+          "file": "attachments/attachments/Pasted image 20261015215855.png",
+          "sha256": "288f36bf97a9424b1890422794bf150cf457e14bea360cfc96ed80e4e62e5724",
+          "bytes": 135870,
+          "dimensions": [
+            2088,
+            904
+          ]
+        },
+        {
+          "id": "e4411435826575a9060cf0efddc3733b3ec4a24a",
+          "file": "attachments/attachments/Pasted image 20261015220319.png",
+          "sha256": "add3b3b760dd138f1e10ee9ab448272865227ed99f6187341f499d45505db4f8",
+          "bytes": 33173,
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      ],
+      "exports": [
+        {
+          "path": "site/assets/images/guides/anki-02-desktop-2x.webp",
+          "scale": 2,
+          "dimensions": [
+            1192,
+            791
+          ],
+          "bytes": 47496,
+          "pngSha256": "82f4f285de51b39e1621fac6b6183773fd7dc0691f3cd4984c2f77baa238f6a0",
+          "webpSha256": "1e0182722e480f001ec60b48629cdd4bb0b1632de14e509c9cd6b9f856ca7524",
+          "pixelEqual": true
+        },
+        {
+          "path": "site/assets/images/guides/anki-02-desktop-hd.webp",
+          "scale": 4,
+          "dimensions": [
+            2385,
+            1581
+          ],
+          "bytes": 96212,
+          "pngSha256": "7d383577a81aa4d25e0643099e9410aa18dd1d59e9e0fa234aa3b42335f8c4bc",
+          "webpSha256": "7c361f4873560967228925ac244a84755aa43afcf09a5babdf273298f568a490",
+          "pixelEqual": true
+        }
+      ]
+    },
+    {
+      "name": "anki-03-mobile",
+      "source": "attachments/index 2026-10-15 22.01.43.excalidraw.md",
+      "sourceSha256": "a6f5fcc97126bba559c6646a8519ea6d9dd13c2f92474351f25a9c243c6736c0",
+      "elementCount": 16,
+      "elementsSha256": "b2edfa7841afb51751e761e6623ff41a8dc9c99bcf9f4d356c2318a377e360ad",
+      "sources": [
+        {
+          "id": "e4411435826575a9060cf0efddc3733b3ec4a24a",
+          "file": "attachments/attachments/Pasted image 20261015220319.png",
+          "sha256": "add3b3b760dd138f1e10ee9ab448272865227ed99f6187341f499d45505db4f8",
+          "bytes": 33173,
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "id": "1cacdf23dc5afd797223a2ee9f312f8ad26c5c24",
+          "file": "attachments/attachments/Pasted image 20261015220706.png",
+          "sha256": "2be067a3e1f9146543d609c19f5c538854390d697f4c3009b2510ad3b84db23a",
+          "bytes": 50623,
+          "dimensions": [
+            512,
+            512
+          ]
+        },
+        {
+          "id": "698747aa3ee304cb1248f8a122c759e32875ecfc",
+          "file": "attachments/attachments/b48d3e30eb24590917951fee6377274d.jpg",
+          "sha256": "301a7b812827cfced7ac5816fda12840f6db2f6d47b7559c2c3987eb5038eb82",
+          "bytes": 265914,
+          "dimensions": [
+            1280,
+            2781
+          ]
+        },
+        {
+          "id": "b14838b87e30c6ca4662e8bd7dcbe400123a10a7",
+          "file": "attachments/attachments/d5ce78a72f01a621640c05a91bed41b8.jpg",
+          "sha256": "23e8d33c4fd9aadf7584099f247755af88b8cb54acbb17e3dd74c06f82383d91",
+          "bytes": 186526,
+          "dimensions": [
+            972,
+            2161
+          ]
+        },
+        {
+          "id": "8ef7095b4c2d7b5c27821b54ee034b709416b95b",
+          "file": "attachments/attachments/Pasted image 20261015221708.png",
+          "sha256": "2adf5dc09769572091bacbe13f063858ef3a783f67d6db63b0e72c9fbda87eb0",
+          "bytes": 868888,
+          "dimensions": [
+            3238,
+            1698
+          ]
+        },
+        {
+          "id": "0ccc65bbef9f35a9206c40356118fd12a08e798a",
+          "file": "attachments/attachments/Pasted image 20261015221926.png",
+          "sha256": "24d4ef89b68100987b81630ffaee940f2aeeff5ca268a45d0a28edbe29626f19",
+          "bytes": 498721,
+          "dimensions": [
+            2382,
+            1506
+          ]
+        }
+      ],
+      "exports": [
+        {
+          "path": "site/assets/images/guides/anki-03-mobile-2x.webp",
+          "scale": 2,
+          "dimensions": [
+            1192,
+            791
+          ],
+          "bytes": 175638,
+          "pngSha256": "519e79d28c6bc95c8b809df89f74d7935c7d59ccd27e234ff481f1fb97f3eb01",
+          "webpSha256": "6fbfba0cbab8b95cd5f770eee96c9e367118fb3f288960679205e04013df4e4f",
+          "pixelEqual": true
+        },
+        {
+          "path": "site/assets/images/guides/anki-03-mobile-hd.webp",
+          "scale": 4,
+          "dimensions": [
+            2385,
+            1581
+          ],
+          "bytes": 497666,
+          "pngSha256": "da5f9dcdd62ee7c3110cf20d7f3eec9f58c6e1e0a5cac4ad1049b2472c879d37",
+          "webpSha256": "3926c11cd6cfb1c81f8c6fe2228c7fbe924162bb35e3e15f79b4e478f319a183",
+          "pixelEqual": true
+        }
+      ]
+    },
+    {
+      "name": "anki-04-import",
+      "source": "attachments/index 2026-10-15 22.43.03.excalidraw.md",
+      "sourceSha256": "5c4062e87def9fefc5d3ef21c5083a68a395d59a356888b0326798d1ea6d2e32",
+      "elementCount": 3,
+      "elementsSha256": "2a68397fd5eba5a486b8c672b07ced19820b0547e4d302d92b3886a3a2571701",
+      "sources": [
+        {
+          "id": "e023e086ede765fca819c61fda2d378d83e1741d",
+          "file": "attachments/attachments/Pasted image 20261015224828.png",
+          "sha256": "ef4b90696ff16ae9a62095194d9305bd3887b00fa0ab58cae405fca26897fa00",
+          "bytes": 2529893,
+          "dimensions": [
+            2954,
+            1346
+          ]
+        }
+      ],
+      "exports": [
+        {
+          "path": "site/assets/images/guides/anki-04-import-2x.webp",
+          "scale": 2,
+          "dimensions": [
+            1192,
+            791
+          ],
+          "bytes": 234382,
+          "pngSha256": "3f6781e2e6c7606e1c9a66cc443a37b5c436a1b5e0f582ec62ca3860ef41dda0",
+          "webpSha256": "e8b629e5cb922d4249bca50a80a5cc16359af5e19af5e1851aaf4bd50df20bdb",
+          "pixelEqual": true
+        },
+        {
+          "path": "site/assets/images/guides/anki-04-import-hd.webp",
+          "scale": 4,
+          "dimensions": [
+            2385,
+            1581
+          ],
+          "bytes": 754546,
+          "pngSha256": "e2841614b9fba4a80e7d924601c469193bab30f5b4b7c2c1354f5f18dd070c84",
+          "webpSha256": "ecd5e447d8b36ce8f29fda69edae908c49f6a1dc3aaf8834b1c426ee966e7651",
+          "pixelEqual": true
+        }
+      ]
+    },
+    {
+      "name": "anki-05-sync-login",
+      "source": "attachments/index 2026-10-15 22.28.56.excalidraw.md",
+      "sourceSha256": "692fa097fc93df483aaf94ab96a05c3cfa2aca3769981dddd45a1132021eaa3f",
+      "elementCount": 6,
+      "elementsSha256": "311277017eeb7f4b7fb7ccb6135b6b3626dd17946f9df4396a136ce696656044",
+      "sources": [
+        {
+          "id": "4144f4a7a4ea1c52e993730216636642fcb02c91",
+          "file": "attachments/attachments/Pasted image 20261015222937.png",
+          "sha256": "e50aba9d21b6162b18fa47a3cb7c6ce535d2382c87512cf1839725b5d5d0b990",
+          "bytes": 185282,
+          "dimensions": [
+            1334,
+            1658
+          ]
+        },
+        {
+          "id": "70f63647774853143dec0f74dfc8b236db107c83",
+          "file": "attachments/attachments/Pasted image 20261015223041.png",
+          "sha256": "5360ccfe7a216399c8472f6f8df8b768ebcba53f5e69c3913d215b7acb5f5e1a",
+          "bytes": 85686,
+          "dimensions": [
+            1334,
+            1196
+          ]
+        },
+        {
+          "id": "188831ec883370173323be23443f54eb4fdb5bd9",
+          "file": "attachments/attachments/Pasted image 20261015223052.png",
+          "sha256": "63c869b8b47405cc0c637bbc4b9173c9bd262275e7c42b522cfab9ab5d5ee1a6",
+          "bytes": 51052,
+          "dimensions": [
+            840,
+            286
+          ]
+        },
+        {
+          "id": "3dd17611fffedd77d3de627fc4e85ffcdd581587",
+          "file": "attachments/attachments/Pasted image 20261015223311.png",
+          "sha256": "ac4d558bb93e560a4036333d457c43bffdb671ede0a23f5af5a48e5dfdecae3f",
+          "bytes": 39338,
+          "dimensions": [
+            538,
+            470
+          ]
+        }
+      ],
+      "exports": [
+        {
+          "path": "site/assets/images/guides/anki-05-sync-login-2x.webp",
+          "scale": 2,
+          "dimensions": [
+            1192,
+            791
+          ],
+          "bytes": 46854,
+          "pngSha256": "2c47af2d4f556fc91604c7cb7c8bd379750f24369f79291ad0bdc8441b229d04",
+          "webpSha256": "69e992e22a5679d0dac1ee1e1ad83143be01bbfbf582927c4a8eaeb687744196",
+          "pixelEqual": true
+        },
+        {
+          "path": "site/assets/images/guides/anki-05-sync-login-hd.webp",
+          "scale": 4,
+          "dimensions": [
+            2385,
+            1581
+          ],
+          "bytes": 126194,
+          "pngSha256": "a9dda9a9f97323b33997f1cea157740482ae4d63d661a78b79f42b2bd28d884d",
+          "webpSha256": "f845c58cb9dfc47d5c8351c6e5bc4d02abcd3a0f084fa2a48240dea2e76d3ecc",
+          "pixelEqual": true
+        }
+      ]
+    },
+    {
+      "name": "anki-06-register",
+      "source": "attachments/index 2026-10-15 22.36.56.excalidraw.md",
+      "sourceSha256": "9d6f9956add1bdf8b1573fc4abb9b97e23b59df049cce27f87bbb045aedc5162",
+      "elementCount": 4,
+      "elementsSha256": "43df2914e51d3ed240fd1b6a3eb9b9ffe03c53563fb865a926c066f90ae972f9",
+      "sources": [
+        {
+          "id": "3c96f7deaff4ca02b9ba1c8e4d54308971b876b6",
+          "file": "attachments/Pasted image 20261015223431.png",
+          "sha256": "43aaa0c57c5c970e436d72ff446c90605b70eb540493e73a4b80a77e84106551",
+          "bytes": 219151,
+          "dimensions": [
+            2286,
+            1746
+          ]
+        }
+      ],
+      "exports": [
+        {
+          "path": "site/assets/images/guides/anki-06-register-2x.webp",
+          "scale": 2,
+          "dimensions": [
+            1192,
+            791
+          ],
+          "bytes": 40440,
+          "pngSha256": "76e70ba963b9a6946e6bc892b4d71b7c7c27c7e2ed0c998d0ad5d7bdbe95ba9d",
+          "webpSha256": "7fba2affa9278da12bff5cccf050ff76fbca624092c9f96098789a8cda65a14e",
+          "pixelEqual": true
+        },
+        {
+          "path": "site/assets/images/guides/anki-06-register-hd.webp",
+          "scale": 4,
+          "dimensions": [
+            2385,
+            1581
+          ],
+          "bytes": 89208,
+          "pngSha256": "c504744684edec66902f672c2e1ff3b6dbd2118f8aff9e03e267079254c77a33",
+          "webpSha256": "222217c2a713b8321c8e413ee49dd058a8bf2059a03373e61995e17c0386087c",
+          "pixelEqual": true
+        }
+      ]
+    },
+    {
+      "name": "anki-07-sync-flow",
+      "source": "attachments/index 2026-10-15 22.37.08.excalidraw.md",
+      "sourceSha256": "efff697d62384607b5ba266f163e651933adb57c7c88bd80bb2e6e171ab33be6",
+      "elementCount": 20,
+      "elementsSha256": "cd3478e7efb8b0a9127c545feff658ee6f2f93c436688db7867766319c3bd9ae",
+      "sources": [
+        {
+          "id": "905d89ded5b93ea22da9983626731adf83a8646d",
+          "file": "attachments/attachments/Pasted Image 20261015204713_895.png",
+          "sha256": "382ae539855112d9ec158cb2da8c8ed7f6412df018f9dd2a790ac127e224a8c9",
+          "bytes": 39471,
+          "dimensions": [
+            225,
+            225
+          ]
+        },
+        {
+          "id": "90e576d9fbd74e3a8e27317b5b02aabe5d53cd6c",
+          "file": "attachments/attachments/Pasted image 20261015223903.png",
+          "sha256": "11ba8ada1909f8ef31fedd76303c5c905f565ae321439e3e83fec879aa8a444f",
+          "bytes": 161402,
+          "dimensions": [
+            669,
+            457
+          ]
+        },
+        {
+          "id": "60bbb3cb5261d1332ac0f1cccc44b377cf900ef9",
+          "file": "attachments/attachments/Pasted image 20261015224010.png",
+          "sha256": "706ef827626adb1043efbb484f4a1cf6debda80ca98a604156f8d4900c68cc14",
+          "bytes": 208149,
+          "dimensions": [
+            512,
+            512
+          ]
+        }
+      ],
+      "exports": [
+        {
+          "path": "site/assets/images/guides/anki-07-sync-flow-2x.webp",
+          "scale": 2,
+          "dimensions": [
+            1192,
+            791
+          ],
+          "bytes": 83668,
+          "pngSha256": "1600da78804239118d05f2addc629072d313909c9854e2ca21a62b36bb326d82",
+          "webpSha256": "092eddfafb3f0bfdad4d736d5d6b771fc17ee6a8827fa83f66c4c9e664922e3d",
+          "pixelEqual": true
+        },
+        {
+          "path": "site/assets/images/guides/anki-07-sync-flow-hd.webp",
+          "scale": 4,
+          "dimensions": [
+            2385,
+            1581
+          ],
+          "bytes": 234138,
+          "pngSha256": "7234a9b099eb8d907d099dc975bbe7bd25eab968e2d5b12187becccd19a3ef2c",
+          "webpSha256": "6e4f4bcd80523cf57d8a397958f5514bc554c0ba29ae040736bf77c2994e8725",
+          "pixelEqual": true
+        }
+      ]
+    },
+    {
+      "name": "anki-08-suspend",
+      "source": "attachments/index 2026-10-15 22.25.10.excalidraw.md",
+      "sourceSha256": "ca78aa9ee76bb29ce5de083a889170d1e9f316b5a6538532b361556ca647dc9f",
+      "elementCount": 4,
+      "elementsSha256": "e689b0d3673a5bae7f67ceca43061c8b13dca85adb003229586593b9d2437c5b",
+      "sources": [
+        {
+          "id": "daba8ba3314fa3745825cfdcb7ce24d59d1f64c6",
+          "file": "attachments/attachments/Pasted image 20261015222516.png",
+          "sha256": "6968ae91249f0913051ae3372f0f25576d459bfee461a1ff237c069ad341fa04",
+          "bytes": 179634,
+          "dimensions": [
+            1334,
+            1658
+          ]
+        },
+        {
+          "id": "536e617bdb1ea247cc4b8736ef820f4930a9b8f9",
+          "file": "attachments/attachments/Pasted image 20261015222734.png",
+          "sha256": "dc949bf91041031d0e9d1c7d93ee75fc7aec768baaf727b3a58c0bd73ba0fe47",
+          "bytes": 1910587,
+          "dimensions": [
+            3440,
+            1659
+          ]
+        }
+      ],
+      "exports": [
+        {
+          "path": "site/assets/images/guides/anki-08-suspend-2x.webp",
+          "scale": 2,
+          "dimensions": [
+            1192,
+            791
+          ],
+          "bytes": 133130,
+          "pngSha256": "7de6b84e818ffa82193fadb2cae2d01da0dab2cbd26baa0d7bc8189e2aec5166",
+          "webpSha256": "3a6d04a0455a7f12082d45a857c5ed751c71dc94146a60f0b2fa9acff32a8b88",
+          "pixelEqual": true
+        },
+        {
+          "path": "site/assets/images/guides/anki-08-suspend-hd.webp",
+          "scale": 4,
+          "dimensions": [
+            2385,
+            1581
+          ],
+          "bytes": 387406,
+          "pngSha256": "d2b9186514ab94d6dbbfba0bbddeed12a3ac9bdfac1ff97579ec599e681c99eb",
+          "webpSha256": "588ceae027fa026faaa7c91ed87b294325bc7902b5eef48ce7d2e842d9802974",
+          "pixelEqual": true
+        }
+      ]
+    }
+  ],
+  "rendererSha256": "c089d6e927fac4fcefe22a2dc24c57ceb379e6ed3feaaa19d8da65737d51241c",
+  "createdAt": "2026-10-18T19:43:29.600936+08:00",
+  "conversion": "Pillow lossless WebP, RGBA pixel equality verified against native PNG exports"
+}

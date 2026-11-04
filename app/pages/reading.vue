@@ -73,7 +73,7 @@ definePageMeta({ alias: "/reading.html" });
               class="[box-shadow:6px_6px_0_#173f34] block h-[122px] max-w-[100%] [transform:rotate(-6deg)] w-auto min-[701px]:[box-shadow:12px_12px_0_#173f34] min-[701px]:h-[220px] min-[961px]:h-[265px]"
               height="578"
               loading="eager"
-              src="/assets/images/reading/reading-book.png"
+              src="/assets/images/reading/reading-book.webp"
               width="400"
             />
             <span
@@ -364,7 +364,7 @@ definePageMeta({ alias: "/reading.html" });
                   alt="一本英语阅读方法的绝版好书 ｜ 8天，教你像读中文一样读英文 ｜ 开篇 · 视频封面"
                   class="block h-full max-w-[100%] object-cover [transition:transform_.25s] w-full"
                   decoding="async"
-                  fallback="/assets/images/reading/reading-book.png"
+                  fallback="/assets/images/reading/reading-book.webp"
                   loading="lazy"
                   referrerpolicy="no-referrer"
                   src="https://i1.hdslb.com/bfs/archive/41c61babbad637dd9dfc044c812c9cab36ebc394.jpg"
@@ -411,7 +411,7 @@ definePageMeta({ alias: "/reading.html" });
                   alt="为什么读中文可以一目十行，而英语不可以？｜ 8 天教你像读中文一样读英文 · 视频封面"
                   class="block h-full max-w-[100%] object-cover [transition:transform_.25s] w-full"
                   decoding="async"
-                  fallback="/assets/images/reading/reading-book.png"
+                  fallback="/assets/images/reading/reading-book.webp"
                   loading="lazy"
                   referrerpolicy="no-referrer"
                   src="https://i0.hdslb.com/bfs/archive/2ab78c0b18961920b1c80f9c0f566ec5dd016c74.jpg"
@@ -458,7 +458,7 @@ definePageMeta({ alias: "/reading.html" });
                   alt="掌握怎样根据“语境”“猜词”的技能，英文阅读能力立刻提升！！！ · 视频封面"
                   class="block h-full max-w-[100%] object-cover [transition:transform_.25s] w-full"
                   decoding="async"
-                  fallback="/assets/images/reading/reading-book.png"
+                  fallback="/assets/images/reading/reading-book.webp"
                   loading="lazy"
                   referrerpolicy="no-referrer"
                   src="https://i1.hdslb.com/bfs/archive/e2f8cb85d1c593b12681dd4f4381552cc2681f59.jpg"
@@ -504,7 +504,7 @@ definePageMeta({ alias: "/reading.html" });
                   alt="英语阅读的三大核心技巧：断句、加词、接受语序 · 视频封面"
                   class="block h-full max-w-[100%] object-cover [transition:transform_.25s] w-full"
                   decoding="async"
-                  fallback="/assets/images/reading/reading-book.png"
+                  fallback="/assets/images/reading/reading-book.webp"
                   loading="lazy"
                   referrerpolicy="no-referrer"
                   src="https://i2.hdslb.com/bfs/archive/c3584689ab019cc7714ed044403997e6ce839e11.jpg"
@@ -548,7 +548,7 @@ definePageMeta({ alias: "/reading.html" });
         <div>
           <span
             class="ongoing-tag [border:1px_solid_#91ac8c] rounded-[30px] [color:#e6efdf] inline-block text-[11px] pb-[6px] pl-[12px] pr-[12px] pt-[6px]"
-            >连载中 · 已收录 7 集</span
+            >连载中 · 已收录 9 集</span
           >
           <div
             class="prince-en-title [color:#f4e3a2] [font-family:Georgia,serif] text-[59px] [font-style:normal] tracking-[-.04em] leading-[1.02] mb-[22px] ml-0 mr-0 mt-[22px] min-[701px]:text-[58px] min-[701px]:mb-[27px] min-[701px]:mt-[25px] min-[961px]:text-[66px]"
@@ -574,7 +574,7 @@ definePageMeta({ alias: "/reading.html" });
           </NuxtLink>
         </div>
         <NuxtLink
-          aria-label="查看小王子共读专栏的全部 7 集"
+          aria-label="查看小王子共读专栏的全部 9 集"
           class="prince-feature [-webkit-tap-highlight-color:transparent] [background:var(--paper)] [box-shadow:7px_7px_0_#173f34] [color:var(--ink)] block mr-[7px] no-underline [transform:rotate(1deg)] [transition:transform_.2s] min-[701px]:[box-shadow:12px_12px_0_#173f34] min-[701px]:mr-[unset] min-[701px]:[transform:rotate(2deg)]"
           to="/little-prince"
         >
@@ -589,7 +589,7 @@ definePageMeta({ alias: "/reading.html" });
           <div
             class="gap-x-[11px] flex flex-col pb-[22px] pl-[22px] pr-[22px] pt-[22px] gap-y-[11px] min-[701px]:gap-x-[14px] min-[701px]:pb-[23px] min-[701px]:pl-[23px] min-[701px]:pr-[23px] min-[701px]:pt-[23px] min-[701px]:gap-y-[14px] min-[961px]:pb-[28px] min-[961px]:pl-[28px] min-[961px]:pr-[28px] min-[961px]:pt-[28px]"
           >
-            <span class="text-[11px]">开篇导读 + DAY 01—06</span>
+            <span class="text-[11px]">开篇导读 + DAY 01—08</span>
             <strong
               class="text-[24px] min-[701px]:text-[23px] min-[961px]:text-[27px]"
               >从第一段，到下一段。</strong
@@ -613,7 +613,7 @@ definePageMeta({ alias: "/reading.html" });
             height="101"
             width="70"
             loading="lazy"
-            src="/assets/images/reading/reading-book.png"
+            src="/assets/images/reading/reading-book.webp"
           />
           <div>
             <h2 class="m-0 text-2xl font-bold">方法来源</h2>

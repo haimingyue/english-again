@@ -79,7 +79,7 @@ export const phoneticsContent = {
         ["听与模仿", "回到音频，比较自己的发音"],
       ],
       tip: "图解提供线索；具体音质需要结合音频一起辨别。",
-      image: "articulation-card.png",
+      image: "articulation-card.webp",
       alt: "用户自制发音图解卡片：ɪ 的嘴形示范与中文元音舌位图",
     },
     {
@@ -93,7 +93,7 @@ export const phoneticsContent = {
         ["核对反馈", "重听目标词，再比较易混发音"],
       ],
       tip: "截图展示已翻面的状态。实际练习时，先独立作答再看答案。",
-      image: "word-pair-card.png",
+      image: "word-pair-card.webp",
       alt: "用户自制单词听辨卡片：back 与 pack 配对，背面答案为 pack",
     },
     {
@@ -107,7 +107,7 @@ export const phoneticsContent = {
         ["再试一次", "核对后重听，把声音与符号联系起来"],
       ],
       tip: "听辨和跟读可以交替进行；换到真实单词里，再检查一次。",
-      image: "sound-pair-card.png",
+      image: "sound-pair-card.webp",
       alt: "用户自制音素听辨卡片：f 与 v 配对，背面答案为 f",
     },
   ],

@@ -80,7 +80,7 @@ definePageMeta({ alias: "/tools.html" });
           <p
             class="tool-hero-note [color:#d1e0d1] text-[10px] mb-0 ml-0 mr-0 mt-[20px] min-[601px]:text-[11px] min-[601px]:mt-[24px]"
           >
-            Windows x64 / macOS · 0.4.19 现已开放下载
+            Windows x64 / macOS · 0.4.27 现已开放下载
           </p>
         </div>
         <div
@@ -448,10 +448,10 @@ definePageMeta({ alias: "/tools.html" });
             <p
               class="[color:var(--muted)] text-[12px] leading-[1.9] mb-0 ml-0 mr-0 mt-0 pb-[22px] min-[601px]:text-[13px]"
             >
-              可以。0.4.19 版本已提供 Windows 64 位（x64）、macOS Apple
-              芯片（ARM64）与 macOS Intel
-              芯片（x64）安装包，请在上方选择与你的电脑匹配的版本。不提供
-              Windows 32 位安装包。
+              可以。Windows 64 位（x64）、macOS Apple 芯片（ARM64）与
+              Intel 芯片（x64）均提供 0.4.27
+              版本，请在上方选择与你的电脑匹配的安装包。不提供 Windows 32
+              位安装包。
             </p>
           </details>
           <details class="[border-bottom:1px_solid_#c9d0bc]">

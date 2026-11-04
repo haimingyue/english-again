@@ -2,11 +2,12 @@
   "date": "2026-10-06",
   "site_pages": 11,
   "archive_pages": 9,
-  "referenced_files": 277,
-  "preserved_original_media_entries": 296,
-  "unique_media_files": 237,
-  "media_bytes": 412808447,
+  "referenced_files": 368,
+  "preserved_original_media_entries": 292,
+  "replaced_media_entries": 4,
+  "unique_media_files": 328,
+  "media_bytes": 447133951,
   "duplicates": [],
   "errors": [],
-  "scope": "Local file URLs, anchors, literal JS asset paths, module imports, JSON syntax, original media hashes. External services and template-generated paths require separate checks."
+  "scope": "Local file URLs, anchors, literal JS asset paths, module imports, JSON syntax, original media and recorded replacement hashes. External services and template-generated paths require separate checks."
 }

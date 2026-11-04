@@ -39,6 +39,9 @@
               { to: '/about', text: '项目介绍' },
               { to: '/about#sources', text: '学习依据' },
               { to: '/tools', text: '自研工具' },
+              { to: '/guides', text: '使用指南' },
+              { to: '/resources', text: '资源下载' },
+              { to: '/#community', text: '学习交流群' },
             ]"
             :key="link.to"
             :to="link.to"

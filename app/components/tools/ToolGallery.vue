@@ -23,7 +23,7 @@ function move(direction: number) {
   >
     <div>
       <img
-        :src="`/assets/images/tools/originals/${key}.png`"
+        :src="`/assets/images/tools/originals/${key}.webp`"
         :alt="shot.alt"
         class="mx-auto max-h-[68dvh] w-full object-contain"
       />

@@ -27,8 +27,10 @@ jobs:
       - name: Install and test analytics backend
         run: |
           python -m venv .venv
-          .venv/bin/pip install -r backend/requirements.txt
+          .venv/bin/pip install -r backend/requirements.txt -r scripts/requirements.txt
           npm run test:analytics
+      - name: Verify optimized images and source integrity
+        run: .venv/bin/python scripts/optimize_pngs.py --check
       - run: npm run check
       - run: python3 scripts/check_project.py
       - run: npm run generate

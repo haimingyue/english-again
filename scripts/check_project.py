@@ -102,7 +102,8 @@ def main():
             errors.append(f'{p.relative_to(ROOT)}: invalid JSON: {exc}')
 
     migration = json.loads((ROOT/'docs/maintenance/file-migration-2026-10-06.json').read_text())
-    preserved, origins, hashes = 0, defaultdict(list), {}
+    replacements = json.loads((ROOT/'resources/asset-replacements.json').read_text())['replacements']
+    preserved, replaced, origins, hashes = 0, 0, defaultdict(list), {}
     for item in migration['files']:
         if not item['destination']:
             continue
@@ -112,9 +113,19 @@ def main():
             errors.append(f'Migration destination missing: {item["destination"]}')
         elif Path(item['path']).suffix in MEDIA:
             actual = hashes.setdefault(item['destination'],digest(target))
-            if actual != item['sha256']:
+            replacement = replacements.get(item['destination'])
+            expected = item['sha256']
+            if replacement:
+                if item['sha256'] != replacement['previous_sha256']:
+                    errors.append(f'Replacement origin mismatch: {item["destination"]}')
+                if target.stat().st_size != replacement['bytes']:
+                    errors.append(f'Replacement size mismatch: {item["destination"]}')
+                expected = replacement['sha256']
+                replaced += 1
+            else:
+                preserved += 1
+            if actual != expected:
                 errors.append(f'Media bytes changed: {item["path"]} -> {item["destination"]}')
-            preserved += 1
     media = []
     for p in sorted(source_files()):
         # Design aliases may point to a canonical public asset; count it once.
@@ -128,7 +139,7 @@ def main():
     duplicates = [v for v in duplicate_groups.values() if len(v)>1]
     if duplicates:
         errors.append(f'Duplicate media: {duplicates}')
-    report = {'date':'2026-10-06','site_pages':sum(p.is_relative_to(SITE) for p in pages),'archive_pages':sum(not p.is_relative_to(SITE) for p in pages),'referenced_files':len(references),'preserved_original_media_entries':preserved,'unique_media_files':len(media),'media_bytes':sum(x['bytes'] for x in media),'duplicates':duplicates,'errors':sorted(set(errors)),'scope':'Local file URLs, anchors, literal JS asset paths, module imports, JSON syntax, original media hashes. External services and template-generated paths require separate checks.'}
+    report = {'date':'2026-10-06','site_pages':sum(p.is_relative_to(SITE) for p in pages),'archive_pages':sum(not p.is_relative_to(SITE) for p in pages),'referenced_files':len(references),'preserved_original_media_entries':preserved,'replaced_media_entries':replaced,'unique_media_files':len(media),'media_bytes':sum(x['bytes'] for x in media),'duplicates':duplicates,'errors':sorted(set(errors)),'scope':'Local file URLs, anchors, literal JS asset paths, module imports, JSON syntax, original media and recorded replacement hashes. External services and template-generated paths require separate checks.'}
     if args.write_manifest:
         (ROOT/'resources/asset-manifest.json').write_text(json.dumps({'date':'2026-10-06','path_base':'project root; site_url is relative to site/','assets':media},ensure_ascii=False,indent=2)+'\n')
     (ROOT/'docs/maintenance/verification-2026-10-06.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')

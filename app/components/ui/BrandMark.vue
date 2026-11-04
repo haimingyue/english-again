@@ -4,7 +4,7 @@
     class="inline-flex shrink-0 items-center justify-center rounded-full bg-paper"
   >
     <img
-      src="/brand/compass-logo.png"
+      src="/brand/compass-logo.webp"
       alt=""
       width="1254"
       height="1254"

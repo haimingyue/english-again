@@ -26,7 +26,7 @@ definePageMeta({ alias: "/index.html" });
         alt="一位学习者在窗边阅读英文并做笔记，学习场景示意图"
         class="hero-photo block h-full [inset:0] max-w-[100%] object-cover [object-position:64%_center] absolute w-full z-[-2] min-[601px]:[object-position:62%_center] min-[901px]:[object-position:center_center]"
         loading="eager"
-        src="/assets/images/home/learning-scene.png"
+        src="/assets/images/home/learning-scene.webp"
       />
       <div
         class="wrap hero-content mb-auto ml-auto mr-auto mt-auto pb-[56px] pt-[60px] w-[calc(100%_-_40px)] min-[601px]:pb-[68px] min-[601px]:pt-[66px] min-[601px]:w-[calc(100%_-_64px)] min-[1101px]:w-[min(1280px,calc(100%_-_112px))]"
@@ -529,6 +529,8 @@ definePageMeta({ alias: "/index.html" });
         </div>
       </div>
     </section>
+    <HomeResources />
+    <CommunityGroups />
     <section
       aria-labelledby="cta-title"
       class="final-cta [background:var(--yellow)] pb-[54px] pl-[20px] pr-[20px] pt-[54px] text-center min-[601px]:pb-[72px] min-[601px]:pl-[24px] min-[601px]:pr-[24px] min-[601px]:pt-[72px]"

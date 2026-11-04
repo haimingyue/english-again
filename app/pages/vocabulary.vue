@@ -76,7 +76,7 @@ definePageMeta({ alias: "/vocabulary.html" });
             class="[aspect-ratio:3/2] block h-auto max-w-[100%] object-contain w-full"
             height="1024"
             loading="eager"
-            src="/assets/images/vocabulary/word-library.png"
+            src="/assets/images/vocabulary/word-library.webp"
             width="1536"
           />
           <figcaption
@@ -371,7 +371,7 @@ definePageMeta({ alias: "/vocabulary.html" });
               <button
                 @click="
                   openImage({
-                    src: '/assets/images/vocabulary/reading-send.png',
+                    src: '/assets/images/vocabulary/reading-send.webp',
                     alt: '小王子阅读工具中 understand 的查词弹窗，底部左侧橙色按钮为发送到 COCA，旁边为发送到生词本',
                     title: '阅读中 · 发送 understand 到 COCA',
                     caption:
@@ -387,7 +387,7 @@ definePageMeta({ alias: "/vocabulary.html" });
                   class="[aspect-ratio:8/5] block h-auto max-w-[100%] object-contain w-full"
                   height="1800"
                   loading="lazy"
-                  src="/assets/images/vocabulary/reading-send.png"
+                  src="/assets/images/vocabulary/reading-send.webp"
                   width="2880"
                 />
                 <span
@@ -419,7 +419,7 @@ definePageMeta({ alias: "/vocabulary.html" });
               <button
                 @click="
                   openImage({
-                    src: '/assets/images/vocabulary/viewing-send.png',
+                    src: '/assets/images/vocabulary/viewing-send.webp',
                     alt: '影视画面上 gracefully 的查词弹窗，底部左侧橙色按钮为发送到 COCA，保留 Age gracefully, like you 的对白语境',
                     title: '观影中 · 发送 gracefully 到 COCA',
                     caption:
@@ -435,7 +435,7 @@ definePageMeta({ alias: "/vocabulary.html" });
                   class="[aspect-ratio:8/5] block h-auto max-w-[100%] object-contain w-full"
                   height="1800"
                   loading="lazy"
-                  src="/assets/images/vocabulary/viewing-send.png"
+                  src="/assets/images/vocabulary/viewing-send.webp"
                   width="2880"
                 />
                 <span

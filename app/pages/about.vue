@@ -84,7 +84,7 @@ definePageMeta({ alias: "/about.html" });
               class="hero-book [box-shadow:9px_12px_20px_#17282030] block h-auto max-w-[100%] [transform:rotate(-7deg)] w-[164px] min-[701px]:w-[155px] min-[961px]:w-[185px] min-[1201px]:w-[205px] min-[1600px]:w-[220px]"
               height="539"
               loading="eager"
-              src="/assets/images/books/make-it-stick.png"
+              src="/assets/images/books/make-it-stick.webp"
               width="371"
             />
             <span
@@ -434,7 +434,7 @@ definePageMeta({ alias: "/about.html" });
           <button
             @click="
               openImage({
-                src: '/assets/images/about/anki-calendar.png',
+                src: '/assets/images/about/anki-calendar.webp',
                 alt: '个人 Anki 统计中的 2026 年学习日历，蓝色方格记录不同日期的复习情况',
                 title: 'Anki 学习日历与复习记录',
               })
@@ -447,7 +447,7 @@ definePageMeta({ alias: "/about.html" });
               alt="个人 Anki 统计中的 2026 年学习日历，蓝色方格记录不同日期的复习情况"
               class="block ml-[-15.5%] mt-[-23%] max-w-[none] w-[131%]"
               loading="lazy"
-              src="/assets/images/about/anki-calendar.png"
+              src="/assets/images/about/anki-calendar.webp"
             />
             <span
               class="[background:var(--paper)] [border:1px_solid_var(--line)] rounded-[20px] bottom-[8px] [box-shadow:0_2px_8px_#00000009] text-[10px] pb-[7px] pl-[12px] pr-[12px] pt-[7px] absolute right-[8px]"
@@ -467,7 +467,7 @@ definePageMeta({ alias: "/about.html" });
           <button
             @click="
               openImage({
-                src: '/assets/images/about/anki-schedule.png',
+                src: '/assets/images/about/anki-schedule.webp',
                 alt: 'Anki 未来到期复习安排',
                 title: 'Anki 未来到期复习安排',
               })
@@ -520,7 +520,7 @@ definePageMeta({ alias: "/about.html" });
                 alt="Make It Stick 书封"
                 class="[box-shadow:7px_7px_12px_#17282020] block h-[180px] max-w-[70%] object-contain [transform:rotate(-4deg)] w-auto min-[701px]:h-[175px] min-[961px]:h-[202px]"
                 loading="lazy"
-                src="/assets/images/books/make-it-stick.png"
+                src="/assets/images/books/make-it-stick.webp"
               />
             </div>
             <span
@@ -551,7 +551,7 @@ definePageMeta({ alias: "/about.html" });
                 alt="Gabriel Wyner 的 Fluent Forever 书封"
                 class="[box-shadow:7px_7px_12px_#17282020] block h-[180px] max-w-[70%] object-contain [transform:rotate(-4deg)] w-auto min-[701px]:h-[175px] min-[961px]:h-[202px]"
                 loading="lazy"
-                src="/assets/images/books/fluent-forever.png"
+                src="/assets/images/books/fluent-forever.webp"
               />
             </div>
             <span
@@ -582,7 +582,7 @@ definePageMeta({ alias: "/about.html" });
                 alt="郝海龙《英语自学手册》封面，橙色背景，英文副标题 A Self-Study Guide to English"
                 class="[box-shadow:7px_7px_12px_#17282020] block h-[180px] max-w-[70%] object-contain [transform:rotate(-4deg)] w-auto min-[701px]:h-[175px] min-[961px]:h-[202px]"
                 loading="lazy"
-                src="/assets/images/books/english-self-study-guide.png"
+                src="/assets/images/books/english-self-study-guide.webp"
               />
             </div>
             <span

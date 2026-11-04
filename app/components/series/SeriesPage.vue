@@ -125,6 +125,23 @@ watch(() => props.seriesId, reset);
         </div>
       </div>
     </section>
+    <div
+      v-if="seriesId === 'weekly'"
+      class="border-b border-[#cfc4e1] bg-[#e9e3f2]"
+    >
+      <div
+        class="page-shell flex flex-wrap items-center justify-between gap-x-6 gap-y-2 py-4"
+      >
+        <p class="text-sm text-[#584075]">
+          边看专栏，边在自己的 Obsidian 笔记库里学习与记录。
+        </p>
+        <NuxtLink
+          to="/resources#obsidian"
+          class="action-link text-sm text-[#584075]"
+          >下载专栏笔记库 ↗</NuxtLink
+        >
+      </div>
+    </div>
     <nav
       aria-label="选择视频专栏"
       class="series-navigation [background:var(--sage)] [border-bottom:1px_solid_#d4dbcb]"
@@ -223,7 +240,7 @@ watch(() => props.seriesId, reset);
           </span>
           <span
             class="series-count [border:0] rounded-[20px] [color:#5c6b56] inline-block text-[10px] mb-0 ml-auto mr-0 mt-0 pb-[3px] pl-[6px] pr-[6px] pt-[3px] whitespace-nowrap min-[601px]:[border:1px_solid_#b8c3b0] min-[601px]:[color:unset] min-[601px]:[display:unset] min-[601px]:mb-[unset] min-[601px]:mr-[unset] min-[601px]:mt-[unset] min-[851px]:text-[9px] min-[1101px]:text-[10px] min-[1101px]:pb-[4px] min-[1101px]:pl-[9px] min-[1101px]:pr-[9px] min-[1101px]:pt-[4px]"
-            >7 集</span
+            >{{ videoSeries.prince.videos.length }} 集</span
           >
         </NuxtLink>
       </div>
