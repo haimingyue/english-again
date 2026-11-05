@@ -258,16 +258,16 @@ test("tools tabs, gallery arrows and published downloads", async ({ page }) => {
   await page.keyboard.press("Escape");
   const downloads = {
     "win-x64": {
-      url: "https://books-club.cn/desktop-updates/windows/x64/English-Club-0.4.27-x64.exe",
-      version: "0.4.27",
+      url: "https://download.books-club.cn/desktop-updates/windows/x64/English-Club-0.4.34-x64.exe",
+      version: "0.4.34",
     },
     "mac-arm64": {
-      url: "https://books-club.cn/desktop-updates/macos/English-Club-0.4.27-arm64.dmg",
-      version: "0.4.27",
+      url: "https://download.books-club.cn/desktop-updates/macos/English-Club-0.4.34-arm64.dmg",
+      version: "0.4.34",
     },
     "mac-x64": {
-      url: "https://books-club.cn/desktop-updates/macos/English-Club-0.4.27-x64.dmg",
-      version: "0.4.27",
+      url: "https://download.books-club.cn/desktop-updates/macos/English-Club-0.4.34-x64.dmg",
+      version: "0.4.34",
     },
   };
   await expect(page.locator('input[name="platform"]')).toHaveCount(3);

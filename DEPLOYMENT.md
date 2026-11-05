@@ -1,6 +1,6 @@
 # 线上部署信息
 
-最后核实：2026-11-04。继续部署时，先查阅本文件并通过 SSH 确认服务器的实际状态；下面的版本号是本次发布记录，后续发布后需要更新。
+最后核实：2026-11-05。继续部署时，先查阅本文件并通过 SSH 确认服务器的实际状态；下面的版本号是本次发布记录，后续发布后需要更新。
 
 ## 站点与当前版本
 
@@ -16,9 +16,9 @@
 | 学习交流群 | <https://english.tlpy8.com/#community> |
 | GitHub 仓库 | <https://github.com/haimingyue/english-again> |
 | 发布分支 | `main` |
-| 当前线上源码 | `9436d6c0959026269ad37cd8df1cea61138fa8fa` 加之前已上线的页面、指南与资源更新；本次替换用户最终提供的语法、句子牌组，新增《小王子》Day 07 和 Day 08，并同步集数、卡片数、文件大小及下载缓存版本。这些已上线代码与资源已于 2026-11-05 整理提交至 `main`；发布时的源码快照与文件哈希保存在服务器备份目录 |
-| 当前发布目录 | `/var/www/english-again/releases/decks-prince-20261104` |
-| 上一版（可回滚） | `/var/www/english-again/releases/resources-guides-20261025` |
+| 当前线上源码 | `59da5f80bc7d1d7abad11d27c0f2436cd860db81` 加本次下载改动：三份正式 0.4.34 安装包经 `download.books-club.cn` 分发，下载配置、首屏和 FAQ 版本同步为 0.4.34；本次下载改动与本文一并提交至 `main`，精确补丁和源码快照已随发布记录保存 |
+| 当前发布目录 | `/var/www/english-again/releases/downloads-0.4.34-cdn-20261105-59da5f8` |
+| 上一版（可回滚） | `/var/www/english-again/releases/downloads-cdn-20261105-59da5f8` |
 
 公众网站采用 Nuxt 静态生成，Nginx 提供 `.output/public/` 中的文件。访问管理后台由同机 Python/Gunicorn 服务和 SQLite 数据库提供，入口为 <https://english.tlpy8.com/admin/>。服务器无需 Node、PM2 或 Docker。详见 [后台说明](backend/README.md)。
 
@@ -63,7 +63,7 @@ ssh -i '/Users/simoon/Desktop/project/英语自学指北/_simoonqian2c2g.pem' \
 
 ```bash
 readlink -f /var/www/english-again/current
-cat /var/backups/english-again/decks-prince-20261104.release
+cat /var/backups/english-again/downloads-0.4.34-cdn-20261105-59da5f8.release
 ```
 
 第二条命令读取当前发布记录；后续发布应读取对应版本的 `.release` 文件。
@@ -89,6 +89,25 @@ cat /var/backups/english-again/decks-prince-20261104.release
 6. 至少保留最近两版；在 `/var/backups/english-again/` 保存 `<版本号>.sha256`、`<版本号>.previous` 和 `<版本号>.release`，并更新本文件的日期、提交和发布目录。
 
 Nginx 配置、证书续期和通用发布说明见 [deploy/README.md](deploy/README.md)。
+
+## 正式 0.4.34 安装包与官网同步（2026-11-05）
+
+- 按用户确认，将 Windows x64、macOS Apple 芯片 ARM64 和 macOS Intel x64 三份正式 0.4.34 安装包上传至私有 `book-club-downloads`，官网三个选项统一使用 `https://download.books-club.cn/desktop-updates/` 下的对应文件。下载配置、首屏文案、FAQ 和精确链接断言同步为 0.4.34；客户端更新源未改动，未重新打包或执行安装程序。
+- 本地原件与正式 Windows/macOS 更新清单的大小和 SHA-512 一致；三份 CDN 完整下载再次匹配 SHA-512、SHA-256，首尾 Range 返回 206 且内容一致。单一本机网络完整下载约 3.8–5.1 MB/s，不代表全部网络或设备。原件、原站安装包与旧 CDN 文件保留。
+- 复用源码和锁文件未变的 21 项平台/链接断言及 2 项统计测试结果；本次执行一次 Nuxt 静态生成，16 条路由及 1580 个本地引用检查通过。303 份候选文件的哈希、0755/0644 权限及 Nginx 用户可读性通过，媒体资源内容未变，保留 130 份旧 `_nuxt` 文件。
+- 发布到 `downloads-0.4.34-cdn-20261105-59da5f8`，仅切换静态目录。首次公网验收遇到 TLS 握手超时，自动恢复上一版；连接复查通过后复用同一候选产物重新启用，最终公网验收无重试通过。服务器及公网各 31 个页面/旧地址同哈希，新 JS、三个 CDN 地址、六套 Anki 下载 HEAD、音频 HEAD、404、HTTP 跳转与后台健康检查通过。Chrome 实际切换三个平台后均显示对应 0.4.34 CDN 地址，首屏和 FAQ 也显示 0.4.34。
+- 发布资料前缀为 `/var/backups/english-again/downloads-0.4.34-cdn-20261105-59da5f8`，保留 `.release`、`.sha256`、`.patch`、`-source.tar.gz`、`.previous`、`.validation.json`、`.browser.json` 与 `.cdn.json`。回滚命令：`python3 /var/backups/english-again/downloads-0.4.34-cdn-20261105-59da5f8-rollback.py`；执行前会核实当前版本和关键配置未漂移。
+- 本地证据位于 Book Club 工作区的 `output/download-cdn-0.4.34-20261105/`。上传暂存使用原件的三个硬链接，验收后移除暂存链接，正式原件继续保留，不将其逻辑大小计作释放空间。未验证真实安装、升级或设备兼容性。
+
+## OSS + CDN 下载迁移（2026-11-05，历史，已由 0.4.34 替代）
+
+- 官网三个 0.4.27 下载选项已改为 `https://download.books-club.cn/desktop-updates/` 下的原文件路径。Windows x64、macOS ARM64 与 macOS x64 的版本、文件名和安装包内容不变；没有修改客户端更新源，没有重新打包或执行安装程序。
+- 安装包存于上海私有 Bucket `book-club-downloads`，由 CDN 同账号授权回源；启用 HTTPS、HTTP/2、512 KB Range 回源。版本文件缓存一年；更新清单类 `yml,yaml,json` 不缓存。每日 10 GB 用量封顶已启用，达到阈值会影响下载，且存在计量和执行延迟，不能当成精确账单上限。下载证书到期时间为 2027-02-03 07:59:59，续签后须确认 CDN 部署成功。
+- 三份原站完整文件与 CDN 完整下载 SHA-256 一致，各包首尾 Range 返回 206 且内容一致。单一本机网络整包下载约 2.8–4.9 MB/s，原站约 0.68 MB/s；不代表所有运营商或设备的速度，也没有验证安装兼容性。
+- 本地 21 项平台/链接断言与 2 项下载统计测试通过；只执行一次 Nuxt 静态生成，16 条路由及 1580 个本地引用检查通过。发布前确认旧版实际文件与记录一致，303 份候选文件同哈希、0755/0644 权限且 Nginx 用户可读，全部媒体资源内容未变；保留 127 份旧 `_nuxt` 文件。
+- 原子切换到 `downloads-cdn-20261105-59da5f8`；仅变更静态发布目录，无 Nginx 配置、证书、后台或数据库变更及服务重启。服务器和公网各 31 个页面/旧地址同哈希；公网新 JS、3 个 CDN 链接、6 套 Anki 下载 HEAD、音频 HEAD、404、HTTP 跳转及后台健康检查通过。Chrome 中三个版本选项实际显示对应 CDN 地址；未执行安装程序。
+- 发布文件位于 `/var/backups/english-again/downloads-cdn-20261105-59da5f8.release`，同名前缀的 `.sha256`、`.patch`、`-source.tar.gz`、`.previous` 一并保留。回滚命令为 `python3 /var/backups/english-again/downloads-cdn-20261105-59da5f8-rollback.py`：检查当前目录和关键 Nginx 配置是否漂移后，原子恢复上一版。
+- 本地验证记录位于 Book Club 工作区的 `output/download-cdn-20261105/`。旧原站安装包和上一版网站保留；两份合成探针、相应 CDN 缓存及本次本地迁移暂存已清理。
 
 ## 阅读页发布与回滚记录（2026-10-07，历史）
 

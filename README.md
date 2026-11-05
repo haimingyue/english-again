@@ -53,7 +53,7 @@ docs/             开发和迁移说明
 - 页面正文在 `app/pages/`；重复交互在 `app/components/`。
 - 使用指南目录在 `/guides`，已发布教程信息集中在 `app/data/guides.ts`，各期正文在 `app/pages/guides/`。三期已完结：Anki 安装与同步、美式音标练习、从单词走向阅读与观影。配套资源页在 `/resources`，首页展示三个学习群二维码；维护方法见 [Nuxt 开发说明](docs/nuxt-development.md)。
 - 47 个视频条目集中在 `app/data/series.ts`，首页和专栏共用。
-- 软件下载状态在 `app/data/downloads.json`。只有 `status: "published"` 且 URL 合法时启用真实下载；当前提供 Windows x64、macOS ARM64 与 macOS x64 0.4.27 安装包，不提供 Windows 32 位版。
+- 软件下载状态在 `app/data/downloads.json`。只有 `status: "published"` 且 URL 合法时启用真实下载；当前提供 Windows x64、macOS ARM64 与 macOS x64 0.4.34 安装包，经 `download.books-club.cn` CDN 分发，不提供 Windows 32 位版。
 - `npm run generate` 后部署整个 `.output/public/`，保留子目录结构。16 个无扩展名路由和旧 `.html` 路径均预渲染；无需 Node 服务。
 - 原型独立预览：`python3 scripts/serve.py --port 4176`。
 - 原始素材完整性验证：`python3 scripts/check_project.py`。
