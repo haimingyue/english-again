@@ -1,6 +1,6 @@
 # 线上部署信息
 
-最后核实：2026-11-05。继续部署时，先查阅本文件并通过 SSH 确认服务器的实际状态；下面的版本号是本次发布记录，后续发布后需要更新。
+最后核实：2026-11-08。继续部署时，先查阅本文件并通过 SSH 确认服务器的实际状态；下面的版本号是本次发布记录，后续发布后需要更新。
 
 ## 站点与当前版本
 
@@ -16,9 +16,9 @@
 | 学习交流群 | <https://english.tlpy8.com/#community> |
 | GitHub 仓库 | <https://github.com/haimingyue/english-again> |
 | 发布分支 | `main` |
-| 当前线上源码 | `59da5f80bc7d1d7abad11d27c0f2436cd860db81` 加本次下载改动：三份正式 0.4.34 安装包经 `download.books-club.cn` 分发，下载配置、首屏和 FAQ 版本同步为 0.4.34；本次下载改动与本文一并提交至 `main`，精确补丁和源码快照已随发布记录保存 |
-| 当前发布目录 | `/var/www/english-again/releases/downloads-0.4.34-cdn-20261105-59da5f8` |
-| 上一版（可回滚） | `/var/www/english-again/releases/downloads-cdn-20261105-59da5f8` |
+| 当前线上源码 | `7cbb94a` 加本次 1.0.0 下载更新；仅下载配置、首屏/FAQ 版本和对应测试预期变更，源码补丁与快照保存在本次发布记录中 |
+| 当前发布目录 | `/var/www/english-again/releases/downloads-1.0.0-20261108-7cbb94a` |
+| 上一版（可回滚） | `/var/www/english-again/releases/downloads-0.4.34-cdn-20261105-59da5f8` |
 
 公众网站采用 Nuxt 静态生成，Nginx 提供 `.output/public/` 中的文件。访问管理后台由同机 Python/Gunicorn 服务和 SQLite 数据库提供，入口为 <https://english.tlpy8.com/admin/>。服务器无需 Node、PM2 或 Docker。详见 [后台说明](backend/README.md)。
 
@@ -63,7 +63,7 @@ ssh -i '/Users/simoon/Desktop/project/英语自学指北/_simoonqian2c2g.pem' \
 
 ```bash
 readlink -f /var/www/english-again/current
-cat /var/backups/english-again/downloads-0.4.34-cdn-20261105-59da5f8.release
+cat /var/backups/english-again/downloads-1.0.0-20261108-7cbb94a.release
 ```
 
 第二条命令读取当前发布记录；后续发布应读取对应版本的 `.release` 文件。
@@ -89,6 +89,14 @@ cat /var/backups/english-again/downloads-0.4.34-cdn-20261105-59da5f8.release
 6. 至少保留最近两版；在 `/var/backups/english-again/` 保存 `<版本号>.sha256`、`<版本号>.previous` 和 `<版本号>.release`，并更新本文件的日期、提交和发布目录。
 
 Nginx 配置、证书续期和通用发布说明见 [deploy/README.md](deploy/README.md)。
+
+## 官网下载更新至 1.0.0（2026-11-08）
+
+- Windows x64、macOS Apple 芯片和 Intel 下载入口、首屏与 FAQ 统一更新至 1.0.0。Windows 指向 `windows/x64/builds/0a59a249e9/English-Club-1.0.0-x64.exe`，Mac 指向 `macos/English-Club-1.0.0-{arm64,x64}.dmg`；均使用 `https://download.books-club.cn/desktop-updates/`。复用已发布安装包，不重新打包、不修改客户端更新清单。
+- 7 项单元测试、一次 Nuxt 静态生成、16 条路由与旧地址及 1,580 个本地引用检查通过。303 份候选文件通过服务器 SHA-256、0755/0644 权限和 Nginx 用户可读性验证；媒体无改动，保留 133 份旧 Nuxt 文件。
+- 公网 31 个页面/旧地址与构建同哈希，新 JS 的三个精确链接、三个安装包 HEAD 大小与 Range 206、六个 Anki 下载与音频 HEAD、404、HTTP 跳转和后台健康通过。Chrome 现有测试通过，实际操作三平台切换、版本/链接断言及功能页标签和图库键盘交互；未下载执行安装器，不代表设备安装验收。
+- 首轮验收脚本的版本断言笔误触发自动回滚；修正断言并复核同一候选产物后重新激活，最终公网检查无重试通过。仅原子切换静态目录，Nginx 配置与后台服务保持不变。
+- 发布资料前缀 `/var/backups/english-again/downloads-1.0.0-20261108-7cbb94a`；本地证据位于 Book Club 工作区 `output/website-downloads-1.0.0-20261108/`。回滚：`python3 /var/backups/english-again/downloads-1.0.0-20261108-7cbb94a-rollback.py`，执行前核对当前目录和关键配置无漂移。保留上一版页面与所有已发布安装包。
 
 ## 正式 0.4.34 安装包与官网同步（2026-11-05）
 
